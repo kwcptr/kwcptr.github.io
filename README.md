@@ -76,13 +76,13 @@
                                     <font style="vertical-align: inherit;">Healing Power -90% (Heal penalty) </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;M. Atk. +5% </font>
+                                    <font style="vertical-align: inherit;">M. Atk. +5% </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;M. Skill Power +5% </font>
+                                    <font style="vertical-align: inherit;">M. Skill Power +5% </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Speed +5 <br><br>Change</font><span
+                                    <font style="vertical-align: inherit;">Speed +5<br><br>Change</font><span
                                         style="color:rgb(204, 102, 0);"><strong>
                                             <font style="vertical-align: inherit;">heal skill</font>
                                         </strong></span>
