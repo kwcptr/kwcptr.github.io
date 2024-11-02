@@ -6,7 +6,7 @@
             </font>
         </h2>
     </div>
-        <div class="view-body">
+    <div class="view-body">
         <div data-contents-type="text">
             <font style="vertical-align: inherit;">
                 <font style="vertical-align: inherit;">- New and changed skills for the Cardinal class are as follows:
@@ -19,8 +19,8 @@
                     <font style="vertical-align: inherit;">[Heal ↔ Attack Skill Change]</font>
                 </font>
             </strong></div>
-            <br>
-            <div class="tableWrapper">
+        <br>
+        <div class="tableWrapper">
             <table class="">
                 <colgroup>
                     <col>
@@ -91,20 +91,23 @@
                                         style="color:rgb(0, 112, 192);"><strong>
                                             <font style="vertical-align: inherit;">attack skill</font>
                                         </strong></span><span style="color:rgb(204, 102, 0);"><strong>
-                                            <font style="vertical-align: inherit;">&ZeroWidthSpace;<br>Restore Life</font>
+                                            <font style="vertical-align: inherit;">&ZeroWidthSpace;<br>Restore Life
+                                            </font>
                                         </strong></span>
                                     <font style="vertical-align: inherit;"> → </font><span
                                         style="color:rgb(0, 112, 192);"><strong>
                                             <font style="vertical-align: inherit;">Diminish Life </font>
                                         </strong></span><span style="color:rgb(204, 102, 0);"><strong>
-                                            <font style="vertical-align: inherit;">&ZeroWidthSpace;<br>Chain Heal/Shining
+                                            <font style="vertical-align: inherit;">&ZeroWidthSpace;<br>Chain
+                                                Heal/Shining
                                                 Chain Heal</font>
                                         </strong></span>
                                     <font style="vertical-align: inherit;"> → </font><span
                                         style="color:rgb(0, 112, 192);"><strong>
                                             <font style="vertical-align: inherit;">Chain Blast </font>
                                         </strong></span><span style="color:rgb(204, 102, 0);"><strong>
-                                            <font style="vertical-align: inherit;">&ZeroWidthSpace;<br>Shining Ray</font>
+                                            <font style="vertical-align: inherit;">&ZeroWidthSpace;<br>Shining Ray
+                                            </font>
                                         </strong></span>
                                     <font style="vertical-align: inherit;"> → </font><span
                                         style="color:rgb(0, 112, 192);"><strong>
@@ -124,6 +127,47 @@
                                         style="color:rgb(0, 112, 192);"><strong>
                                             <font style="vertical-align: inherit;">Chaos</font>
                                         </strong></span>
+                                </font><br><br><span style="color:rgb(204, 102, 0);">&nbsp;<strong>
+                                        <font style="vertical-align: inherit;"></font>
+                                    </strong></span>
+                                <font style="vertical-align: inherit;"></font><span
+                                    style="color:rgb(0, 112, 192);"><strong>
+                                        <font style="vertical-align: inherit;"></font>
+                                    </strong></span>
+                                <font style="vertical-align: inherit;"></font><br><span
+                                    style="color:rgb(204, 102, 0);"><strong>
+                                        <font style="vertical-align: inherit;"></font>
+                                    </strong></span>
+                                <font style="vertical-align: inherit;"></font><span style="color:rgb(0, 112, 192);">
+                                    <strong>
+                                        <font style="vertical-align: inherit;"></font>
+                                    </strong></span><br><span style="color:rgb(204, 102, 0);"><strong>
+                                        <font style="vertical-align: inherit;"></font>
+                                    </strong></span>
+                                <font style="vertical-align: inherit;"></font><span
+                                    style="color:rgb(0, 112, 192);"><strong>
+                                        <font style="vertical-align: inherit;"></font>
+                                    </strong></span><br><span style="color:rgb(204, 102, 0);"><strong>
+                                        <font style="vertical-align: inherit;"></font>
+                                    </strong> </span>
+                                <font style="vertical-align: inherit;"></font><span
+                                    style="color:rgb(0, 112, 192);"><strong>
+                                        <font style="vertical-align: inherit;"></font>
+                                    </strong></span><br><strong>
+                                    <font style="vertical-align: inherit;"></font>
+                                </strong><span style="color:rgb(204, 102, 0);"><strong>
+                                        <font style="vertical-align: inherit;"></font>
+                                    </strong></span>
+                                <font style="vertical-align: inherit;"></font><span
+                                    style="color:rgb(0, 112, 192);"><strong>
+                                        <font style="vertical-align: inherit;"></font>
+                                    </strong></span><br><span style="color:rgb(204, 102, 0);"><strong>
+                                        <font style="vertical-align: inherit;"></font>
+                                    </strong></span>
+                                <font style="vertical-align: inherit;"></font><span
+                                    style="color:rgb(0, 112, 192);"><strong>
+                                        <font style="vertical-align: inherit;"></font>
+                                    </strong></span>
                             </div>
                         </td>
                     </tr>
