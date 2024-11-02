@@ -134,26 +134,26 @@
                                     style="color:rgb(0, 112, 192);"><strong>
                                         <font style="vertical-align: inherit;"></font>
                                     </strong></span>
-                                <font style="vertical-align: inherit;"></font><br><span
+                                <font style="vertical-align: inherit;"></font><span
                                     style="color:rgb(204, 102, 0);"><strong>
                                         <font style="vertical-align: inherit;"></font>
                                     </strong></span>
                                 <font style="vertical-align: inherit;"></font><span style="color:rgb(0, 112, 192);">
                                     <strong>
                                         <font style="vertical-align: inherit;"></font>
-                                    </strong></span><br><span style="color:rgb(204, 102, 0);"><strong>
+                                    </strong></span><span style="color:rgb(204, 102, 0);"><strong>
                                         <font style="vertical-align: inherit;"></font>
                                     </strong></span>
                                 <font style="vertical-align: inherit;"></font><span
                                     style="color:rgb(0, 112, 192);"><strong>
                                         <font style="vertical-align: inherit;"></font>
-                                    </strong></span><br><span style="color:rgb(204, 102, 0);"><strong>
+                                    </strong></span><span style="color:rgb(204, 102, 0);"><strong>
                                         <font style="vertical-align: inherit;"></font>
                                     </strong> </span>
                                 <font style="vertical-align: inherit;"></font><span
                                     style="color:rgb(0, 112, 192);"><strong>
                                         <font style="vertical-align: inherit;"></font>
-                                    </strong></span><br><strong>
+                                    </strong></span><strong>
                                     <font style="vertical-align: inherit;"></font>
                                 </strong><span style="color:rgb(204, 102, 0);"><strong>
                                         <font style="vertical-align: inherit;"></font>
