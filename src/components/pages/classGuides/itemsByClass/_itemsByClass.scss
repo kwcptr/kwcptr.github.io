@@ -1,0 +1,121 @@
+.container__items {
+    max-width: 66vw;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    text-align: center;
+    margin-bottom: 3em;
+    .items__dyes, .items__bGrade, .items__aGrade {
+        width: 16em;
+        min-width: max-content;
+        border-radius: 2%;
+    }
+    .dyes__list, .bGrade__list, .aGrade__list {
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+    }
+    .dyes, .list__weapons, .list__armors {
+        display: flex;
+        padding: 0.75em;
+        align-items: center;
+        background-color: rgba(255, 255, 255, 0.8);
+        position: relative;
+        border-radius: 3%;
+        figcaption {
+            font-weight: 500;
+/*             &:hover {
+                color: $hover-DColor;
+            } */
+        }
+    }
+    .item__info {
+        display: flex;
+        flex-direction: column;
+        margin-left: 0.75em;
+        align-items: flex-start;
+        transition: color 0.15s;
+        cursor: help;
+        &:hover {
+            color: $hover-DColor;
+        }
+    }
+    h3 {
+        margin: 0 auto 1em;
+        font-size: 1.3em;
+        font-weight: bold;
+        color: $third-DColor;
+        text-shadow: 0.075em 0.075em $bg-DColor;
+
+    }
+    img {
+        width: 3em;
+        border-radius: 9%;
+        cursor: help;
+    }
+}
+
+
+
+
+.border_bottom {
+    border-bottom: 0.1em solid $bg-DColor;
+}
+
+.tooltip {
+    position: absolute;
+    margin-left: 1em;
+    margin-top: 1.5em;
+    background: $bg-LScndColor;
+    height: max-content;
+    padding: 0.75em;
+    min-width: 15em;
+    max-width: max-content;
+    font-size: 0.9em;
+    box-shadow: 0 0 0.3em $main-DColor;
+    transition: color 0.15s;
+    .item__main {
+        display: flex;
+        gap: 1em;
+        margin-bottom: 0.5em;
+        .main__img {
+            width: 3em;
+            border-radius: 5%;
+        }
+        .main__info {
+            display: flex;
+            flex-direction: column;
+            h3 {
+                font-weight: 500;
+                font-size: 1.1em;
+            }
+        }
+    }
+    .item__desc {
+        display: flex;
+        margin-bottom: 0.25em;
+        .desc__img {
+            width: 1.5em;
+            border-radius: 5%;
+            margin-right: 0.25em;
+        }
+    }
+    .desc__img2 {
+        max-width: 512px;
+        max-height: 33px;
+    }
+    .desc__img3 {
+        max-width: 512px;
+        max-height: 37px;
+    }
+}
+
+.last_classes {
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+}
+
+.item__info {
+    position: relative;
+}

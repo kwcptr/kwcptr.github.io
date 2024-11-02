@@ -1,0 +1,15 @@
+.section__new {
+    display: grid;
+    justify-content: center;
+    min-height: max-content;
+    text-align: center;
+    min-height: 100vh;
+    background: {
+        image: url(./img/newsBg.png);
+        color: #d6d2d2;
+        repeat: no-repeat;
+        size: cover;
+        attachment: fixed;
+    }
+}
+
