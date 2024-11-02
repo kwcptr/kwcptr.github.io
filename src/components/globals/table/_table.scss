@@ -1,0 +1,37 @@
+
+.table__th {
+    padding: 0 0.5em;
+    border-bottom: 0.1em solid $bg-DColor;
+    border-right: 0.1em solid $bg-DColor;
+    background: rgb(150 57 0 / 90%);
+    color: $scnd-DColor;
+    font-weight: normal;
+    &:last-child {
+        border-right: none;
+    }
+}
+
+.table__body {
+    text-align: center;
+    .table__tr {
+        border-bottom: 0.1em solid $bg-DColor;
+       
+        background: rgba(241, 220, 210, 0.9);
+        &:nth-child(2n) {
+            background: rgba(247, 206, 183, 0.9);
+        }
+        &:last-child {
+            border-bottom: none;
+        }
+        .table__td {
+            border-right: 0.1em solid $bg-DColor;
+            padding: 0 0.25em;
+
+            &:last-child {
+                border-right: none;
+            }
+        }
+    }
+}
+
+

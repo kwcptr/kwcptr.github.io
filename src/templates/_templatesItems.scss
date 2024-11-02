@@ -1,0 +1,63 @@
+.table__container {
+    display: grid;
+    grid-template-columns: repeat(7, auto);
+    place-content: center;
+    gap: 0.2em;
+    width: max-content;
+    margin: auto;
+    .container__subTable {
+        display: grid;
+        border: 0.1em solid $bg-DColor;
+    }
+    .subTitle {
+        text-align: center;
+        outline: 0.1em solid $bg-DColor;
+        background-color: rgb(150 57 0 / 90%);
+        font-weight: bold;
+        color:  $scnd-DColor;
+        border-bottom: 0.1em solid $bg-DColor;
+    }
+    .type__col {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(auto, 1fr));
+        text-align: center;
+        outline: 0.1em solid $bg-DColor;
+        background-color: rgb(150 57 0 / 90%);
+        color: $scnd-DColor;
+        align-content: center;
+        .col__stats {
+            padding: 0 0.5em;
+            border-right: 0.1em solid $bg-DColor;
+            &:last-child {
+                border-right: none;
+            }
+        }
+    }
+    .type__col2 {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(auto, 1fr));
+        text-align: center;
+        outline: 0.1em solid $bg-DColor;
+        background-color: rgb(150 57 0 / 90%);
+        color: $scnd-DColor;
+        border-bottom: 0.1em solid $bg-DColor;
+        align-content: center;
+        .col__stats {
+            padding: 0 0.5em;
+            border-right: 0.1em solid $bg-DColor;
+            &:last-child {
+                border-right: none;
+            }
+        }
+    }
+}
+
+.contain {
+    width: 80vw;
+    overflow-x: auto;
+    margin: 1em auto;
+}
+
+.fx-top {
+    margin-top: $heightNav;
+}

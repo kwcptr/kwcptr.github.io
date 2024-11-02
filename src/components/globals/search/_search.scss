@@ -1,0 +1,124 @@
+.container__search {
+    position: relative;
+    left: -1.5em; 
+    .input__container {
+        width: 16.3em;
+        height: 1.8em;
+        background-color: transparent;
+        display: flex;
+        :focus-visible {
+            outline: none;
+            border: none;
+        }
+        .input__search {
+            border: 0.1em solid $scnd-DColor;
+            border-top-left-radius: 2rem;
+            border-bottom-left-radius: 2rem;
+            color: $scnd-DColor; 
+            font-weight: 400;
+            position: relative;
+            width: 16.3em;
+            input {
+                width: 14em;
+                border: none;
+                text-align: center;
+            }
+            &::placeholder {
+                color: $scnd-DColor;
+                font-weight: 400;
+            }
+        }
+        .input__btn {
+            background-color: $scnd-DColor;
+            width: 2.5em;
+            border-top-right-radius: 25%;
+            border-bottom-right-radius: 25%;
+            border-top-right-radius: 2rem;
+            border-bottom-right-radius: 2rem;
+            cursor: pointer;
+            display: grid;
+            place-content: center;
+        }
+    }
+}
+
+.rs-picker-menu {
+    position: absolute;
+    cursor: pointer;
+    z-index: 500;
+    top: $heightNav;
+    background-color: #2a1212;
+    color: $scnd-DColor;
+    padding: 0.5em;
+    overflow: scroll;
+    span {
+        
+            &:hover {
+                color: $hover-DColor;
+            }
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+// .search__input {
+//     width: 23em;
+//     height: 3em;
+//     border-bottom-left-radius: 0.6em;
+//     border-top-left-radius: 0.6em;
+//     background-color: #ecf0fa;
+//     border: 0.15em solid $scnd-DColor;
+//     color: $scnd-DColor;
+//     font-weight: 600;
+//     text-align: center;
+//     &::placeholder {
+//        color: $scnd-DColor;
+//        font-weight: 600;
+//     }
+//     &:focus-visible {
+//        outline: none;
+//     }
+// }
+// .search__btn {
+//     position: absolute;
+//     width: 3em;
+//     right: -3em;
+//     bottom: 0;
+//     background-color: $bg-DScndColor;
+//     height: 100%;
+//     border-bottom-right-radius: 0.6em;
+//     border-top-right-radius: 0.6em;
+//     cursor: pointer;
+//     display: grid;
+//     place-content: center;
+//     .search__icon {
+//         left: -0.12em;  
+//         position: relative;
+//         color: #757f93;
+//         font-size: 1.3em;
+//     }
+// }
+
+// .nav {
+//     .search__btn {
+//         position: absolute;
+//         width: 2em;
+//         right: -2em;
+//         background-color: $scnd-DColor;
+//         .search__icon {
+//             left: -0.12em;
+//             color: $bg-LColor;
+//             font-size: 0.9em;
+//         }
+//     }
+// }

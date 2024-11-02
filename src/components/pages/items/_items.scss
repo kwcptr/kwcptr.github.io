@@ -1,0 +1,13 @@
+.section__items {
+    display: grid;
+    place-content: center;
+    height: 100vh;
+    position: relative;
+    background: {
+        image: url('./img/itemsBg.png');
+        color: #d6d2d2;
+        repeat: no-repeat;
+        size: cover;
+        attachment: fixed;
+    }
+}

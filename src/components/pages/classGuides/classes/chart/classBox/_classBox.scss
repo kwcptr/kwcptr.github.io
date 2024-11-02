@@ -1,0 +1,30 @@
+.class__btn {
+    display: flex;
+    flex-direction: column;
+    background: rgba(150, 57, 0, 0.60);
+    color: white;
+    gap: 0.05em;
+    padding: 0.3em;
+    padding-right: 0.6em;
+    width: auto;
+    cursor: pointer;
+    border-radius: 3%;
+    height: max-content;
+    transition-property: color, background-color;
+    transition-duration: 0.15s;
+    font-weight: 600;
+&:hover {
+        background: rgba(150, 57, 0, 0.9);
+        color: rgb(255, 255, 255);
+    }
+    .class__names {
+        display: flex;
+        align-items:center;
+        gap: 0.5em;
+        text-shadow: 0.075em 0.075em $bg-DColor;
+        img {
+            max-width: 31px;
+            max-height: 33px;
+        }
+    }
+}

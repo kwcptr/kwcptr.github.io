@@ -1,0 +1,32 @@
+.section__classGuides {
+    background: {
+        image: url(./img/classGuides.png);
+        repeat: no-repeat;
+        color: #999999;
+        size: cover;
+        attachment: fixed;
+    }
+    display: grid;
+    justify-content: center;
+    min-height: max-content;
+    text-align: center;
+    min-height: 100vh;
+    h2 {
+        display: flex;
+        align-items:center;
+        gap: 0.3em;
+        font-size: 2em;
+        font-weight: bold;
+        color: rgb(255, 255, 255);
+        text-shadow: 0.075em 0.075em $bg-DColor;
+        margin: 1em auto;
+        img {
+            width: 1.75em;
+            box-shadow: 0.075em 0.075em $bg-DColor;
+        }
+    }
+    .items__list {
+        display: flex;
+        flex-direction: column;
+    }
+}

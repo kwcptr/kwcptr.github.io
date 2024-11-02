@@ -1,0 +1,105 @@
+.navigation {
+    height: $heightNav; 
+    background: {
+        color: $bg-DColor;
+        image: url(./img/navBg.png);
+        repeat: no-repeat;
+        size: cover;
+    };
+    position: fixed;
+    z-index: 100;
+    left: 0;
+    right: 0;
+    text-transform: uppercase; 
+    &__container {
+        width: 80%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        margin: auto;
+        gap: 22.75em;
+        justify-content: space-between;
+        .container__menu {
+            height: $heightNav;
+            .menu__list {
+                height: inherit;
+                align-items: center;
+                display: flex;
+                gap: 2.25em;
+                a {   
+                    color: $scnd-DColor;
+                    transition-property: color;
+                    transition-duration: 0.15s;
+                        &:hover {
+                        color: $hover-DColor;
+                    }
+                }
+            }
+        }
+        .container__logo {
+            opacity: 85%;
+            width: 3em;
+            position: relative;
+            left: -1.75em;
+            a {
+                cursor: pointer;
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Modificaciones a los componentes RSUITE.
+// .nav__items {
+//     color: $scnd-DColor;
+//     background: transparent;
+//     position: relative;
+//     .rs-btn {
+//         display: flex;
+//         align-items: center;
+//         justify-content: center;
+//         gap: 0.25em;
+//         width: 3.9em;
+//         cursor: pointer;
+//         text-transform: uppercase;
+//     }
+//     div {
+//         display: flex;
+//     }
+//    .items__weapon {
+//         position: absolute;
+//         top: 0;
+//         width: max-content;
+//         height: max-content;
+//         display: flex;
+//         flex-direction: column;
+//         ul {
+//             display: flex;
+//             position: relative;
+//             left: 5em;
+//         }
+//    }
+// 
+// }
