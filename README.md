@@ -9,18 +9,6 @@
         <div class="view-body">
         <div data-contents-type="text">
             <font style="vertical-align: inherit;">
-                <font style="vertical-align: inherit;">1. Cardinal class update has been performed.</font>
-            </font>
-        </div>
-        <div data-contents-type="text">
-            <font style="vertical-align: inherit;">
-                <font style="vertical-align: inherit;">- While strengthening the capabilities of the existing healer of
-                    the Cardinal class, we added a concept to allow for a more aggressive role by using the 'Eclipse'
-                    skill.</font>
-            </font>
-        </div>
-        <div data-contents-type="text">
-            <font style="vertical-align: inherit;">
                 <font style="vertical-align: inherit;">- New and changed skills for the Cardinal class are as follows:
                 </font>
             </font>
@@ -28,7 +16,7 @@
         <br>
         <div data-contents-type="text"><strong>
                 <font style="vertical-align: inherit;">
-                    <font style="vertical-align: inherit;">[Heal ↔ Attack Change Skill]</font>
+                    <font style="vertical-align: inherit;">[Heal ↔ Attack Skill Change]</font>
                 </font>
             </strong></div>
             <br>
@@ -53,7 +41,7 @@
                             <div data-contents-type="text" style="text-align: center;"><span
                                     style="color:rgb(255, 255, 255);"><strong>
                                         <font style="vertical-align: inherit;">
-                                            <font style="vertical-align: inherit;">Haste</font>
+                                            <font style="vertical-align: inherit;">Grade</font>
                                         </font>
                                     </strong></span></div>
                         </td>
@@ -61,7 +49,7 @@
                             <div data-contents-type="text" style="text-align: center;"><span
                                     style="color:rgb(255, 255, 255);"><strong>
                                         <font style="vertical-align: inherit;">
-                                            <font style="vertical-align: inherit;">effect</font>
+                                            <font style="vertical-align: inherit;">Effect</font>
                                         </font>
                                     </strong></span></div>
                         </td>
@@ -85,52 +73,52 @@
                         <td style="padding: 4px 8px;">
                             <div data-contents-type="text" style="text-align: center;">
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">Heal amount given -90% (Heal penalty) </font>
+                                    <font style="vertical-align: inherit;">Healing Power -90% (Heal penalty) </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Magic power +5% </font>
+                                    <font style="vertical-align: inherit;">&nbsp;M. Atk. +5% </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Magic skill power +5% </font>
+                                    <font style="vertical-align: inherit;">&nbsp;M. Skill Power +5% </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Movement speed +5 Change </font><span
+                                    <font style="vertical-align: inherit;">&nbsp;Speed +5 <br><br>Change</font><span
                                         style="color:rgb(204, 102, 0);"><strong>
                                             <font style="vertical-align: inherit;">heal skill</font>
                                         </strong></span>
-                                    <font style="vertical-align: inherit;"> to </font>
-                                    <font style="vertical-align: inherit;">attack </font><span
+                                    <font style="vertical-align: inherit;">to</font>
+                                    <font style="vertical-align: inherit;"> </font><span
                                         style="color:rgb(0, 112, 192);"><strong>
-                                            <font style="vertical-align: inherit;">skill </font>
+                                            <font style="vertical-align: inherit;">attack skill</font>
                                         </strong></span><span style="color:rgb(204, 102, 0);"><strong>
-                                            <font style="vertical-align: inherit;">&ZeroWidthSpace;Restore Life</font>
+                                            <font style="vertical-align: inherit;">&ZeroWidthSpace;<br>Restore Life</font>
                                         </strong></span>
                                     <font style="vertical-align: inherit;"> → </font><span
                                         style="color:rgb(0, 112, 192);"><strong>
                                             <font style="vertical-align: inherit;">Diminish Life </font>
                                         </strong></span><span style="color:rgb(204, 102, 0);"><strong>
-                                            <font style="vertical-align: inherit;">&ZeroWidthSpace;Chain Heal/Shining
+                                            <font style="vertical-align: inherit;">&ZeroWidthSpace;<br>Chain Heal/Shining
                                                 Chain Heal</font>
                                         </strong></span>
                                     <font style="vertical-align: inherit;"> → </font><span
                                         style="color:rgb(0, 112, 192);"><strong>
                                             <font style="vertical-align: inherit;">Chain Blast </font>
                                         </strong></span><span style="color:rgb(204, 102, 0);"><strong>
-                                            <font style="vertical-align: inherit;">&ZeroWidthSpace;Shining Ray</font>
+                                            <font style="vertical-align: inherit;">&ZeroWidthSpace;<br>Shining Ray</font>
                                         </strong></span>
                                     <font style="vertical-align: inherit;"> → </font><span
                                         style="color:rgb(0, 112, 192);"><strong>
                                             <font style="vertical-align: inherit;">Abyss Ray</font>
                                         </strong></span><strong>
-                                        <font style="vertical-align: inherit;"> &ZeroWidthSpace;Balanced</font>
+                                        <font style="vertical-align: inherit;"> &ZeroWidthSpace;<br></font>
                                     </strong><span style="color:rgb(204, 102, 0);"><strong>
-                                            <font style="vertical-align: inherit;"> Body</font>
+                                            <font style="vertical-align: inherit;">Balanced Body</font>
                                         </strong></span>
                                     <font style="vertical-align: inherit;"> → </font><span
                                         style="color:rgb(0, 112, 192);"><strong>
                                             <font style="vertical-align: inherit;">Darkness Fall </font>
                                         </strong></span><span style="color:rgb(204, 102, 0);"><strong>
-                                            <font style="vertical-align: inherit;">&ZeroWidthSpace;Serenity</font>
+                                            <font style="vertical-align: inherit;">&ZeroWidthSpace;<br>Serenity</font>
                                         </strong></span>
                                     <font style="vertical-align: inherit;"> → </font><span
                                         style="color:rgb(0, 112, 192);"><strong>
@@ -199,16 +187,16 @@
                         <td style="padding: 4px 8px;">
                             <div data-contents-type="text" style="text-align: center;">
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">Heal amount given -90% (Heal penalty) </font>
+                                    <font style="vertical-align: inherit;">Healing Power -90% (Heal penalty) </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Magic power +15% </font>
+                                    <font style="vertical-align: inherit;">&nbsp;M. Atk. +15% </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Magic skill power +10% </font>
+                                    <font style="vertical-align: inherit;">&nbsp;M. Skill Power +10% </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Movement speed +10 </font>
+                                    <font style="vertical-align: inherit;">&nbsp;Speed +10 </font>
                                 </font><br>&nbsp;<br>
                                 <font style="vertical-align: inherit;">
                                     <font style="vertical-align: inherit;">&nbsp;When using an attack skill, there is a
@@ -485,7 +473,7 @@
                                         your party members during the duration: </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Magic Resistance +1200 </font>
+                                    <font style="vertical-align: inherit;">&nbsp;M. Def. +1200 </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
                                     <font style="vertical-align: inherit;">&nbsp;Max HP +6000 </font>
@@ -541,7 +529,7 @@
                                     </font>
                                 </font><br><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Rust: Attack power/magic power -20%
+                                    <font style="vertical-align: inherit;">&nbsp;Rust: Attack power/M. Atk. -20%
                                     </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
@@ -605,7 +593,7 @@
                                     </font>
                                 </font><br><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Rust: Attack power/magic power -50%
+                                    <font style="vertical-align: inherit;">&nbsp;Rust: Attack power/M. Atk. -50%
                                     </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
@@ -1171,31 +1159,31 @@
                                     </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Magic power +15% → Removed </font>
+                                    <font style="vertical-align: inherit;">&nbsp;M. Atk. +15% → Removed </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Magic speed +30% </font>
+                                    <font style="vertical-align: inherit;">&nbsp;Casting Spd. +30% </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Magic skill critical chance +50% → +20%
+                                    <font style="vertical-align: inherit;">&nbsp;M. Skill Critical Rate +50% → +20%
                                     </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Magic skill MP consumption -80% → -30%
+                                    <font style="vertical-align: inherit;">&nbsp;M. Skill MP Consumption -80% → -30%
                                     </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Granted healing amount +500 </font>
+                                    <font style="vertical-align: inherit;">&nbsp;Healing Power +500 </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Received healing amount +30% Additional
+                                    <font style="vertical-align: inherit;">&nbsp;Received Healing +30% Additional
                                     </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;movement speed +30 </font>
+                                    <font style="vertical-align: inherit;">&nbsp;Speed +30 </font>
                                 </font><br><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">Additional consumption of 10 magic stones
+                                    <font style="vertical-align: inherit;">Additional consumption of 10 Spirit Ore
                                     </font>
                                 </font>
                             </div>
@@ -1243,17 +1231,17 @@
                                         effects increase: </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Magic power +2% ~ +5% / +500 ~ +1000
+                                    <font style="vertical-align: inherit;">&nbsp;M. Atk. +2% ~ +5% / +500 ~ +1000
                                     </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Magic skill power +1% ~ +5% </font>
+                                    <font style="vertical-align: inherit;">&nbsp;M. Skill Power +1% ~ +5% </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Magic resistance +300 ~ +500 </font>
+                                    <font style="vertical-align: inherit;">&nbsp;M. Def. +300 ~ +500 </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Movement speed +5 ~ +10</font>
+                                    <font style="vertical-align: inherit;">&nbsp;Speed +5 ~ +10</font>
                                 </font>
                             </div>
                         </td>
@@ -1280,7 +1268,7 @@
                                         activation effect removed </font>
                                 </font><br><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Magic power +100 → +600 </font>
+                                    <font style="vertical-align: inherit;">&nbsp;M. Atk. +100 → +600 </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
                                     <font style="vertical-align: inherit;">&nbsp;Magic skill critical damage +5% </font>
@@ -1311,7 +1299,7 @@
                             </div>
                             <div data-contents-type="text" style="text-align: center;">
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">Movement speed +5</font>
+                                    <font style="vertical-align: inherit;">Speed +5</font>
                                 </font>
                             </div>
                             <div data-contents-type="text" style="text-align: center;">
@@ -1326,7 +1314,7 @@
                             </div>
                             <div data-contents-type="text" style="text-align: center;">
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">Movement speed +10 </font>
+                                    <font style="vertical-align: inherit;">Speed +10 </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
                                     <font style="vertical-align: inherit;">&nbsp;Restore Life Lv5 Additional recovery
@@ -1412,7 +1400,7 @@
                                         existing effects: </font>
                                 </font><br><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">Magic power + increase amount deleted.
+                                    <font style="vertical-align: inherit;">M. Atk. + increase amount deleted.
                                     </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
@@ -1492,7 +1480,7 @@
                                         Ray' to 'Shining Ray' </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Magic Power +500 </font>
+                                    <font style="vertical-align: inherit;">&nbsp;M. Atk. +500 </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
                                     <font style="vertical-align: inherit;">&nbsp;Additional </font>
@@ -1502,15 +1490,15 @@
                                         given (same as before up to +3 enchantment section) </font>
                                 </font><br><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;+1: Increase magic power + / Additional
+                                    <font style="vertical-align: inherit;">&nbsp;+1: Increase M. Atk. + / Additional
                                         damage given to PVE / Increased healing amount given </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;+2: Increase magic power + / Additional
+                                    <font style="vertical-align: inherit;">&nbsp;+2: Increase M. Atk. + / Additional
                                         damage given to PVE / Increased healing amount given </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;+2: Increase magic power + / Additional
+                                    <font style="vertical-align: inherit;">&nbsp;+2: Increase M. Atk. + / Additional
                                         damage given to PVE / Increased healing amount given</font>
                                 </font>
                             </div>
@@ -1559,20 +1547,20 @@
                             </div>
                             <div data-contents-type="text" style="text-align: center;">
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">Magic Power +10% Deleted </font>
+                                    <font style="vertical-align: inherit;">M. Atk. +10% Deleted </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Magic Skill Critical Chance +50% → +15%
+                                    <font style="vertical-align: inherit;">&nbsp;M. Skill Critical Rate +50% → +15%
                                     </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Magic Skill MP Consumption -70% → -20%
+                                    <font style="vertical-align: inherit;">&nbsp;M. Skill MP Consumption -70% → -20%
                                     </font>
                                 </font>
                             </div>
                             <div data-contents-type="text" style="text-align: center;">
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">Increased consumption of magic stones from 1
+                                    <font style="vertical-align: inherit;">Increased consumption of Spirit Ore from 1
                                         to 4</font>
                                 </font>
                             </div>
@@ -1627,7 +1615,7 @@
                             <div data-contents-type="text" style="text-align: center;">
                                 <font style="vertical-align: inherit;">
                                     <font style="vertical-align: inherit;">&ZeroWidthSpace;Additional consumption of 500
-                                        magic stones</font>
+                                        Spirit Ore</font>
                                 </font>
                             </div>
                         </td>
@@ -1651,7 +1639,7 @@
                             <div data-contents-type="text" style="text-align: center;">
                                 <font style="vertical-align: inherit;">
                                     <font style="vertical-align: inherit;">&ZeroWidthSpace;Additional consumption of 100
-                                        magic stones</font>
+                                        Spirit Ore</font>
                                 </font>
                             </div>
                         </td>
@@ -1708,7 +1696,7 @@
                             </div>
                             <div data-contents-type="text" style="text-align: center;">
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">Added consumption of 7 magic stones</font>
+                                    <font style="vertical-align: inherit;">Added consumption of 7 Spirit Ore</font>
                                 </font>
                             </div>
                         </td>
