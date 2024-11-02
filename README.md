@@ -193,97 +193,95 @@
                                     <font style="vertical-align: inherit;">Healing Power -90% (Heal penalty) </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;M. Atk. +15% </font>
+                                    <font style="vertical-align: inherit;">M. Atk. +15% </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;M. Skill Power +10% </font>
+                                    <font style="vertical-align: inherit;">M. Skill Power +10% </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;Speed +10 </font>
+                                    <font style="vertical-align: inherit;">Speed +10 </font>
                                 </font><br>&nbsp;<br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;When using an attack skill, there is a
-                                        chance of an additional hit being triggered (Abyss Spear) </font>
+                                    <font style="vertical-align: inherit;">When using an attack skill, there is a
+                                        chance of an additional attack with 150 power being triggered (Abyss Spear). </font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;With the 150 power added to magic
-                                        power, </font>
+                                    <font style="vertical-align: inherit;"></font>
                                 </font><br>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">&nbsp;more damage is dealt to enemies with
-                                        attack debuffs and mez status. &ZeroWidthSpace;Change </font>
-                                </font><br><br><span style="color:rgb(204, 102, 0);"><strong>
+                                    <font style="vertical-align: inherit;">Enemies with a debuff/ anomaly applied take additional damage.&ZeroWidthSpace;<br><br>Change</font>
+                                </font><span style="color:rgb(204, 102, 0);"><strong>
                                         <font style="vertical-align: inherit;">
-                                            <font style="vertical-align: inherit;">the heal skill</font>
+                                            <font style="vertical-align: inherit;">heal skill</font>
                                         </font>
                                     </strong></span>
                                 <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;"> to </font>
-                                    <font style="vertical-align: inherit;">an </font>
+                                    <font style="vertical-align: inherit;">to</font>
+                                    <font style="vertical-align: inherit;"></font>
                                 </font><span style="color:rgb(0, 112, 192);"><strong>
                                         <font style="vertical-align: inherit;">
-                                            <font style="vertical-align: inherit;">attack skill. </font>
+                                            <font style="vertical-align: inherit;">attack skill</font>
                                         </font>
                                     </strong></span>
                                 <font style="vertical-align: inherit;"><span style="color:rgb(204, 102, 0);"><strong>
-                                            <font style="vertical-align: inherit;">Restore Life</font>
+                                            <font style="vertical-align: inherit;"><br>Restore Life</font>
                                         </strong></span>
                                     <font style="vertical-align: inherit;"> → </font><span
                                         style="color:rgb(0, 112, 192);"><strong>
                                             <font style="vertical-align: inherit;">Diminish Life </font>
                                         </strong></span><span style="color:rgb(204, 102, 0);"><strong>
-                                            <font style="vertical-align: inherit;">&ZeroWidthSpace;Chain Heal/Shining
+                                            <font style="vertical-align: inherit;">&ZeroWidthSpace;<br>Chain Heal/Shining
                                                 Chain Heal</font>
                                         </strong></span>
                                     <font style="vertical-align: inherit;"> → </font><span
                                         style="color:rgb(0, 112, 192);"><strong>
                                             <font style="vertical-align: inherit;">Chain Blast </font>
                                         </strong></span><span style="color:rgb(204, 102, 0);"><strong>
-                                            <font style="vertical-align: inherit;">&ZeroWidthSpace;Shining Ray</font>
+                                            <font style="vertical-align: inherit;">&ZeroWidthSpace;<br>Shining Ray</font>
                                         </strong></span>
                                     <font style="vertical-align: inherit;"> → </font><span
                                         style="color:rgb(0, 112, 192);"><strong>
                                             <font style="vertical-align: inherit;">Abyss Ray </font>
                                         </strong></span><span style="color:rgb(204, 102, 0);"><strong>
-                                            <font style="vertical-align: inherit;">&ZeroWidthSpace;Balanced Body</font>
+                                            <font style="vertical-align: inherit;">&ZeroWidthSpace;<br>Balanced Body</font>
                                         </strong></span>
                                     <font style="vertical-align: inherit;"> → </font><span
                                         style="color:rgb(0, 112, 192);"><strong>
                                             <font style="vertical-align: inherit;">Darkness Fall</font>
                                         </strong></span><strong>
-                                        <font style="vertical-align: inherit;"> &ZeroWidthSpace;Serenity</font>
+                                        <font style="vertical-align: inherit;"> &ZeroWidthSpace;<br></font>
                                     </strong><span style="color:rgb(204, 102, 0);"><strong>
-                                            <font style="vertical-align: inherit;"> : Master</font>
+                                            <font style="vertical-align: inherit;">Serenity: Master</font>
                                         </strong></span>
                                     <font style="vertical-align: inherit;"> → </font><span
                                         style="color:rgb(0, 112, 192);"><strong>
                                             <font style="vertical-align: inherit;">Chaos: Master</font>
                                         </strong></span>
-                                </font><br><span style="color:rgb(204, 102, 0);">&nbsp;<strong>
+                                </font><span style="color:rgb(204, 102, 0);">&nbsp;<strong>
                                         <font style="vertical-align: inherit;"></font>
                                     </strong></span>
                                 <font style="vertical-align: inherit;"></font><span
                                     style="color:rgb(0, 112, 192);"><strong>
                                         <font style="vertical-align: inherit;"></font>
-                                    </strong></span><br><span style="color:rgb(204, 102, 0);"><strong>
+                                    </strong></span><span style="color:rgb(204, 102, 0);"><strong>
                                         <font style="vertical-align: inherit;"></font>
                                     </strong></span>
                                 <font style="vertical-align: inherit;"></font><span
                                     style="color:rgb(0, 112, 192);"><strong>
                                         <font style="vertical-align: inherit;"></font>
-                                    </strong></span><br><span style="color:rgb(204, 102, 0);"><strong>
+                                    </strong></span><span style="color:rgb(204, 102, 0);"><strong>
                                         <font style="vertical-align: inherit;"></font>
                                     </strong></span>
                                 <font style="vertical-align: inherit;"></font><span
                                     style="color:rgb(0, 112, 192);"><strong>
                                         <font style="vertical-align: inherit;"></font>
-                                    </strong></span><br><span style="color:rgb(204, 102, 0);"><strong>
+                                    </strong></span><span style="color:rgb(204, 102, 0);"><strong>
                                         <font style="vertical-align: inherit;"></font>
                                     </strong></span>
                                 <font style="vertical-align: inherit;"></font><span
                                     style="color:rgb(0, 112, 192);"><strong>
                                         <font style="vertical-align: inherit;"></font>
-                                    </strong></span><br><strong>
+                                    </strong></span><strong>
                                     <font style="vertical-align: inherit;"></font>
                                 </strong><span style="color:rgb(204, 102, 0);"><strong>
                                         <font style="vertical-align: inherit;"></font>
