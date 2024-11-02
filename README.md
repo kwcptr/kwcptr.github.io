@@ -2,42 +2,11 @@
     <div class="view-header">
         <h2 class="view-title">
             <font style="vertical-align: inherit;">
-                <font style="vertical-align: inherit;">[Revised] [Main Server] October 10th (Thursday) Update
-                    Information</font>
+                <font style="vertical-align: inherit;">Class Update - Cardinal</font>
             </font>
         </h2>
-        <div class="article-info-wrap">
-            <div class="article-info">
-                <div class="writer"><span class="name name-admin"><img class="admin-icon"
-                            src="https://vod.plaync.com/lineage2/board/lineage2_admin_dark.png"
-                            data-light-src="https://vod.plaync.com/lineage2/board/lineage2_admin.png"
-                            data-dark-src="https://vod.plaync.com/lineage2/board/lineage2_admin_dark.png"
-                            alt="manager"></span></div><span class="posted-at">
-                    <font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">2024-10-09 20:20:33</font>
-                    </font>
-                </span><span class="view-count" aria-label="check">
-                    <i class="iconc iconc-count_s"></i>
-                    <em>
-                        <font style="vertical-align: inherit;">
-                            <font style="vertical-align: inherit;">5,514</font>
-                        </font>
-                    </em>
-                </span>
-            </div>
-            <div class="util-btn-wrap">
-                <button type="button" class="co-btn btn-more"><i class="iconc iconc-more"></i></button>
-                <div class="button-list"></div>
-            </div>
-        </div>
     </div>
         <div class="view-body">
-            <div data-contents-type="text"><br class="ProseMirror-trailingBreak"></div>
-        <div data-contents-type="text"><span style="color:rgb(0, 112, 192);"><strong>
-                    <font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">[Class Update - Cardinal]</font>
-                    </font>
-                </strong></span></div>
         <div data-contents-type="text">
             <font style="vertical-align: inherit;">
                 <font style="vertical-align: inherit;">1. Cardinal class update has been performed.</font>
@@ -56,12 +25,14 @@
                 </font>
             </font>
         </div>
+        <br>
         <div data-contents-type="text"><strong>
                 <font style="vertical-align: inherit;">
                     <font style="vertical-align: inherit;">[Heal ↔ Attack Change Skill]</font>
                 </font>
             </strong></div>
-        <div class="tableWrapper">
+            <br>
+            <div class="tableWrapper">
             <table class="">
                 <colgroup>
                     <col>
