@@ -4,80 +4,80 @@
 
 
 
-
-    <table class="">
-        <colgroup>
-            <col>
-            <col>
-        </colgroup>
-        <tbody>
-            <tr>
-                <td style="padding: 4px 8px;background-color: rgb(0, 32, 96);">
-                    <div data-contents-type="text" style="text-align: center;"><span
-                            style="color:rgb(246, 246, 246);"><strong>
-                                <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">Skill name</font>
-                                </font>
-                            </strong></span></div>
-                </td>
-                <td style="padding: 4px 8px;background-color: rgb(0, 32, 96);">
-                    <div data-contents-type="text" style="text-align: center;"><span
-                            style="color:rgb(246, 246, 246);"><strong>
-                                <font style="vertical-align: inherit;">
-                                    <font style="vertical-align: inherit;">Skill Description</font>
-                                </font>
-                            </strong></span></div>
-                </td>
-            </tr>
-            <tr>
-                <td style="padding: 4px 8px;">
-                    <div data-contents-type="text" style="text-align: center;">
-                        <font style="vertical-align: inherit;">
-                            <font style="vertical-align: inherit;">Protection of the Moon</font>
-                        </font>
-                    </div>
-                </td>
-                <td style="padding: 4px 8px;">
-                    <div data-contents-type="text" style="text-align: center;">
-                        <font style="vertical-align: inherit;">
-                            <font style="vertical-align: inherit;">Imperfect Moon Guardian: 2nd job advancement or
-                                higher, automatically acquired at level 45</font>
-                        </font>
-                    </div>
-                    <div data-contents-type="text" style="text-align: center;">
-                        <font style="vertical-align: inherit;">
-                            <font style="vertical-align: inherit;">Moon Guardian: 2nd job advancement or higher,
-                                automatically acquired at level 60</font>
-                        </font>
-                    </div>
-                    <div data-contents-type="text" style="text-align: center;">
-                        <font style="vertical-align: inherit;">
-                            <font style="vertical-align: inherit;">Complete Moon Protection: Automatically acquired at
-                                level 70, 2nd job advancement or higher</font>
-                        </font>
-                    </div>
-                    <div data-contents-type="text" style="text-align: center;">
-                        <font style="vertical-align: inherit;">
-                            <font style="vertical-align: inherit;">​</font>
-                        </font>
-                    </div>
-                    <div data-contents-type="text" style="text-align: center;">
-                        <font style="vertical-align: inherit;">
-                            <font style="vertical-align: inherit;">Moon's Protection is automatically granted to the
-                                Barkas class after completing the second job advancement.</font>
-                        </font>
-                    </div>
-                    <div data-contents-type="text" style="text-align: center;">
-                        <font style="vertical-align: inherit;">
-                            <font style="vertical-align: inherit;">White Guardian Transformation and duplication are not
-                                possible.</font>
-                        </font>
-                    </div>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-
+<div class="tableWrapper">
+        <table class="">
+            <colgroup>
+                <col>
+                <col>
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td style="padding: 4px 8px;background-color: rgb(0, 32, 96);">
+                        <div data-contents-type="text" style="text-align: center;"><span
+                                style="color:rgb(246, 246, 246);"><strong>
+                                    <font style="vertical-align: inherit;">
+                                        <font style="vertical-align: inherit;">Skill name</font>
+                                    </font>
+                                </strong></span></div>
+                    </td>
+                    <td style="padding: 4px 8px;background-color: rgb(0, 32, 96);">
+                        <div data-contents-type="text" style="text-align: center;"><span
+                                style="color:rgb(246, 246, 246);"><strong>
+                                    <font style="vertical-align: inherit;">
+                                        <font style="vertical-align: inherit;">Skill Description</font>
+                                    </font>
+                                </strong></span></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding: 4px 8px;">
+                        <div data-contents-type="text" style="text-align: center;">
+                            <font style="vertical-align: inherit;">
+                                <font style="vertical-align: inherit;">Protection of the Moon</font>
+                            </font>
+                        </div>
+                    </td>
+                    <td style="padding: 4px 8px;">
+                        <div data-contents-type="text" style="text-align: center;">
+                            <font style="vertical-align: inherit;">
+                                <font style="vertical-align: inherit;">Imperfect Moon Guardian: 2nd job advancement or
+                                    higher, automatically acquired at level 45</font>
+                            </font>
+                        </div>
+                        <div data-contents-type="text" style="text-align: center;">
+                            <font style="vertical-align: inherit;">
+                                <font style="vertical-align: inherit;">Moon Guardian: 2nd job advancement or higher,
+                                    automatically acquired at level 60</font>
+                            </font>
+                        </div>
+                        <div data-contents-type="text" style="text-align: center;">
+                            <font style="vertical-align: inherit;">
+                                <font style="vertical-align: inherit;">Complete Moon Protection: Automatically acquired
+                                    at level 70, 2nd job advancement or higher</font>
+                            </font>
+                        </div>
+                        <div data-contents-type="text" style="text-align: center;">
+                            <font style="vertical-align: inherit;">
+                                <font style="vertical-align: inherit;">&ZeroWidthSpace;</font>
+                            </font>
+                        </div>
+                        <div data-contents-type="text" style="text-align: center;">
+                            <font style="vertical-align: inherit;">
+                                <font style="vertical-align: inherit;">Moon's Protection is automatically granted to the
+                                    Barkas class after completing the second job advancement.</font>
+                            </font>
+                        </div>
+                        <div data-contents-type="text" style="text-align: center;">
+                            <font style="vertical-align: inherit;">
+                                <font style="vertical-align: inherit;">White Guardian Transformation and duplication are
+                                    not possible.</font>
+                            </font>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 
 
 
