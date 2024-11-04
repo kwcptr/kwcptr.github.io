@@ -5,9 +5,10 @@
     position: relative;
     background: {
         image: url('./img/itemsBg.png');
-        color: #d6d2d2;
         repeat: no-repeat;
         size: cover;
-        attachment: fixed;
+        position-y: center;
+        position-x: center;
+        color: #b9b8b8;
     }
 }

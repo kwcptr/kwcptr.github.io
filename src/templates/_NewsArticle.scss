@@ -112,6 +112,22 @@
       font-weight: 600;
       color: rgb(255, 0, 0);
     }
+    .skill-text-golden {
+      font-weight: 600;
+      color: rgb(204, 102, 0);
+    }
+    .skill-text-midblue {
+      font-weight: 600;
+      color: rgb(0, 112, 192);
+    }
+    .skill-text-golden2 {
+      font-size: 18px; /* Adjust the font size as needed */
+      color: rgb(204, 102, 0);
+    }
+    .skill-text-midblue2 {
+      font-size: 18px; /* Adjust the font size as needed */
+      color: rgb(0, 112, 192);
+    }
 
     .article-table {
       max-width: max-content; // Adjust this as needed
@@ -149,6 +165,12 @@
       font-size: 20px;
       text-align: left;
       font-weight: 500;
+    }
+
+    .article-text4 {
+      margin-top: 10px;
+      text-align: left;
+      font-weight: 600;
     }
 
     .article-comments {

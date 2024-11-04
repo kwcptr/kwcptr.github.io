@@ -12,9 +12,9 @@ export const Media = () => {
     return(
         <nav className="media">
             <ol>
-                <li><Link to="https://discord.com/invite/6DAPSMBVP7" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faDiscord} /></Link></li>
-                <li><Link to="https://www.youtube.com/@l2bona" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faYoutube} /></Link></li>
-                <li><Link to="https://www.twitch.tv/l2bona" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faTwitch} /></Link></li>
+                <li><Link to="https://discord.com/invite/RKMz5gC" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faDiscord} /></Link></li>
+                <li><Link to="https://www.youtube.com/@kwcptr" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faYoutube} /></Link></li>
+                <li><Link to="https://www.twitch.tv/kwcptr" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faTwitch} /></Link></li>
             </ol>
         </nav> 
     )

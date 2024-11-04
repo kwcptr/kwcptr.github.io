@@ -6,7 +6,9 @@
         image: url('./img/newsBg.png');
         repeat: no-repeat;
         size: cover;
-        position: bottom;
+        position-y: center;
+        position-x: center;
+        color: #b9b8b8;
     }
 
     .news__container {

@@ -1,10 +1,11 @@
 .section__classGuides {
     background: {
-        image: url(./img/classGuides.png);
+        image: url('./img/classGuidesBg.png');
         repeat: no-repeat;
-        color: #999999;
         size: cover;
-        attachment: fixed;
+        position-y: center;
+        position-x: center;
+        color: #b9b8b8;
     }
     display: grid;
     justify-content: center;
