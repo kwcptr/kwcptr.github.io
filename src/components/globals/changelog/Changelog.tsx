@@ -5,11 +5,17 @@ const Changelog = () => {
     <div className="changelog">
       <h2 className="changelog__title">Changelog</h2>
       <div className="changelog__bubble">
-      <p className="changelog__subtitle">
+        <p className="changelog__subtitle">
+          04/11/24
+        </p>
+        <p className="changelog__text">
+          — New article: <a href="/articles/new-class-varkas" className="changelog__link">New Class: Varkas</a>
+        </p>
+        <p className="changelog__subtitle">
           03/11/24
         </p>
         <p className="changelog__text">
-          • New article: <a href="/articles/class-update-cardinal" className="changelog__link">Class Update: Cardinal</a>
+          — New article: <a href="/articles/class-update-cardinal" className="changelog__link">Class Update: Cardinal</a>
         </p>
 {/*
         <p className="changelog__subtitle">
