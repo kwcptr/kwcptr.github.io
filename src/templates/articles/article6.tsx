@@ -664,6 +664,103 @@ export const Article6 = () => {
             </tr>
           </tbody>
         </table>
+        <div className="article-text4">
+          Skills Showcase
+        </div>
+        <table className="article-table">
+          <thead>
+            <tr>
+              <th>Skill</th>
+              <th>Visual effect</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td className="skill-container">
+                <img className="skill-icon" src="https://assets.playnccdn.com/gamedata/powerbook/lin2/aden/skill/53/image_88453.png" alt="Awaken Potential"/>
+                <br/>
+                <span className="skill-text">Awaken Potential</span>
+              </td>
+              <td>
+                <video controls src="https://vod.plaync.com/lineage2/update/241023/1_Unique_skill_pc.mp4"></video>
+              </td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <img className="skill-icon" src="https://assets.playnccdn.com/gamedata/powerbook/lin2/aden/skill/21/image_88421.png" alt="Double Claw"/>
+                <br/>
+                <span className="skill-text">Double Claw</span>
+                <br/><br/>
+                <img className="skill-icon" src="https://assets.playnccdn.com/gamedata/powerbook/lin2/aden/skill/22/image_88422.png" alt="Rising Claw"/>
+                <br/>
+                <span className="skill-text">Rising Claw</span>
+              </td>
+              <td>
+                <video controls src="https://vod.plaync.com/lineage2/update/241023/2_key_skill_pc.mp4"></video>
+              </td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <span className="skill-text">Luna Rampage</span>
+                <br/><br/>
+                <img className="skill-icon" src="https://assets.playnccdn.com/gamedata/powerbook/lin2/aden/skill/75/image_88475.png" alt="High Speed"/>
+                <br/>
+                <span className="skill-text">High Speed</span>
+              </td>
+              <td>
+                <video controls src="https://vod.plaync.com/lineage2/update/241023/3_move_skill_pc.mp4"></video>
+              </td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <img className="skill-icon" src="https://assets.playnccdn.com/gamedata/powerbook/lin2/aden/skill/23/image_88423.png" alt="Cyclone Claw"/>
+                <br/>
+                <span className="skill-text">Cyclone Claw</span>
+              </td>
+              <td>
+                <video controls src="https://vod.plaync.com/lineage2/update/241023/4_wide_area_skill_pc.mp4"></video>
+              </td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <img className="skill-icon" src="https://assets.playnccdn.com/gamedata/powerbook/lin2/aden/skill/86/image_88486.png" alt="Insanity"/>
+                <br/>
+                <span className="skill-text">Insanity</span>
+                <br/><br/>
+                <img className="skill-icon" src="https://assets.playnccdn.com/gamedata/powerbook/lin2/aden/skill/74/image_88474.png" alt="Howling"/>
+                <br/>
+                <span className="skill-text">Howling</span>
+              </td>
+              <td>
+                <video controls src="https://vod.plaync.com/lineage2/update/241023/5_buff_skill_pc.mp4"></video>
+              </td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <img className="skill-icon" src="https://assets.playnccdn.com/gamedata/powerbook/lin2/aden/skill/08/image_88408.png" alt="Lethal Piercing"/>
+                <br/>
+                <span className="skill-text">Lethal Piercing</span>
+              </td>
+              <td>
+                <video controls src="https://vod.plaync.com/lineage2/update/241023/6_Destruction_skill_pc.mp4"></video>
+              </td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <img className="skill-icon" src="https://assets.playnccdn.com/gamedata/powerbook/lin2/aden/skill/07/image_88407.png" alt="Diving Disarm"/>
+                <br/>
+                <span className="skill-text">Diving Disarm</span>
+                <br/><br/>
+                <img className="skill-icon" src="https://assets.playnccdn.com/gamedata/powerbook/lin2/aden/skill/41/image_88441.png" alt="Gigantic Wolf"/>
+                <br/>
+                <span className="skill-text">Gigantic Wolf</span>
+              </td>
+              <td>
+                <video controls src="https://vod.plaync.com/lineage2/update/241023/7_de_buff_skill_pc.mp4"></video>
+              </td>
+            </tr>
+          </tbody>
+        </table>
       {/*<div className="article-comments">
         <h2>Comments</h2>
       </div>*/}
