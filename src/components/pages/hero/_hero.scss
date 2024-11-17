@@ -52,9 +52,9 @@
     position: absolute;
     top: 32%; /* Adjust as needed */
     left: 9.5%; /* Adjust as needed */
-    background-color: rgba(255, 255, 255, 0.95); /* Change to your preferred background color */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
-    color: rgb(0, 0, 0); /* Change to your preferred text color */
+    background: rgba(0,0,0,0.3);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     border-radius: 5px;
     padding: 10px;
     max-width: 400px; /* Adjust as needed */
@@ -70,11 +70,13 @@
 
 .changelog__text {
     margin: 0;
+    color: white;
     text-align: left;
 }
 .changelog__subtitle {
     margin: 0;
     text-align: left;
+    color: white;
     font-weight: 500;
     font-size: 1.05em; /* Adjust the font size as needed */
     margin-top: 15px; /* Adjust the margin as needed */
@@ -83,6 +85,7 @@
 /* Changelog Title CSS */
 .changelog__title {
     text-align: center;
+    color: white;
     font-size: 1.75em; /* Adjust the font size as needed */
     margin-bottom: 15px; /* Adjust the margin as needed */
     border-bottom: 1px solid #ccc; /* Add a bottom border with a thin gray line */
@@ -92,7 +95,7 @@
 
 /* In your SCSS or CSS file */
 .changelog__link {
-    color: black;
+    color: white;
     font-weight: 500; /* Add bold style to links */
     transition-property: color;
     transition-duration: 0.15s;

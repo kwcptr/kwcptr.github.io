@@ -3,7 +3,7 @@
 
 /* Templates */
   import {  
-            Article1, Article2, Article3, Article4, Article5, Article6,
+            Article1, Article2, Article3, Article4, Article5, Article6, Article7,
   } from "templates";
 
 /* Components */
@@ -18,6 +18,7 @@ const routes =
     <Route path="/articles/new-race-high-elves" element={<New><Article4/></New>}/>
     <Route path="/articles/class-update-cardinal" element={<New><Article5/></New>}/>
     <Route path="/articles/new-class-varkas" element={<New><Article6/></New>}/>
+    <Route path="/articles/class-update-elemental-master" element={<New><Article7/></New>}/>
 
   </>
 

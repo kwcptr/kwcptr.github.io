@@ -3,9 +3,14 @@ import { Link } from 'react-router-dom';
 export const News = () => {
   return (
     <section className="section__news">
+      <br /><br /><br /><br />
       <h2 className="news__title">Articles</h2>
       <div className="news__background">
         <div className="news__container">
+        <div className="news__article">
+            <Link to="/articles/class-update-elemental-master"><span className='news__articlename'>Class Update: Elemental Master</span></Link>
+            <span className="news__date">November 16, 2024</span>
+          </div>
           <div className="news__article">
             <Link to="/articles/new-class-varkas"><span className='news__articlename'>New Class: Varkas</span></Link>
             <span className="news__date">November 4, 2024</span>

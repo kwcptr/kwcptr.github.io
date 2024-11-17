@@ -6,6 +6,12 @@ const Changelog = () => {
       <h2 className="changelog__title">Changelog</h2>
       <div className="changelog__bubble">
         <p className="changelog__subtitle">
+          16/11/24
+        </p>
+        <p className="changelog__text">
+          — New article: <a href="/articles/class-update-elemental-master" className="changelog__link">Class Update: Elemental Master</a>
+        </p>
+        <p className="changelog__subtitle">
           04/11/24
         </p>
         <p className="changelog__text">
