@@ -93,7 +93,7 @@ export const Article8 = () => {
 
             <tr>
               <td className="skill-container">
-                <img className="skill-icon" src="/items/icons/doll/Ryuminir.png" alt="" />
+                <img className="skill-icon" src="/items/icons/doll/ryuminir.png" alt="" />
                 <br />
                 <span className="skill-text">Ryuminir Doll</span>
               </td>
@@ -117,7 +117,7 @@ export const Article8 = () => {
 
             <tr>
               <td className="skill-container">
-                <img className="skill-icon" src="/items/icons/doll/Aizen-Kelsour.png" alt="" />
+                <img className="skill-icon" src="/items/icons/doll/aizen-kelsour.png" alt="" />
                 <br />
                 <span className="skill-text">Aizen Kelsour Doll</span>
               </td>
@@ -166,7 +166,7 @@ export const Article8 = () => {
 
             <tr>
               <td className="skill-container">
-                <img className="skill-icon" src="/items/icons/doll/King-Ignis.png" alt="" />
+                <img className="skill-icon" src="/items/icons/doll/king-ignis.png" alt="" />
                 <br />
                 <span className="skill-text">King Ignis Doll</span>
               </td>
@@ -192,7 +192,7 @@ export const Article8 = () => {
 
             <tr>
               <td className="skill-container">
-                <img className="skill-icon" src="/items/icons/doll/Queen-Nebula.png" alt="" />
+                <img className="skill-icon" src="/items/icons/doll/queen-nebula.png" alt="" />
                 <br />
                 <span className="skill-text">Queen Nebula Doll</span>
               </td>
@@ -218,7 +218,7 @@ export const Article8 = () => {
 
             <tr>
               <td className="skill-container">
-                <img className="skill-icon" src="/items/icons/doll/King-Procella.png" alt="" />
+                <img className="skill-icon" src="/items/icons/doll/king-procella.png" alt="" />
                 <br />
                 <span className="skill-text">King Procella Doll</span>
               </td>
@@ -244,7 +244,7 @@ export const Article8 = () => {
 
             <tr>
               <td className="skill-container">
-                <img className="skill-icon" src="/items/icons/doll/King-Petram.png" alt="" />
+                <img className="skill-icon" src="/items/icons/doll/king-petram.png" alt="" />
                 <br />
                 <span className="skill-text">King Petram Doll</span>
               </td>
@@ -270,7 +270,7 @@ export const Article8 = () => {
 
             <tr>
               <td className="skill-container">
-                <img className="skill-icon" src="/items/icons/doll/Tiron.png" alt="" />
+                <img className="skill-icon" src="/items/icons/doll/tiron.png" alt="" />
                 <br />
                 <span className="skill-text">Tiron Doll</span>
               </td>
@@ -296,7 +296,7 @@ export const Article8 = () => {
 
             <tr>
               <td className="skill-container">
-                <img className="skill-icon" src="/items/icons/doll/Anakim.png" alt="" />
+                <img className="skill-icon" src="/items/icons/doll/anakim.png" alt="" />
                 <br />
                 <span className="skill-text">Anakim Doll</span>
               </td>
@@ -324,7 +324,7 @@ export const Article8 = () => {
 
             <tr>
               <td className="skill-container">
-                <img className="skill-icon" src="/items/icons/doll/Lilith.png" alt="" />
+                <img className="skill-icon" src="/items/icons/doll/lilith.png" alt="" />
                 <br />
                 <span className="skill-text">Lilith Doll</span>
               </td>
@@ -464,7 +464,7 @@ export const Article8 = () => {
 
             <tr>
               <td className="skill-container">
-                <img className="skill-icon" src="/items/icons/doll/Scarlet-van-Halisha.png" alt="" />
+                <img className="skill-icon" src="/items/icons/doll/scarlet-van-halisha.png" alt="" />
                 <br />
                 <span className="skill-text">Scarlet van Halisha Doll</span>
               </td>
@@ -744,7 +744,7 @@ export const Article8 = () => {
 
             <tr>
               <td className="skill-container">
-                <img className="skill-icon" src="/items/icons/doll/Behemoth-doll.png" alt="" />
+                <img className="skill-icon" src="/items/icons/doll/behemoth-doll.png" alt="" />
                 <br />
                 <span className="skill-text">Behemoth Doll</span>
               </td>
@@ -800,7 +800,7 @@ export const Article8 = () => {
 
             <tr>
               <td className="skill-container">
-                <img className="skill-icon" src="/items/icons/doll/Andreas-van-Halter-doll.png" alt="" />
+                <img className="skill-icon" src="/items/icons/doll/andreas-van-halter-doll.png" alt="" />
                 <br />
                 <span className="skill-text">Andreas van Halter Doll</span>
               </td>
@@ -828,7 +828,7 @@ export const Article8 = () => {
 
             <tr>
               <td className="skill-container">
-                <img className="skill-icon" src="/items/icons/doll/Kelbim-doll.png" alt="" />
+                <img className="skill-icon" src="/items/icons/doll/kelbim-doll.png" alt="" />
                 <br />
                 <span className="skill-text">Kelbim Doll</span>
               </td>
@@ -1082,12 +1082,12 @@ export const Article8 = () => {
                   <span className="tooltip common">Common Ryuminir Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Tiron.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/tiron.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
                   <span className="tooltip common">Common Tiron Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Aizen-Kelsour.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/aizen-kelsour.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
                   <span className="tooltip common">Common Aizen Kelsour Doll</span>
                 </div>
@@ -1101,37 +1101,37 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/King-Ignis.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/king-ignis.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
                   <span className="tooltip common">Common King Ignis Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Queen-Nebula.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/queen-nebula.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
                   <span className="tooltip common">Common Queen Nebula Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/King-Procella.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/king-procella.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
                   <span className="tooltip common">Common King Procella Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/King-Petram.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/king-petram.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
                   <span className="tooltip common">Common King Petram Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Scarlet-van-Halisha.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/scarlet-van-halisha.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
                   <span className="tooltip common">Common Scarlet van Halisha Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Anakim.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/anakim.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
                   <span className="tooltip common">Common Anakim Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Lilith.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/lilith.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
                   <span className="tooltip common">Common Lilith Doll</span>
                 </div>
@@ -1199,22 +1199,22 @@ export const Article8 = () => {
                   <span className="tooltip enhanced">Enhanced Aizen Kelsour Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Anakim.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/anakim.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Anakim Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Lilith.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/lilith.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Lilith Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Tiron.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/tiron.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Tiron Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Scarlet-van-Halisha.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/scarlet-van-halisha.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Scarlet van Halisha Doll</span>
                 </div>
@@ -1228,22 +1228,22 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Ryuminir.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/ryuminir.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Ryuminir Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Aizen-Kelsour.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/aizen-kelsour.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Aizen Kelsour Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Deiman.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/deiman.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Deiman Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Satina.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/satina.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Satina Doll</span>
                 </div>
@@ -1257,22 +1257,22 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/King-Ignis.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/king-ignis.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced King Ignis Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Queen-Nebula.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/queen-nebula.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Queen Nebula Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/King-Procella.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/king-procella.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced King Procella Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/King-Petram.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/king-petram.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced King Petram Doll</span>
                 </div>
@@ -1286,22 +1286,22 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/King-Ignis.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/king-ignis.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior King Ignis Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Queen-Nebula.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/queen-nebula.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Queen Nebula Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/King-Procella.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/king-procella.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior King Procella Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/King-Petram.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/king-petram.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior King Petram Doll</span>
                 </div>
@@ -1315,22 +1315,22 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/King-Ignis.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/king-ignis.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare King Ignis Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Queen-Nebula.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/queen-nebula.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Queen Nebula Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/King-Procella.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/king-procella.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare King Procella Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/King-Petram.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/king-petram.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare King Petram Doll</span>
                 </div>
@@ -1344,12 +1344,12 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Anakim.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/anakim.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Anakim Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Lilith.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/lilith.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Lilith Doll</span>
                 </div>
@@ -1363,12 +1363,12 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Anakim.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/anakim.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Anakim Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Lilith.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/lilith.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Lilith Doll</span>
                 </div>
@@ -1382,12 +1382,12 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Anakim.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/anakim.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Anakim Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Lilith.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/lilith.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Lilith Doll</span>
                 </div>
@@ -1401,12 +1401,12 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Anakim.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/anakim.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Anakim Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Lilith.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/lilith.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Lilith Doll</span>
                 </div>
@@ -1420,12 +1420,12 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Anakim.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/anakim.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-legendary.png" alt="" />
                   <span className="tooltip legendary">Legendary Anakim Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Lilith.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/lilith.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-legendary.png" alt="" />
                   <span className="tooltip legendary">Legendary Lilith Doll</span>
                 </div>
@@ -1439,7 +1439,7 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Scarlet-van-Halisha.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/scarlet-van-halisha.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Scarlet van Halisha Doll</span>
                 </div>
@@ -1458,7 +1458,7 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Scarlet-van-Halisha.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/scarlet-van-halisha.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Scarlet van Halisha Doll</span>
                 </div>
@@ -1477,7 +1477,7 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Scarlet-van-Halisha.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/scarlet-van-halisha.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Scarlet van Halisha Doll</span>
                 </div>
@@ -1496,7 +1496,7 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Scarlet-van-Halisha.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/scarlet-van-halisha.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Scarlet van Halisha Doll</span>
                 </div>
@@ -1515,7 +1515,7 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Scarlet-van-Halisha.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/scarlet-van-halisha.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-legendary.png" alt="" />
                   <span className="tooltip legendary">Legendary Scarlet van Halisha Doll</span>
                 </div>
@@ -1627,17 +1627,17 @@ export const Article8 = () => {
                   <span className="tooltip enhanced">Enhanced Glakias Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Behemoth-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Behemoth Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Andreas-van-Halter-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/andreas-van-halter-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Andreas van Halter Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Kelbim-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/kelbim-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Kelbim Doll</span>
                 </div>
@@ -1656,17 +1656,17 @@ export const Article8 = () => {
                   <span className="tooltip superior">Superior Glakias Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Behemoth-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Behemoth Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Andreas-van-Halter-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/andreas-van-halter-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Andreas van Halter Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Kelbim-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/kelbim-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Kelbim Doll</span>
                 </div>
@@ -1685,17 +1685,17 @@ export const Article8 = () => {
                   <span className="tooltip rare">Rare Glakias Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Behemoth-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Behemoth Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Andreas-van-Halter-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/andreas-van-halter-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Andreas van Halter Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Kelbim-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/kelbim-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Kelbim Doll</span>
                 </div>
@@ -1709,27 +1709,27 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Andreas-van-Halter-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/andreas-van-halter-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Andreas van Halter Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Andreas-van-Halter-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/andreas-van-halter-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Andreas van Halter Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Andreas-van-Halter-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/andreas-van-halter-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Andreas van Halter Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Andreas-van-Halter-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/andreas-van-halter-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Andreas van Halter Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Andreas-van-Halter-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/andreas-van-halter-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-legendary.png" alt="" />
                   <span className="tooltip legendary">Legendary Andreas van Halter Doll</span>
                 </div>
@@ -1748,7 +1748,7 @@ export const Article8 = () => {
                   <span className="tooltip common">Common Ryuminir Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Aizen-Kelsour.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/aizen-kelsour.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
                   <span className="tooltip common">Common Aizen Kelsour Doll</span>
                 </div>
@@ -1758,7 +1758,7 @@ export const Article8 = () => {
                   <span className="tooltip enhanced">Enhanced Baium Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Ferion.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/ferion.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Ferion Doll</span>
                 </div>
@@ -1772,12 +1772,12 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Ryuminir.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/ryuminir.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Ryuminir Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Aizen-Kelsour.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/aizen-kelsour.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Aizen Kelsour Doll</span>
                 </div>
@@ -1787,7 +1787,7 @@ export const Article8 = () => {
                   <span className="tooltip superior">Superior Baium Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Ferion.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/ferion.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Ferion Doll</span>
                 </div>
@@ -1806,7 +1806,7 @@ export const Article8 = () => {
                   <span className="tooltip rare">Rare Baium Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Ferion.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/ferion.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Ferion Doll</span>
                 </div>
@@ -1825,7 +1825,7 @@ export const Article8 = () => {
                   <span className="tooltip heroic">Heroic Baium Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Ferion.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/ferion.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Ferion Doll</span>
                 </div>
@@ -1844,7 +1844,7 @@ export const Article8 = () => {
                   <span className="tooltip legendary">Legendary Baium Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Ferion.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/ferion.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-legendary.png" alt="" />
                   <span className="tooltip legendary">Legendary Ferion Doll</span>
                 </div>
@@ -1858,17 +1858,17 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Behemoth-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Behemoth Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Behemoth-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Behemoth Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Behemoth-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Behemoth Doll</span>
                 </div>
@@ -1927,13 +1927,13 @@ export const Article8 = () => {
                   <span className="tooltip mythic">+1 Mythic Glakias Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Behemoth-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-mythic.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/enchant_panel_01.png" alt="" />
                   <span className="tooltip mythic">+1 Mythic Behemoth Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Ferion.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/ferion.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-mythic.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/enchant_panel_01.png" alt="" />
                   <span className="tooltip mythic">+1 Mythic Ferion Doll</span>
@@ -1948,13 +1948,13 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Kelbim-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/kelbim-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-mythic.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/enchant_panel_01.png" alt="" />
                   <span className="tooltip mythic">+1 Mythic Kelbim Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Andreas-van-Halter-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/andreas-van-halter-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-mythic.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/enchant_panel_01.png" alt="" />
                   <span className="tooltip mythic">+1 Mythic Andreas van Halter Doll</span>
@@ -1975,13 +1975,13 @@ export const Article8 = () => {
                   <span className="tooltip mythic">+2 Mythic Glakias Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Behemoth-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-mythic.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/enchant_panel_02.png" alt="" />
                   <span className="tooltip mythic">+2 Mythic Behemoth Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Ferion.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/ferion.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-mythic.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/enchant_panel_02.png" alt="" />
                   <span className="tooltip mythic">+2 Mythic Ferion Doll</span>
@@ -1996,13 +1996,13 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Kelbim-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/kelbim-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-mythic.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/enchant_panel_02.png" alt="" />
                   <span className="tooltip mythic">+2 Mythic Kelbim Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Andreas-van-Halter-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/andreas-van-halter-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-mythic.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/enchant_panel_02.png" alt="" />
                   <span className="tooltip mythic">+2 Mythic Andreas van Halter Doll</span>
@@ -2023,13 +2023,13 @@ export const Article8 = () => {
                   <span className="tooltip mythic">+3 Mythic Glakias Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Behemoth-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-mythic.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/enchant_panel_03.png" alt="" />
                   <span className="tooltip mythic">+3 Mythic Behemoth Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Ferion.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/ferion.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-mythic.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/enchant_panel_03.png" alt="" />
                   <span className="tooltip mythic">+3 Mythic Ferion Doll</span>
@@ -2044,13 +2044,13 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Kelbim-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/kelbim-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-mythic.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/enchant_panel_03.png" alt="" />
                   <span className="tooltip mythic">+3 Mythic Kelbim Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Andreas-van-Halter-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/andreas-van-halter-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-mythic.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/enchant_panel_03.png" alt="" />
                   <span className="tooltip mythic">+3 Mythic Andreas van Halter Doll</span>
@@ -2141,7 +2141,7 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Tiron.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/tiron.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Tiron Doll</span>
                 </div>
@@ -2160,7 +2160,7 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Tiron.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/tiron.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Tiron Doll</span>
                 </div>
@@ -2179,27 +2179,27 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Queen-Nebula.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/queen-nebula.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
                   <span className="tooltip common">Common Queen Nebula Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Queen-Nebula.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/queen-nebula.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Queen Nebula Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Queen-Nebula.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/queen-nebula.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Queen Nebula Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Queen-Nebula.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/queen-nebula.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Queen Nebula Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Tiron.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/tiron.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Tiron Doll</span>
                 </div>
@@ -2218,12 +2218,12 @@ export const Article8 = () => {
               </td>
               <td>
               <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Queen-Nebula.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/queen-nebula.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Queen Nebula Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Tiron.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/tiron.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Tiron Doll</span>
                 </div>
@@ -2262,7 +2262,7 @@ export const Article8 = () => {
                   <span className="tooltip heroic">Heroic Glakias Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Behemoth-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Behemoth Doll</span>
                 </div>
@@ -2286,12 +2286,12 @@ export const Article8 = () => {
                   <span className="tooltip legendary">Legendary Orfen Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Anakim.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/anakim.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-legendary.png" alt="" />
                   <span className="tooltip legendary">Legendary Anakim Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Lilith.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/lilith.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-legendary.png" alt="" />
                   <span className="tooltip legendary">Legendary Lilith Doll</span>
                 </div>
@@ -2310,7 +2310,7 @@ export const Article8 = () => {
                   <span className="tooltip legendary">Legendary Core Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Scarlet-van-Halisha.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/scarlet-van-halisha.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-legendary.png" alt="" />
                   <span className="tooltip legendary">Legendary Scarlet van Halisha Doll</span>
                 </div>
@@ -2502,7 +2502,7 @@ export const Article8 = () => {
               </td>
               <td>
               <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/King-Petram.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/king-petram.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior King Petram Doll</span>
                 </div>
@@ -2521,7 +2521,7 @@ export const Article8 = () => {
               </td>
               <td>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Behemoth-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Behemoth Doll</span>
                 </div>
@@ -2660,12 +2660,12 @@ export const Article8 = () => {
               </td>
               <td>
               <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Ryuminir.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/ryuminir.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
                   <span className="tooltip common">Common Ryuminir Doll</span>
                 </div>
               <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Scarlet-van-Halisha.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/scarlet-van-halisha.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
                   <span className="tooltip common">Common Scarlet van Halisha Doll</span>
                 </div>
@@ -2675,12 +2675,12 @@ export const Article8 = () => {
                   <span className="tooltip common">Common Vulcan Doll</span>
                 </div>
               <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/King-Ignis.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/king-ignis.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced King Ignis Doll</span>
                 </div>
               <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Behemoth-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Behemoth Doll</span>
                 </div>
@@ -2694,17 +2694,17 @@ export const Article8 = () => {
               </td>
               <td>
               <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Ryuminir.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/ryuminir.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Ryuminir Doll</span>
                 </div>
                 <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/King-Ignis.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/king-ignis.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior King Ignis Doll</span>
                 </div>
               <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Scarlet-van-Halisha.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/scarlet-van-halisha.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Scarlet van Halisha Doll</span>
                 </div>
@@ -2714,7 +2714,7 @@ export const Article8 = () => {
                   <span className="tooltip superior">Superior Vulcan Doll</span>
                 </div>
               <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Behemoth-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Behemoth Doll</span>
                 </div>
@@ -2728,7 +2728,7 @@ export const Article8 = () => {
               </td>
               <td>
               <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Scarlet-van-Halisha.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/scarlet-van-halisha.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-legendary.png" alt="" />
                   <span className="tooltip legendary">Legendary Scarlet van Halisha Doll</span>
                 </div>
@@ -2738,7 +2738,7 @@ export const Article8 = () => {
                   <span className="tooltip legendary">Legendary Vulcan Doll</span>
                 </div>
               <div className="icon-container">
-                  <img className="skill-icon3" src="/items/icons/doll/Behemoth-doll.png" alt="" />
+                  <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-mythic.png" alt="" />
                   <span className="tooltip mythic">Mythic Behemoth Doll</span>
                 </div>
