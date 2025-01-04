@@ -545,94 +545,44 @@ export const optionsMenu = [
                 ]
             },
             {
-                title: "Other Item",
+                title: "Soul Crystal",
                 subMenu: [
                     {
-                        title: "Doll",
-                        subMenu: [
-                            {
-                                title: "Queen Ant Doll",
-                                url: "./items/other-item/doll/queen-ant-doll"
-                            },
-                            {
-                                title: "Core Doll",
-                                url: "./items/other-item/doll/core-doll"
-                            },
-                            {
-                                title: "Orfen Doll",
-                                url: "./items/other-item/doll/orfen-doll"
-                            },
-                            {
-                                title: "Zaken Doll",
-                                url: "./items/other-item/doll/zaken-doll"
-                            },
-                            {
-                                title: "Baium Doll",
-                                url: "./items/other-item/doll/baium-doll"
-                            },
-                            {
-                                title: "Frintezza Doll",
-                                url: "./items/other-item/doll/frintezza-doll"
-                            },
-                            {
-                                title: "Antharas Doll",
-                                url: "./items/other-item/doll/antharas-doll"
-                            },
-                            {
-                                title: "Behemoth Doll",
-                                url: "./items/other-item/doll/behemoth-doll"
-                            },
-                            {
-                                title: "Glakias Doll",
-                                url: "./items/other-item/doll/glakias-doll"
-                            },
-                            {
-                                title: "Andreas Van Halter Doll",
-                                url: "./items/other-item/doll/andreas-van-halter-doll"
-                            },
-                            {
-                                title: "Kelbim Doll",
-                                url: "./items/other-item/doll/kelbim-doll"
-                            }
-                        ]
+                        title: "Aden's Soul Crystal - Weapon",
+                        url: "./items/other-item/soul-crystal/adens-soul-crystal-weapon"
                     },
                     {
-                        title: "Soul Crystal",
-                        subMenu: [
-                            {
-                                title: "Aden's Soul Crystal - Weapon",
-                                url: "./items/other-item/soul-crystal/adens-soul-crystal-weapon"
-                            },
-                            {
-                                title: "Aden's Soul Crystal - Armor",
-                                url: "./items/other-item/soul-crystal/adens-soul-crystal-armor"
-                            },
-                            {
-                                title: "Hardin's Soul Crystal",
-                                url: "./items/other-item/soul-crystal/hardins-soul-crystal"
-                            }
-                        ]
+                        title: "Aden's Soul Crystal - Armor",
+                        url: "./items/other-item/soul-crystal/adens-soul-crystal-armor"
                     },
                     {
-                        title: "Patterns and Hidden Power",
-                        subMenu: [
-                            {
-                                title: "Patterns",
-                                url: "./items/other-item/patterns-and-hidden-power/patterns"
-                            },
-                            {
-                                title: "Hidden Power",
-                                url: "./items/other-item/patterns-and-hidden-power/hidden-power"
-                            }
-                        ]
-                    },
-                    {
-                        title: "Growth Rune",
-                        url: "./items/other-item/growth-rune"
-                    },
+                        title: "Hardin's Soul Crystal",
+                        url: "./items/other-item/soul-crystal/hardins-soul-crystal"
+                    }
                 ]
             },
+            {
+                title: "Patterns and Hidden Power",
+                subMenu: [
+                    {
+                        title: "Patterns",
+                        url: "./items/other-item/patterns-and-hidden-power/patterns"
+                    },
+                    {
+                        title: "Hidden Power",
+                        url: "./items/other-item/patterns-and-hidden-power/hidden-power"
+                    }
+                ]
+            },
+            {
+                title: "Growth Rune",
+                url: "./items/other-item/growth-rune"
+            },
         ]
+    },
+    {
+        title: "Dolls",
+        url: "/dolls"
     },
     {
         title: "Articles",
