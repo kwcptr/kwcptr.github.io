@@ -355,7 +355,9 @@
     .table-of-contents {
       border: 1px solid #ccc;
       padding: 10px;
-      background-color: #f7f7f7;
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
       border-radius: 5px;
       margin-bottom: 20px;
       text-align: left;
@@ -366,6 +368,7 @@
       font-size: 1.05em;
       font-weight: 500;
       margin-bottom: 5px;
+      color: black;
     }
     
     .table-of-contents ul {
@@ -374,7 +377,7 @@
     }
    
     .table-of-contents a {
-      color: rgb(22, 67, 190);
+      color: white;
       transition-property: color;
       transition-duration: 0.15s;
           &:hover {

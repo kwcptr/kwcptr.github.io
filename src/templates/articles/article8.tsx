@@ -2,7 +2,7 @@ import ReactGA from "react-ga4";
 
 export const Article8 = () => {
 
-  ReactGA.send("pageviewarticle7");
+  ReactGA.send("pageviewarticle8");
 
   return (
     <div className="news-article">
@@ -352,7 +352,7 @@ export const Article8 = () => {
 
             <tr>
               <td className="skill-container">
-                <img className="skill-icon" src="/items/icons/doll/Anais.png" alt="" />
+                <img className="skill-icon" src="/items/icons/doll/anais.png" alt="" />
                 <br />
                 <span className="skill-text">Anais Doll</span>
               </td>
@@ -408,7 +408,7 @@ export const Article8 = () => {
 
             <tr>
               <td className="skill-container">
-                <img className="skill-icon" src="/items/icons/doll/Juriel.png" alt="" />
+                <img className="skill-icon" src="/items/icons/doll/juriel.png" alt="" />
                 <br />
                 <span className="skill-text">Juriel Doll</span>
               </td>
@@ -436,7 +436,7 @@ export const Article8 = () => {
 
             <tr>
               <td className="skill-container">
-                <img className="skill-icon" src="/items/icons/doll/Galaxia.png" alt="" />
+                <img className="skill-icon" src="/items/icons/doll/galaxia.png" alt="" />
                 <br />
                 <span className="skill-text">Galaxia Doll</span>
               </td>
@@ -660,7 +660,7 @@ export const Article8 = () => {
 
             <tr>
               <td className="skill-container">
-                <img className="skill-icon" src="/items/icons/doll/Aztacan.png" alt="" />
+                <img className="skill-icon" src="/items/icons/doll/aztacan.png" alt="" />
                 <br />
                 <span className="skill-text">Aztacan Doll</span>
               </td>
@@ -772,7 +772,7 @@ export const Article8 = () => {
 
             <tr>
               <td className="skill-container">
-                <img className="skill-icon" src="/items/icons/doll/Glakias-doll.png" alt="" />
+                <img className="skill-icon" src="/items/icons/doll/glakias-doll.png" alt="" />
                 <br />
                 <span className="skill-text">Glakias Doll</span>
               </td>
@@ -885,6 +885,44 @@ export const Article8 = () => {
           </tbody>
         </table>
       </div>
+      <div className="article-text">
+        — Dolls can be upgraded throught compounding. 4 dolls of the same grade are required for compounding.
+        <br />— A fee must be paid for each compounding attempt:
+      </div>
+      <table className="article-table">
+        <thead>
+          <tr>
+            <th>Grade</th>
+            <th>Adena fee per attempt</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style={{ color: '#000000a6' }}>Common</td>
+            <td>x100,000</td>
+          </tr>
+          <tr>
+            <td style={{ color: '#2dc26b' }}>Enhanced</td>
+            <td>x500,000</td>
+          </tr>
+          <tr>
+            <td style={{ color: '#e67e23' }}>Superior</td>
+            <td>x1,000,000</td>
+          </tr>
+          <tr>
+            <td style={{ color: '#3598db' }}>Rare</td>
+            <td>x3,000,000</td>
+          </tr>
+          <tr>
+            <td style={{ color: '#e03e2d' }}>Heroic</td>
+            <td>x10,000,000</td>
+          </tr>
+          <tr>
+            <td style={{ color: '#b96ad9' }}>Legendary</td>
+            <td>x100,000,000</td>
+          </tr>
+        </tbody>
+      </table>
 
       <div id="enchanting-dolls" className="article-text5">
         Enchanting Dolls
@@ -1402,12 +1440,12 @@ export const Article8 = () => {
               <td>
                 <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/anakim.png" alt="" />
-                  <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Anakim Doll</span>
                 </div>
                 <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/lilith.png" alt="" />
-                  <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Lilith Doll</span>
                 </div>
               </td>
@@ -1497,12 +1535,12 @@ export const Article8 = () => {
               <td>
                 <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/scarlet-van-halisha.png" alt="" />
-                  <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Scarlet van Halisha Doll</span>
                 </div>
                 <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/frintezza-doll.png" alt="" />
-                  <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Frintezza Doll</span>
                 </div>
               </td>
@@ -1725,7 +1763,7 @@ export const Article8 = () => {
                 </div>
                 <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/andreas-van-halter-doll.png" alt="" />
-                  <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Andreas van Halter Doll</span>
                 </div>
                 <div className="icon-container">
@@ -1821,12 +1859,12 @@ export const Article8 = () => {
               <td>
                 <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/baium-doll.png" alt="" />
-                  <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Baium Doll</span>
                 </div>
                 <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/ferion.png" alt="" />
-                  <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Ferion Doll</span>
                 </div>
               </td>
@@ -1869,7 +1907,7 @@ export const Article8 = () => {
                 </div>
                 <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
-                  <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Behemoth Doll</span>
                 </div>
                 <div className="icon-container">
@@ -2104,12 +2142,12 @@ export const Article8 = () => {
               <td>
                 <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/queen-ant-doll.png" alt="" />
-                  <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Queen Ant Doll</span>
                 </div>
                 <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/orfen-doll.png" alt="" />
-                  <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Orfen Doll</span>
                 </div>
               </td>
@@ -2217,7 +2255,7 @@ export const Article8 = () => {
                 <span className="skill-text">Full of Pure Ice Energy</span>
               </td>
               <td>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/queen-nebula.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Queen Nebula Doll</span>
@@ -2246,24 +2284,24 @@ export const Article8 = () => {
                 <span className="skill-text">Ranks of Heroes</span>
               </td>
               <td>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/core-doll.png" alt="" />
-                  <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Core Doll</span>
                 </div>
                 <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/antharas-doll.png" alt="" />
-                  <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Antharas Doll</span>
                 </div>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/glakias-doll.png" alt="" />
-                  <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Glakias Doll</span>
                 </div>
                 <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
-                  <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Behemoth Doll</span>
                 </div>
               </td>
@@ -2275,7 +2313,7 @@ export const Article8 = () => {
                 <span className="skill-text">Queen's Legend Ending</span>
               </td>
               <td>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/queen-ant-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-legendary.png" alt="" />
                   <span className="tooltip legendary">Legendary Queen Ant Doll</span>
@@ -2343,7 +2381,7 @@ export const Article8 = () => {
                 <span className="skill-text">Past Glory I</span>
               </td>
               <td>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/core-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Core Doll</span>
@@ -2362,7 +2400,7 @@ export const Article8 = () => {
                 <span className="skill-text">Past Glory II</span>
               </td>
               <td>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/orfen-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Orfen Doll</span>
@@ -2391,7 +2429,7 @@ export const Article8 = () => {
                 <span className="skill-text">Mark on History I</span>
               </td>
               <td>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/core-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Core Doll</span>
@@ -2410,7 +2448,7 @@ export const Article8 = () => {
                 <span className="skill-text">Mark on History II</span>
               </td>
               <td>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/zaken-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Zaken Doll</span>
@@ -2429,7 +2467,7 @@ export const Article8 = () => {
                 <span className="skill-text">Mark on History III</span>
               </td>
               <td>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/queen-ant-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Queen Ant Doll</span>
@@ -2446,7 +2484,7 @@ export const Article8 = () => {
                 </div>
                 <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/orfen-doll.png" alt="" />
-                  <img className="icon-panel3" src="/items/icons/doll/panel-Heroic.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
                   <span className="tooltip heroic">Heroic Orfen Doll</span>
                 </div>
               </td>
@@ -2458,7 +2496,7 @@ export const Article8 = () => {
                 <span className="skill-text">Learning New Things I</span>
               </td>
               <td>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/orfen-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Orfen Doll</span>
@@ -2477,7 +2515,7 @@ export const Article8 = () => {
                 <span className="skill-text">Learning New Things II</span>
               </td>
               <td>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/queen-ant-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Queen Ant Doll</span>
@@ -2501,7 +2539,7 @@ export const Article8 = () => {
                 <span className="skill-text">Generational Change I</span>
               </td>
               <td>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/king-petram.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior King Petram Doll</span>
@@ -2536,15 +2574,15 @@ export const Article8 = () => {
             </tr>
             <tr>
               <td className="skill-container">
-                <span className="skill-text">We Are Partners I</span>
+                <span className="skill-text">Best Pals I</span>
               </td>
               <td>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/baium-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
                   <span className="tooltip common">Common Baium Doll</span>
                 </div>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/antharas-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
                   <span className="tooltip common">Common Antharas Doll</span>
@@ -2560,15 +2598,15 @@ export const Article8 = () => {
             </tr>
             <tr>
               <td className="skill-container">
-                <span className="skill-text">We Are Partners II</span>
+                <span className="skill-text">Best Pals II</span>
               </td>
               <td>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/baium-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Baium Doll</span>
                 </div>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/antharas-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Antharas Doll</span>
@@ -2584,15 +2622,15 @@ export const Article8 = () => {
             </tr>
             <tr>
               <td className="skill-container">
-                <span className="skill-text">We Are Partners III</span>
+                <span className="skill-text">Best Pals III</span>
               </td>
               <td>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/baium-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Baium Doll</span>
                 </div>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/antharas-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Antharas Doll</span>
@@ -2608,15 +2646,15 @@ export const Article8 = () => {
             </tr>
             <tr>
               <td className="skill-container">
-                <span className="skill-text">We Are Partners IV</span>
+                <span className="skill-text">Best Pals IV</span>
               </td>
               <td>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/baium-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Baium Doll</span>
                 </div>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/antharas-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Antharas Doll</span>
@@ -2632,10 +2670,10 @@ export const Article8 = () => {
             </tr>
             <tr>
               <td className="skill-container">
-                <span className="skill-text">With the Princess</span>
+                <span className="skill-text">Together with Princess</span>
               </td>
               <td>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/princess-molrang.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
                   <span className="tooltip common">Common Princess Molrang Doll</span>
@@ -2645,7 +2683,7 @@ export const Article8 = () => {
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Princess Molrang Doll</span>
                 </div>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/vulcan.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Vulcan Doll</span>
@@ -2656,15 +2694,15 @@ export const Article8 = () => {
             </tr>
             <tr>
               <td className="skill-container">
-                <span className="skill-text">Red-Tinted Friends I</span>
+                <span className="skill-text">Fire Friends I</span>
               </td>
               <td>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/ryuminir.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
                   <span className="tooltip common">Common Ryuminir Doll</span>
                 </div>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/scarlet-van-halisha.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
                   <span className="tooltip common">Common Scarlet van Halisha Doll</span>
@@ -2674,12 +2712,12 @@ export const Article8 = () => {
                   <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
                   <span className="tooltip common">Common Vulcan Doll</span>
                 </div>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/king-ignis.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced King Ignis Doll</span>
                 </div>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Behemoth Doll</span>
@@ -2690,10 +2728,10 @@ export const Article8 = () => {
             </tr>
             <tr>
               <td className="skill-container">
-                <span className="skill-text">Red-Tinted Friends II</span>
+                <span className="skill-text">Fire Friends II</span>
               </td>
               <td>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/ryuminir.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
                   <span className="tooltip enhanced">Enhanced Ryuminir Doll</span>
@@ -2703,7 +2741,7 @@ export const Article8 = () => {
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior King Ignis Doll</span>
                 </div>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/scarlet-van-halisha.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Scarlet van Halisha Doll</span>
@@ -2713,7 +2751,7 @@ export const Article8 = () => {
                   <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
                   <span className="tooltip superior">Superior Vulcan Doll</span>
                 </div>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
                   <span className="tooltip rare">Rare Behemoth Doll</span>
@@ -2724,10 +2762,10 @@ export const Article8 = () => {
             </tr>
             <tr>
               <td className="skill-container">
-                <span className="skill-text">Red-Tinted Friends III</span>
+                <span className="skill-text">Fire Friends III</span>
               </td>
               <td>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/scarlet-van-halisha.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-legendary.png" alt="" />
                   <span className="tooltip legendary">Legendary Scarlet van Halisha Doll</span>
@@ -2737,7 +2775,7 @@ export const Article8 = () => {
                   <img className="icon-panel3" src="/items/icons/doll/panel-legendary.png" alt="" />
                   <span className="tooltip legendary">Legendary Vulcan Doll</span>
                 </div>
-              <div className="icon-container">
+                <div className="icon-container">
                   <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
                   <img className="icon-panel3" src="/items/icons/doll/panel-mythic.png" alt="" />
                   <span className="tooltip mythic">Mythic Behemoth Doll</span>
@@ -2745,6 +2783,485 @@ export const Article8 = () => {
               </td>
               <td>P. Atk. +100, M. Atk. +100</td>
               <td>Attack</td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <span className="skill-text">Piece of Cake</span>
+              </td>
+              <td>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/aztacan.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
+                  <span className="tooltip common">Common Aztacan Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/vulcan.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
+                  <span className="tooltip common">Common Vulcan Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/princess-molrang.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
+                  <span className="tooltip superior">Superior Princess Molrang Doll</span>
+                </div>
+              </td>
+              <td>Max MP +5%</td>
+              <td>Support</td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <span className="skill-text">Worship to Antharas</span>
+              </td>
+              <td>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/aztacan.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
+                  <span className="tooltip common">Common Aztacan Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/aztacan.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
+                  <span className="tooltip enhanced">Enhanced Aztacan Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/aztacan.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
+                  <span className="tooltip superior">Superior Aztacan Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/aztacan.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
+                  <span className="tooltip rare">Rare Aztacan Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/antharas-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
+                  <span className="tooltip rare">Rare Antharas Doll</span>
+                </div>
+              </td>
+              <td>Acquired XP/ SP +1%</td>
+              <td>Support</td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <span className="skill-text">Defense is Key</span>
+              </td>
+              <td>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/aztacan.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
+                  <span className="tooltip common">Common Aztacan Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/core-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
+                  <span className="tooltip enhanced">Enhanced Core Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/princess-molrang.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
+                  <span className="tooltip superior">Superior Princess Molrang Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/lilith.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
+                  <span className="tooltip rare">Rare Lilith Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/scarlet-van-halisha.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
+                  <span className="tooltip heroic">Heroic Scarlet van Halisha Doll</span>
+                </div>
+              </td>
+              <td>P. Def. +50</td>
+              <td>Defense</td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <span className="skill-text">Beyond the Dimensional Border</span>
+              </td>
+              <td>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/baium-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
+                  <span className="tooltip common">Common Baium Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
+                  <span className="tooltip enhanced">Enhanced Behemoth Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/tiron.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
+                  <span className="tooltip enhanced">Enhanced Tiron Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/kelbim-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
+                  <span className="tooltip superior">Superior Kelbim Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/ferion.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
+                  <span className="tooltip superior">Superior Ferion Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/aztacan.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
+                  <span className="tooltip rare">Rare Aztacan Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/vulcan.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
+                  <span className="tooltip rare">Rare Vulcan Doll</span>
+                </div>
+              </td>
+              <td>P. Def. +150</td>
+              <td>Defense</td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <span className="skill-text">Old & New</span>
+              </td>
+              <td>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/queen-ant-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
+                  <span className="tooltip common">Common Queen Ant Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/core-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
+                  <span className="tooltip heroic">Heroic Core Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/aztacan.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
+                  <span className="tooltip heroic">Heroic Aztacan Doll</span>
+                </div>
+              </td>
+              <td>M. Skill Power when hit -1%</td>
+              <td>Defense</td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <span className="skill-text">Orfen's Defense</span>
+              </td>
+              <td>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/orfen-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
+                  <span className="tooltip common">Common Orfen Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/core-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
+                  <span className="tooltip enhanced">Enhanced Core Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/aztacan.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
+                  <span className="tooltip superior">Superior Aztacan Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/queen-ant-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
+                  <span className="tooltip heroic">Heroic Queen Ant Doll</span>
+                </div>
+              </td>
+              <td>Received M. Skill Critical Rate -0.5%</td>
+              <td>Defense</td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <span className="skill-text">Cacophony</span>
+              </td>
+              <td>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/anakim.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
+                  <span className="tooltip enhanced">Enhanced Anakim Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/orfen-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
+                  <span className="tooltip enhanced">Enhanced Orfen Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/andreas-van-halter-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
+                  <span className="tooltip enhanced">Enhanced Andreas van Halter Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/zaken-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
+                  <span className="tooltip enhanced">Enhanced Zaken Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/aztacan.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
+                  <span className="tooltip enhanced">Enhanced Aztacan Doll</span>
+                </div>
+              </td>
+              <td>M. Skill Power when hit -0.5%</td>
+              <td>Defense</td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <span className="skill-text">King of Kings</span>
+              </td>
+              <td>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/king-procella.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
+                  <span className="tooltip rare">Rare King Procella Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/king-petram.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
+                  <span className="tooltip rare">Rare King Petram Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/zaken-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
+                  <span className="tooltip heroic">Heroic Zaken Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/frintezza-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
+                  <span className="tooltip heroic">Heroic Frintezza Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/baium-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
+                  <span className="tooltip heroic">Heroic Baium Doll</span>
+                </div>
+              </td>
+              <td>Received P. Skill Critical Damage -1.5%</td>
+              <td>Defense</td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <span className="skill-text">Tower of Insolence Angels (Common)</span>
+              </td>
+              <td>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/anais.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
+                  <span className="tooltip common">Common Anais Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/galaxia.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
+                  <span className="tooltip common">Common Galaxia Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/juriel.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
+                  <span className="tooltip common">Common Juriel Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/phiriel.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-common.png" alt="" />
+                  <span className="tooltip common">Common Phiriel Doll</span>
+                </div>
+              </td>
+              <td>M. Def. +20</td>
+              <td>Defense</td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <span className="skill-text">Tower of Insolence Angels (Enhanced)</span>
+              </td>
+              <td>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/anais.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
+                  <span className="tooltip enhanced">Enhanced Anais Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/galaxia.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
+                  <span className="tooltip enhanced">Enhanced Galaxia Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/juriel.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
+                  <span className="tooltip enhanced">Enhanced Juriel Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/phiriel.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
+                  <span className="tooltip enhanced">Enhanced Phiriel Doll</span>
+                </div>
+              </td>
+              <td>M. Def. +60</td>
+              <td>Defense</td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <span className="skill-text">Tower of Insolence Angels (Superior)</span>
+              </td>
+              <td>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/anais.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
+                  <span className="tooltip superior">Superior Anais Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/galaxia.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
+                  <span className="tooltip superior">Superior Galaxia Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/juriel.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
+                  <span className="tooltip superior">Superior Juriel Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/phiriel.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
+                  <span className="tooltip superior">Superior Phiriel Doll</span>
+                </div>
+              </td>
+              <td>M. Def. +100</td>
+              <td>Defense</td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <span className="skill-text">Tower of Insolence Angels (Rare)</span>
+              </td>
+              <td>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/anais.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
+                  <span className="tooltip rare">Rare Anais Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/galaxia.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
+                  <span className="tooltip rare">Rare Galaxia Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/juriel.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
+                  <span className="tooltip rare">Rare Juriel Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/phiriel.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-rare.png" alt="" />
+                  <span className="tooltip rare">Rare Phiriel Doll</span>
+                </div>
+              </td>
+              <td>M. Def. +140</td>
+              <td>Defense</td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <span className="skill-text">Pride and Prejudice</span>
+              </td>
+              <td>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/anais.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
+                  <span className="tooltip heroic">Heroic Anais Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/baium-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
+                  <span className="tooltip superior">Superior Baium Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/king-procella.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
+                  <span className="tooltip superior">Superior King Procella Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/antharas-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
+                  <span className="tooltip enhanced">Enhanced Antharas Doll</span>
+                </div>
+              </td>
+              <td>Received M. Skill Critical Rate -1%</td>
+              <td>Defense</td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <span className="skill-text">Arrogance and Prejudice</span>
+              </td>
+              <td>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/galaxia.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
+                  <span className="tooltip heroic">Heroic Galaxia Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/tiron.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
+                  <span className="tooltip superior">Superior Tiron Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/queen-nebula.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
+                  <span className="tooltip superior">Superior Queen Nebula Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/core-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
+                  <span className="tooltip enhanced">Enhanced Core Doll</span>
+                </div>
+              </td>
+              <td>Received M. Skill Critical Damage -0.5%</td>
+              <td>Defense</td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <span className="skill-text">Self-conceit and Prejudice</span>
+              </td>
+              <td>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/juriel.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
+                  <span className="tooltip heroic">Heroic Juriel Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/behemoth-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
+                  <span className="tooltip superior">Superior Behemoth Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/frintezza-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
+                  <span className="tooltip enhanced">Enhanced Frintezza Doll</span>
+                </div>
+              </td>
+              <td>M. Skill Power when hit -1%</td>
+              <td>Defense</td>
+            </tr>
+            <tr>
+              <td className="skill-container">
+                <span className="skill-text">Hubris and Prejudice</span>
+              </td>
+              <td>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/phiriel.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-heroic.png" alt="" />
+                  <span className="tooltip heroic">Heroic Phiriel Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/ferion.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-superior.png" alt="" />
+                  <span className="tooltip superior">Superior Ferion Doll</span>
+                </div>
+                <div className="icon-container">
+                  <img className="skill-icon3" src="/items/icons/doll/andreas-van-halter-doll.png" alt="" />
+                  <img className="icon-panel3" src="/items/icons/doll/panel-enhanced.png" alt="" />
+                  <span className="tooltip enhanced">Enhanced Andreas van Halter Doll</span>
+                </div>
+              </td>
+              <td>PvP Received M. Skill Damage -1%</td>
+              <td>Defense</td>
             </tr>
 
           </tbody>
