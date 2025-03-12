@@ -13,11 +13,19 @@ export const Article9 = () => {
           <span className="date">March 11, 2025</span>
         </div>
       </header>
-      <div className="article-text5">
+      <div className="table-of-contents">
+        <h2>Contents</h2>
+        <ul>
+          <li><a href="#evas-saint">Eva's Saint</a></li>
+          <li><a href="#shillien-saint">Shillien Saint</a></li>
+          <li><a href="#cardinal">Cardinal</a></li>
+        </ul>
+      </div>
+      <div id="evas-saint" className="article-text5">
         Eva's Saint
       </div>
       <div className="article-text">
-        • A new skill has been added:
+        — A new skill has been added:
       </div>
       <table className="article-table">
         <thead>
@@ -51,7 +59,7 @@ export const Article9 = () => {
         </tbody>
       </table>
       <div className="article-text">
-        • The following skills have been improved/changed:
+        — The following skills have been improved/changed:
       </div>
       <table className="article-table">
         <thead>
@@ -347,8 +355,8 @@ export const Article9 = () => {
       <div className="article-text5">
         Shillien Saint
       </div>
-      <div className="article-text">
-        • A new skill has been added:
+      <div id="shillien-saint" className="article-text">
+        — A new skill has been added:
       </div>
       <table className="article-table">
         <thead>
@@ -381,7 +389,7 @@ export const Article9 = () => {
         </tbody>
       </table>
       <div className="article-text">
-        • The following skills have been improved/changed:
+        — The following skills have been improved/changed:
       </div>
       <table className="article-table">
         <thead>
@@ -641,11 +649,11 @@ export const Article9 = () => {
           </tr>
         </tbody>
       </table>
-      <div className="article-text5">
+      <div id="cardinal" className="article-text5">
         Cardinal
       </div>
       <div className="article-text">
-        • The following skills have been improved/changed:
+        — The following skills have been improved/changed:
       </div>
       <table className="article-table">
         <thead>

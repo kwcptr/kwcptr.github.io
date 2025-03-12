@@ -8,6 +8,10 @@ export const News = () => {
       <div className="news__background">
         <div className="news__container">
           <div className="news__article">
+            <Link to="/articles/class-update-orc-shamans"><span className='news__articlename'>Class Update: Orc Shamans</span></Link>
+            <span className="news__date">March 12, 2025</span>
+          </div>
+          <div className="news__article">
             <Link to="/articles/class-update-elders"><span className='news__articlename'>Class Update: Elders</span></Link>
             <span className="news__date">March 11, 2025</span>
           </div>
