@@ -356,8 +356,6 @@ export const Article10 = () => {
         <tbody>
           <tr>
             <td className="skill-container">
-              <img className="skill-icon" src="https://assets.playnccdn.com/gamedata/powerbook/lin2/aden/skill/57/image_1357.png" alt="Pa'agrio's Power" />
-              <br />
               <span className="skill-text">Pa'agrio's Power</span>
             </td>
             <td>
