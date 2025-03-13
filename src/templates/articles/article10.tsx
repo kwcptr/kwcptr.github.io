@@ -108,7 +108,7 @@ export const Article10 = () => {
               <span className="skill-text">Flame Mark</span>
             </td>
             <td>
-              With a 100% chance an attack skill:
+              With a 100% chance after an attack skill:
               <br />Target's Atk. Spd, Casting Spd., Speed -30%
               <br />(Duration: 10 seconds. Trigger cooldown: 10 seconds)
             </td>
@@ -118,14 +118,14 @@ export const Article10 = () => {
       <div className="article-text">
         — The Life Rescue skill has been changed from a buff skill that continuously recovers HP to a skill that instantly recovers a fixed amount.
         <br />— The following skills have been removed:
-        <br />- Spirit Eagle
-        <br />- Spirit Evasion
+        <br />- Eagle Spirit
+        <br />- Soul Evasion
         <br />- Spirit Shield
         <br />- Chill Flame
         <br />- Blaze Quake
         <br />- Venom
-        <br />- Seal of Venom
-        <br />- Aura Sync
+        <br />- Venom Seal
+        <br />- Aura Sink
       </div>
       <div id="dominator" className="article-text5">
         Dominator
