@@ -22,12 +22,13 @@
         margin-left: -60em;
         gap: 3em;
         margin-bottom: 6em;
+
         .container__logo {
             width: 10em;
             margin: auto;
         }
-
     }
+
     .container__name {
         text-align: left;
         margin-left: 5em;
@@ -36,7 +37,8 @@
         font-weight: 500;
         font-size: 2.25em;
         text-shadow: 0.1em 0.1em $bg-DColor;
-            }
+    }
+
     .container__name2 {
         text-align: left;
         margin-left: 9em;
@@ -47,61 +49,86 @@
         text-shadow: 0.1em 0.1em $bg-DColor;
     }
 
-/* Changelog Bubble CSS */
-.changelog {
-    position: absolute;
-    top: 32%; /* Adjust as needed */
-    left: 9.5%; /* Adjust as needed */
-    background: rgba(0,0,0,0.3);
-    backdrop-filter: blur(10px);
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-    border-radius: 5px;
-    padding: 10px;
-    max-width: 400px; /* Adjust as needed */
-    max-height: 400px;
-    overflow-y: auto; /* Add a vertical scrollbar when content exceeds the maximum height */
-    z-index: 2; /* Ensure it's above other elements */
-}
+    /* Discord Widget CSS */
+    .discord__widget {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        z-index: 9999; /* Ensure it appears on top */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
+        border-radius: 8px;
+        overflow: hidden;
+        width: 350px;
+        height: 400px;
+    }
 
-.changelog__bubble {
-    position: relative;
-    margin: 0 auto;
-}
+    /* Changelog Container */
+    .changelog {
+        position: absolute;
+        top: 32%; /* Adjust as needed */
+        left: 9.5%; /* Adjust as needed */
+        background: rgba(0, 0, 0, 0.5);
+        backdrop-filter: blur(10px);
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        border-radius: 5px;
+        padding: 10px;
+        max-width: 400px;
+        z-index: 2; /* Ensure it's above other elements */
+    }
 
-.changelog__text {
-    margin: 0;
-    color: white;
-    text-align: left;
-}
-.changelog__subtitle {
-    margin: 0;
-    text-align: left;
-    color: white;
-    font-weight: 500;
-    font-size: 1.05em; /* Adjust the font size as needed */
-    margin-top: 15px; /* Adjust the margin as needed */
-}
+    /* Header stays at the top */
+    .changelog__header {
+        background: transparent;
+        padding: 5px;
+        padding-bottom: 20px; /* Increase the padding to add more space between the title and the border */
+        border-bottom: 1px solid #ccc; /* Add a thin bottom border */
+    }
 
-/* Changelog Title CSS */
-.changelog__title {
-    text-align: center;
-    color: white;
-    font-size: 1.75em; /* Adjust the font size as needed */
-    margin-bottom: 15px; /* Adjust the margin as needed */
-    border-bottom: 1px solid #ccc; /* Add a bottom border with a thin gray line */
-    padding-bottom: 12px; /* Add some space below each article */
-    font-weight: 500;
-}
+    /* Title inside header */
+    .changelog__title {
+        text-align: center;
+        color: white;
+        font-size: 1.75em;
+        font-weight: 500;
+        margin: 0;
+    }
 
-/* In your SCSS or CSS file */
-.changelog__link {
-    color: white;
-    font-weight: 500; /* Add bold style to links */
-    transition-property: color;
-    transition-duration: 0.15s;
-        &:hover {
+    /* Scrollable content */
+    .changelog__content {
+        max-height: 350px; /* Adjust height based on your design */
+        overflow-y: auto; /* Make the content scrollable */
+        padding: 10px 0;
+    }
+
+    /* Bubble and text styling */
+    .changelog__bubble {
+        margin: 0 auto;
+    }
+
+    .changelog__text {
+        margin: 0;
+        color: white;
+        text-align: left;
+    }
+
+    .changelog__subtitle {
+        margin: 0;
+        text-align: left;
+        color: white;
+        font-weight: 500;
+        font-size: 1.05em;
+        margin-top: 15px;
+    }
+
+    /* Link styling */
+    .changelog__link {
+        color: white;
+        font-weight: 500;
+        transition: color 0.15s;
+    }
+
+    .changelog__link:hover {
         color: $hover-DColor;
     }
-}
-  
+
 }
