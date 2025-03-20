@@ -113,7 +113,7 @@
             AdensSoulCrystalWeapon,
             HardinsSoulCrystal,
             GranKainsPendant,
-            Ruby,
+            RubyOld,
             Diamond,
             HuntersEarring,
             PetEarring,
@@ -131,6 +131,10 @@
             FerionsNecklace,
             AztacansEarring,
             AztacansOracleScepter,
+            Ruby,
+            Sapphire,
+            Emerald,
+            Aquamarine,
   } from "templates";
 
 /* Components */
@@ -168,8 +172,12 @@ const routes =
     <Route path="/items/accessory/jewel/opal" element={<Items><Opal/></Items>}/>
     <Route path="/items/accessory/jewel/spinel" element={<Items><Spinel/></Items>}/>
     <Route path="/items/accessory/jewel/zircon" element={<Items><Zircon/></Items>}/>
-    <Route path="/items/accessory/jewel/ruby" element={<Items><Ruby/></Items>}/>
+    <Route path="/items/accessory/jewel/ruby-old" element={<Items><RubyOld/></Items>}/>
     <Route path="/items/accessory/jewel/diamond" element={<Items><Diamond/></Items>}/>
+    <Route path="/items/accessory/jewel/ruby" element={<Items><Ruby/></Items>}/>
+    <Route path="/items/accessory/jewel/sapphire" element={<Items><Sapphire/></Items>}/>
+    <Route path="/items/accessory/jewel/emerald" element={<Items><Emerald/></Items>}/>
+    <Route path="/items/accessory/jewel/aquamarine" element={<Items><Aquamarine/></Items>}/>
     {/* Pendants */}
     <Route path="/items/accessory/pendant/einhasads-pendant" element={<Items><EinhasadsPendant/></Items>}/>
     <Route path="/items/accessory/pendant/gran-kains-pendant" element={<Items><GranKainsPendant/></Items>}/>
@@ -286,8 +294,8 @@ const routes =
     <Route path="/items/pet/pet-earring" element={<Items><PetEarring/></Items>}/>
     <Route path="/items/pet/pet-ring" element={<Items><PetRing/></Items>}/>
     {/* Patterns and hidden power */}
-    <Route path="/items/other-item/patterns-and-hidden-power/patterns" element={<Items><Patterns/></Items>}/>
-    <Route path="/items/other-item/patterns-and-hidden-power/hidden-power" element={<Items><Hiddenpower/></Items>}/>
+    <Route path="/items/pattern-hidden-power/pattern" element={<Items><Patterns/></Items>}/>
+    <Route path="/items/pattern-hidden-power/hidden-power" element={<Items><Hiddenpower/></Items>}/>
 
   </>
 

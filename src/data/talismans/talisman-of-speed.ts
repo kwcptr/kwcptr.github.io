@@ -1,47 +1,47 @@
 export const TALISMAN_OF_SPEED_ENCHANT_V1 = [
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "60%",
+    "Lv.": "+1",
+    "Success rate": "60%",
   },
   {
-    "Value": "+2",
-    "Probability": "50%",
+    "Lv.": "+2",
+    "Success rate": "50%",
   },
   {
-    "Value": "+3",
-    "Probability": "45%",
+    "Lv.": "+3",
+    "Success rate": "45%",
   },
   {
-    "Value": "+4",
-    "Probability": "40%",
+    "Lv.": "+4",
+    "Success rate": "40%",
   },
   {
-    "Value": "+5",
-    "Probability": "35%",
+    "Lv.": "+5",
+    "Success rate": "35%",
   },
   {
-    "Value": "+6",
-    "Probability": "30%",
+    "Lv.": "+6",
+    "Success rate": "30%",
   },
   {
-    "Value": "+7",
-    "Probability": "25%",
+    "Lv.": "+7",
+    "Success rate": "25%",
   },
   {
-    "Value": "+8",
-    "Probability": "20%",
+    "Lv.": "+8",
+    "Success rate": "20%",
   },
   {
-    "Value": "+9",
-    "Probability": "10%",
+    "Lv.": "+9",
+    "Success rate": "10%",
   },
   {
-    "Value": "+10",
-    "Probability": "5%",
+    "Lv.": "+10",
+    "Success rate": "5%",
   },
 ]
 
@@ -116,7 +116,7 @@ export const TALISMAN_OF_SPEED_V1 = [
 
 export const TALISMAN_OF_SPEED_TRIGGER_V1 = [
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+5",
     "Casting Spd.": "+5",
     "P. Skill Critical Damage": "-",
@@ -125,7 +125,7 @@ export const TALISMAN_OF_SPEED_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+10",
     "Casting Spd.": "+10",
     "P. Skill Critical Damage": "-",
@@ -134,7 +134,7 @@ export const TALISMAN_OF_SPEED_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+30",
     "Casting Spd.": "+30",
     "P. Skill Critical Damage": "-",
@@ -143,7 +143,7 @@ export const TALISMAN_OF_SPEED_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+50",
     "Casting Spd.": "+50",
     "P. Skill Critical Damage": "-",
@@ -152,7 +152,7 @@ export const TALISMAN_OF_SPEED_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+80",
     "Casting Spd.": "+80",
     "P. Skill Critical Damage": "+30",
@@ -161,7 +161,7 @@ export const TALISMAN_OF_SPEED_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+150",
     "Casting Spd.": "+150",
     "P. Skill Critical Damage": "+60",
@@ -170,7 +170,7 @@ export const TALISMAN_OF_SPEED_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+170",
     "Casting Spd.": "+170",
     "P. Skill Critical Damage": "+100",
@@ -179,7 +179,7 @@ export const TALISMAN_OF_SPEED_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+200",
     "Casting Spd.": "+200",
     "P. Skill Critical Damage": "+300",
@@ -188,7 +188,7 @@ export const TALISMAN_OF_SPEED_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+230",
     "Casting Spd.": "+230",
     "P. Skill Critical Damage": "+600",
@@ -197,7 +197,7 @@ export const TALISMAN_OF_SPEED_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+260",
     "Casting Spd.": "+260",
     "P. Skill Critical Damage": "+1100",
@@ -206,7 +206,7 @@ export const TALISMAN_OF_SPEED_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+300",
     "Casting Spd.": "+300",
     "P. Skill Critical Damage": "+1500",

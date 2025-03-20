@@ -1,47 +1,47 @@
 export const TALISMAN_OF_ADEN_ENCHANT_V1 = [
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "100%",
+    "Lv.": "+1",
+    "Success rate": "100%",
   },
   {
-    "Value": "+2",
-    "Probability": "80%",
+    "Lv.": "+2",
+    "Success rate": "80%",
   },
   {
-    "Value": "+3",
-    "Probability": "70%",
+    "Lv.": "+3",
+    "Success rate": "70%",
   },
   {
-    "Value": "+4",
-    "Probability": "60%",
+    "Lv.": "+4",
+    "Success rate": "60%",
   },
   {
-    "Value": "+5",
-    "Probability": "40%",
+    "Lv.": "+5",
+    "Success rate": "40%",
   },
   {
-    "Value": "+6",
-    "Probability": "30%",
+    "Lv.": "+6",
+    "Success rate": "30%",
   },
   {
-    "Value": "+7",
-    "Probability": "24%",
+    "Lv.": "+7",
+    "Success rate": "24%",
   },
   {
-    "Value": "+8",
-    "Probability": "16%",
+    "Lv.": "+8",
+    "Success rate": "16%",
   },
   {
-    "Value": "+9",
-    "Probability": "10%",
+    "Lv.": "+9",
+    "Success rate": "10%",
   },
   {
-    "Value": "+10",
-    "Probability": "10%",
+    "Lv.": "+10",
+    "Success rate": "10%",
   },
 ]
 

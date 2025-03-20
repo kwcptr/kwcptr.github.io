@@ -8,6 +8,10 @@ const Changelog = () => {
       </div>
       <div className="changelog__content">
         <div className="changelog__bubble">
+          <p className="changelog__subtitle">20/03/25</p>
+          <p className="changelog__text">
+            — New jewels: <a href="/items/accessory/jewel/ruby" className="changelog__link">Ruby</a>, <a href="/items/accessory/jewel/sapphire" className="changelog__link">Sapphire</a>, <a href="/items/accessory/jewel/emerald" className="changelog__link">Emerald</a>, <a href="/items/accessory/jewel/aquamarine" className="changelog__link">Aquamarine</a>
+          </p>
           <p className="changelog__subtitle">12/03/25</p>
           <p className="changelog__text">
             — New article: <a href="/articles/class-update-orc-shamans" className="changelog__link">Class Update: Orc Shamans</a>

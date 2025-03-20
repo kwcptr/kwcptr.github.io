@@ -1,23 +1,23 @@
 export const EINHASADS_PENDANT_COMPOUND_V1 = [
   {
-    "Value": "Lv. 1",
-    "Probability": "-",
+    "Lv.": "Lv. 1",
+    "Success rate": "-",
   },
   {
-    "Value": "Lv. 2",
-    "Probability": "20%",
+    "Lv.": "Lv. 2",
+    "Success rate": "20%",
   },
   {
-    "Value": "Lv. 3",
-    "Probability": "18%",
+    "Lv.": "Lv. 3",
+    "Success rate": "18%",
   },
   {
-    "Value": "Lv. 4",
-    "Probability": "12%",
+    "Lv.": "Lv. 4",
+    "Success rate": "12%",
   },
   {
-    "Value": "Lv. 5",
-    "Probability": "9%",
+    "Lv.": "Lv. 5",
+    "Success rate": "9%",
   },
 ]
 

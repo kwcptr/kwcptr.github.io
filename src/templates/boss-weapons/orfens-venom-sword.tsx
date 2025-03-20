@@ -19,7 +19,7 @@ export const OrfensVenomSword = () => {
         <div className="table__container">
 
           <div className="container__subTable">
-            <h3 className="subTitle" style={fixHeader}> Enchantment </h3>
+            <h3 className="subTitle" style={fixHeader}> Enchant </h3>
             <div className="type__col" />
             <Table data={ORFENS_VENOM_SWORD_ENCHANT_V1} />
           </div>

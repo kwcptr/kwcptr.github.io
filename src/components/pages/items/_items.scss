@@ -1,14 +1,103 @@
 .section__items {
     display: grid;
     place-content: center;
-    height: 100vh;
+    min-height: 100vh; /* La altura mínima es el 100% de la ventana */
     position: relative;
     background: {
-        image: url('./img/itemsBg.png');
+        color: #0E0D12;
         repeat: no-repeat;
         size: cover;
         position-y: center;
         position-x: center;
-        color: #b9b8b8;
+        attachment: fixed;
+    }
+}
+
+.section__items2 {
+    width: 70vw;
+    margin: 0 auto;
+    margin-top: 120px;
+    padding: 25px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    min-height: max-content;
+    margin-bottom: 120px;
+    display: flex; /* Flexbox for centering */
+    flex-direction: column; /* Ensures content is stacked vertically */
+    align-items: center; /* Horizontally centers the content */
+
+    .article-table-container {
+      width: 100%; /* Make sure the container takes up the full width */
+      overflow-x: auto; /* Enable horizontal scrolling */
+      margin-top: 20px;
+      margin-bottom: 20px;
+      display: flex;
+      justify-content: center; /* This will center the table horizontally */
+    }
+
+    .article-table {
+      max-width: max-content; // Adjust this as needed
+      overflow-x: auto; // Enable horizontal scrolling if the table is wider than the container
+      border-collapse: collapse; /* Collapse table borders to eliminate spacing */
+      margin-top: 20px; /* Add space above the table */
+      margin-bottom: 20px; /* Add space below the table */
+      color: white;
+    }
+    
+    .article-table th, .article-table td {
+      border: 1px solid #ccc; /* Add borders to table headers and cells */
+      padding: 8px; /* Add padding inside table cells */
+      text-align: center; /* Align text in cells to the left */
+      vertical-align: middle;
+    }
+    
+    .article-table th {
+      background-color: #60617A; /* Add a background color to table headers */
+    }
+
+    .article-table tr {
+      background: #17161C;
+      &:nth-child(2n) {
+          background: #26242E;
+      }
+    }
+    
+    .title-text {
+      font-weight: 600;
+      color: white;
+    }
+
+    .article-text {
+      text-align: left;
+      color: white;
+    }
+
+    .article-text2 {
+      text-align: left;
+      font-style: italic;
+      color: white;
+    }
+
+    .article-text3 {
+      font-size: 20px;
+      text-align: left;
+      font-weight: 500;
+      color: white;
+    }
+
+    .article-text4 {
+      margin-top: 10px;
+      text-align: left;
+      font-weight: 600;
+      color: white;
+    }
+
+    .article-text5 {
+      font-size: 20px;
+      text-align: left;
+      font-weight: 600;
+      margin-top: 30px;
+      margin-bottom: 10px;
+      color: white;
     }
 }

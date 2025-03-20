@@ -1,31 +1,31 @@
 export const FERIONS_NECKLACE_ENCHANT_V1 = [
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "100%",
+    "Lv.": "+1",
+    "Success rate": "100%",
   },
   {
-    "Value": "+2",
-    "Probability": "50%",
+    "Lv.": "+2",
+    "Success rate": "50%",
   },
   {
-    "Value": "+3",
-    "Probability": "40%",
+    "Lv.": "+3",
+    "Success rate": "40%",
   },
   {
-    "Value": "+4",
-    "Probability": "30%",
+    "Lv.": "+4",
+    "Success rate": "30%",
   },
   {
-    "Value": "+5",
-    "Probability": "20%",
+    "Lv.": "+5",
+    "Success rate": "20%",
   },
   {
-    "Value": "+6",
-    "Probability": "8%",
+    "Lv.": "+6",
+    "Success rate": "8%",
   },
 ]
 
@@ -125,43 +125,43 @@ export const FERIONS_NECKLACE_V1 = [
 
 export const FERIONS_NECKLACE_TRIGGER_V1 = [
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
     "Cooldown": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
     "Cooldown": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
     "Cooldown": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
     "Cooldown": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
     "Cooldown": "-",
   },
   {
-    "Probability": "After an attack: 2%",
+    "Success rate": "After an attack: 2%",
     "Effect": "Suppresses the target on attack: Atk. Spd. is 300, Casting Spd. is 300, Speed is 100.",
     "Duration": "3 sec.",
     "Cooldown": "60 sec.",
   },
   {
-    "Probability": "After an attack: 5%",
+    "Success rate": "After an attack: 5%",
     "Effect": "Suppresses the target on attack: Atk. Spd. is 300, Casting Spd. is 300, Speed is 100.",
     "Duration": "3 sec.",
     "Cooldown": "60 sec.",

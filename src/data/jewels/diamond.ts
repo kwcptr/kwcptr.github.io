@@ -1,35 +1,35 @@
 export const DIAMOND_COMPOUND_V1 = [
   {
-    "Value": "Lv. 1",
-    "Probability": "-",
+    "Lv.": "Lv. 1",
+    "Success rate": "-",
   },
   {
-    "Value": "Lv. 2",
-    "Probability": "65%",
+    "Lv.": "Lv. 2",
+    "Success rate": "65%",
   },
   {
-    "Value": "Lv. 3",
-    "Probability": "40%",
+    "Lv.": "Lv. 3",
+    "Success rate": "40%",
   },
   {
-    "Value": "Lv. 4",
-    "Probability": "35%",
+    "Lv.": "Lv. 4",
+    "Success rate": "35%",
   },
   {
-    "Value": "Lv. 5",
-    "Probability": "30%",
+    "Lv.": "Lv. 5",
+    "Success rate": "30%",
   },
   {
-    "Value": "Lv. 6",
-    "Probability": "25%",
+    "Lv.": "Lv. 6",
+    "Success rate": "25%",
   },
   {
-    "Value": "Lv. 7",
-    "Probability": "20%",
+    "Lv.": "Lv. 7",
+    "Success rate": "20%",
   },
   {
-    "Value": "Lv. 8",
-    "Probability": "15%",
+    "Lv.": "Lv. 8",
+    "Success rate": "15%",
   },
 ]
 
@@ -70,7 +70,7 @@ export const DIAMOND_V1 = [
 
 export const DIAMOND_TRIGGER_V1 = [
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Received damage": "-",
     "Suppression Resistance": "-",
     "P. Def/ M. Def.": "-",
@@ -78,7 +78,7 @@ export const DIAMOND_TRIGGER_V1 = [
     "Cooldown": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Received damage": "-",
     "Suppression Resistance": "-",
     "P. Def/ M. Def.": "-",
@@ -86,7 +86,7 @@ export const DIAMOND_TRIGGER_V1 = [
     "Cooldown": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Received damage": "-",
     "Suppression Resistance": "-",
     "P. Def/ M. Def.": "-",
@@ -94,7 +94,7 @@ export const DIAMOND_TRIGGER_V1 = [
     "Cooldown": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Received damage": "-",
     "Suppression Resistance": "-",
     "P. Def/ M. Def.": "-",
@@ -102,7 +102,7 @@ export const DIAMOND_TRIGGER_V1 = [
     "Cooldown": "-",
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Received damage": "-1%",
     "Suppression Resistance": "+1%",
     "P. Def/ M. Def.": "-",
@@ -110,7 +110,7 @@ export const DIAMOND_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "2%",
+    "Success rate": "2%",
     "Received damage": "-2%",
     "Suppression Resistance": "+2%",
     "P. Def/ M. Def.": "-",
@@ -118,7 +118,7 @@ export const DIAMOND_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "3%",
+    "Success rate": "3%",
     "Received damage": "-3%",
     "Suppression Resistance": "+3%",
     "P. Def/ M. Def.": "-",
@@ -126,7 +126,7 @@ export const DIAMOND_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "5%",
+    "Success rate": "5%",
     "Received damage": "-5%",
     "Suppression Resistance": "+5%",
     "P. Def/ M. Def.": "+500",

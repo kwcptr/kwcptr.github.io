@@ -5,7 +5,7 @@
         size: cover;
         position-y: center;
         position-x: center;
-        color: #b9b8b8;
+        color: grey;
     }
     display: grid;
     text-align: center;
@@ -52,7 +52,7 @@
     /* Discord Widget CSS */
     .discord__widget {
         position: fixed;
-        bottom: 20px;
+        bottom: 15px;
         right: 20px;
         z-index: 9999; /* Ensure it appears on top */
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
@@ -64,16 +64,16 @@
 
     /* Changelog Container */
     .changelog {
-        position: absolute;
-        top: 32%; /* Adjust as needed */
-        left: 9.5%; /* Adjust as needed */
-        background: rgba(0, 0, 0, 0.5);
+        position: fixed; /* Cambiado a 'fixed' para que se mueva con la pantalla */
+        bottom: 430px; /* Coloca el changelog encima del Discord Widget (ajusta según sea necesario) */
+        right: 20px; /* Alineado a la derecha, igual que el widget de Discord */
+        background: rgba(30, 31, 34, 0.8);
         backdrop-filter: blur(10px);
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
         border-radius: 5px;
         padding: 10px;
-        max-width: 400px;
-        z-index: 2; /* Ensure it's above other elements */
+        max-width: 350px; /* Establece el mismo ancho que el widget de Discord */
+        z-index: 9998; /* Asegúrate de que esté por debajo del widget de Discord */
     }
 
     /* Header stays at the top */
@@ -97,7 +97,6 @@
     .changelog__content {
         max-height: 350px; /* Adjust height based on your design */
         overflow-y: auto; /* Make the content scrollable */
-        padding: 10px 0;
     }
 
     /* Bubble and text styling */

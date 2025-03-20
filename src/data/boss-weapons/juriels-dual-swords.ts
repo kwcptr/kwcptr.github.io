@@ -1,47 +1,47 @@
 export const JURIELS_DUAL_SWORDS_ENCHANT_V1 = [ 
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "100%",
+    "Lv.": "+1",
+    "Success rate": "100%",
   },
   {
-    "Value": "+2",
-    "Probability": "100%",
+    "Lv.": "+2",
+    "Success rate": "100%",
   },
   {
-    "Value": "+3",
-    "Probability": "100%",
+    "Lv.": "+3",
+    "Success rate": "100%",
   },
   {
-    "Value": "+4",
-    "Probability": "100%",
+    "Lv.": "+4",
+    "Success rate": "100%",
   },
   {
-    "Value": "+5",
-    "Probability": "33%",
+    "Lv.": "+5",
+    "Success rate": "33%",
   },
   {
-    "Value": "+6",
-    "Probability": "15%",
+    "Lv.": "+6",
+    "Success rate": "15%",
   },
   {
-    "Value": "+7",
-    "Probability": "15%",
+    "Lv.": "+7",
+    "Success rate": "15%",
   },
   {
-    "Value": "+8",
-    "Probability": "8%",
+    "Lv.": "+8",
+    "Success rate": "8%",
   },
   {
-    "Value": "+9",
-    "Probability": "4%",
+    "Lv.": "+9",
+    "Success rate": "4%",
   },
   {
-    "Value": "+10",
-    "Probability": "2%",
+    "Lv.": "+10",
+    "Success rate": "2%",
   },
 ]
 
@@ -105,7 +105,7 @@ export const JURIELS_DUAL_SWORDS_V1 = [
 
 export const JURIELS_DUAL_SWORDS_TRIGGER_V1 = [
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 103,
     "Probability_P": "1%",
     "Power_P": 103,
@@ -113,7 +113,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER_V1 = [
     "Power_M": 61,
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 105,
     "Probability_P": "1%",
     "Power_P": 105,
@@ -121,7 +121,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER_V1 = [
     "Power_M": 63,
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 107,
     "Probability_P": "1%",
     "Power_P": 107,
@@ -129,7 +129,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER_V1 = [
     "Power_M": 64,
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 109,
     "Probability_P": "1%",
     "Power_P": 109,
@@ -137,7 +137,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER_V1 = [
     "Power_M": 65,
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 112,
     "Probability_P": "1%",
     "Power_P": 112,
@@ -145,7 +145,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER_V1 = [
     "Power_M": 67,
   },
   {
-    "Probability": "2%",
+    "Success rate": "2%",
     "Power": 116,
     "Probability_P": "4%",
     "Power_P": 116,
@@ -153,7 +153,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER_V1 = [
     "Power_M": 69,
   },
   {
-    "Probability": "4%",
+    "Success rate": "4%",
     "Power": 120,
     "Probability_P": "7%",
     "Power_P": 120,
@@ -161,7 +161,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER_V1 = [
     "Power_M": 72,
   },
   {
-    "Probability": "6%",
+    "Success rate": "6%",
     "Power": 124,
     "Probability_P": "10%",
     "Power_P": 124,
@@ -169,7 +169,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER_V1 = [
     "Power_M": 74,
   },
   {
-    "Probability": "8%",
+    "Success rate": "8%",
     "Power": 128,
     "Probability_P": "13%",
     "Power_P": 128,
@@ -177,7 +177,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER_V1 = [
     "Power_M": 76,
   },
   {
-    "Probability": "10%",
+    "Success rate": "10%",
     "Power": 132,
     "Probability_P": "16%",
     "Power_P": 132,
@@ -185,7 +185,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER_V1 = [
     "Power_M": 79,
   },
   {
-    "Probability": "12%",
+    "Success rate": "12%",
     "Power": 136,
     "Probability_P": "20%",
     "Power_P": 136,
@@ -196,7 +196,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER_V1 = [
 
 export const JURIELS_DUAL_SWORDS_TRIGGER2_V1 = [
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Power": "-",
     "Probability_P": "-",
     "Power_P": "-",
@@ -204,7 +204,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER2_V1 = [
     "Power_M": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Power": "-",
     "Probability_P": "-",
     "Power_P": "-",
@@ -212,7 +212,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER2_V1 = [
     "Power_M": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Power": "-",
     "Probability_P": "-",
     "Power_P": "-",
@@ -220,7 +220,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER2_V1 = [
     "Power_M": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Power": "-",
     "Probability_P": "-",
     "Power_P": "-",
@@ -228,7 +228,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER2_V1 = [
     "Power_M": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Power": "-",
     "Probability_P": "-",
     "Power_P": "-",
@@ -236,7 +236,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER2_V1 = [
     "Power_M": "-",
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 174,
     "Probability_P": "1%",
     "Power_P": 174,
@@ -244,7 +244,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER2_V1 = [
     "Power_M": 104,
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 180,
     "Probability_P": "1%",
     "Power_P": 180,
@@ -252,7 +252,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER2_V1 = [
     "Power_M": 108,
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 186,
     "Probability_P": "2%",
     "Power_P": 186,
@@ -260,7 +260,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER2_V1 = [
     "Power_M": 111,
   },
   {
-    "Probability": "2%",
+    "Success rate": "2%",
     "Power": 192,
     "Probability_P": "3%",
     "Power_P": 192,
@@ -268,7 +268,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER2_V1 = [
     "Power_M": 115,
   },
   {
-    "Probability": "2%",
+    "Success rate": "2%",
     "Power": 198,
     "Probability_P": "4%",
     "Power_P": 198,
@@ -276,7 +276,7 @@ export const JURIELS_DUAL_SWORDS_TRIGGER2_V1 = [
     "Power_M": 118,
   },
   {
-    "Probability": "3%",
+    "Success rate": "3%",
     "Power": 204,
     "Probability_P": "5%",
     "Power_P": 204,

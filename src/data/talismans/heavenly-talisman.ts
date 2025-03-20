@@ -1,47 +1,47 @@
 export const HEAVENLY_TALISMAN_ENCHANT_V1 = [
   {
-    "Value": "-",
-    "Probability": "?",
+    "Lv.": "-",
+    "Success rate": "?",
   },
   {
-    "Value": "+1",
-    "Probability": "?",
+    "Lv.": "+1",
+    "Success rate": "?",
   },
   {
-    "Value": "+2",
-    "Probability": "?",
+    "Lv.": "+2",
+    "Success rate": "?",
   },
   {
-    "Value": "+3",
-    "Probability": "?",
+    "Lv.": "+3",
+    "Success rate": "?",
   },
   {
-    "Value": "+4",
-    "Probability": "?",
+    "Lv.": "+4",
+    "Success rate": "?",
   },
   {
-    "Value": "+5",
-    "Probability": "?",
+    "Lv.": "+5",
+    "Success rate": "?",
   },
   {
-    "Value": "+6",
-    "Probability": "?",
+    "Lv.": "+6",
+    "Success rate": "?",
   },
   {
-    "Value": "+7",
-    "Probability": "?",
+    "Lv.": "+7",
+    "Success rate": "?",
   },
   {
-    "Value": "+8",
-    "Probability": "?",
+    "Lv.": "+8",
+    "Success rate": "?",
   },
   {
-    "Value": "+9",
-    "Probability": "?",
+    "Lv.": "+9",
+    "Success rate": "?",
   },
   {
-    "Value": "+10",
-    "Probability": "?",
+    "Lv.": "+10",
+    "Success rate": "?",
   },
 ]
 
@@ -160,57 +160,57 @@ export const HEAVENLY_TALISMAN_V1 = [
 
   export const HEAVENLY_TALISMAN_TRIGGER_V1 = [
     {
-      "Probability": "?",
+      "Success rate": "?",
       "Effect": "-",
       "Duration": "-",
     },  
     {
-      "Probability": "?",
+      "Success rate": "?",
       "Effect": "-",
       "Duration": "-",
     },  
     {
-      "Probability": "?",
+      "Success rate": "?",
       "Effect": "-",
       "Duration": "-",
     },  
     {
-      "Probability": "?",
+      "Success rate": "?",
       "Effect": "-",
       "Duration": "-",
     },  
     {
-      "Probability": "?",
+      "Success rate": "?",
       "Effect": "-",
       "Duration": "-",
     },  
     {
-      "Probability": "?",
+      "Success rate": "?",
       "Effect": "-",
       "Duration": "-",
     },  
     {
-      "Probability": "?",
+      "Success rate": "?",
       "Effect": "-",
       "Duration": "-",
     },  
     {
-      "Probability": "?",
+      "Success rate": "?",
       "Effect": "-",
       "Duration": "-",
     },  
     {
-      "Probability": "?",
+      "Success rate": "?",
       "Effect": "-",
       "Duration": "-",
     },  
     {
-      "Probability": "When hit: 1%",
+      "Success rate": "When hit: 1%",
       "Effect": "Number of attacks dealt by the enemy fixed to 1.",
       "Duration": "3 sec.",
     },  
     {
-      "Probability": "When hit: 2%",
+      "Success rate": "When hit: 2%",
       "Effect": "Number of attacks dealt by the enemy fixed to 1.",
       "Duration": "3 sec.",
     },  

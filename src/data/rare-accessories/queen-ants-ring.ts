@@ -1,31 +1,31 @@
 export const QUEEN_ANTS_RING_ENCHANT_V1 = [
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "100%",
+    "Lv.": "+1",
+    "Success rate": "100%",
   },
   {
-    "Value": "+2",
-    "Probability": "50%",
+    "Lv.": "+2",
+    "Success rate": "50%",
   },
   {
-    "Value": "+3",
-    "Probability": "40%",
+    "Lv.": "+3",
+    "Success rate": "40%",
   },
   {
-    "Value": "+4",
-    "Probability": "30%",
+    "Lv.": "+4",
+    "Success rate": "30%",
   },
   {
-    "Value": "+5",
-    "Probability": "20%",
+    "Lv.": "+5",
+    "Success rate": "20%",
   },
   {
-    "Value": "+6",
-    "Probability": "8%",
+    "Lv.": "+6",
+    "Success rate": "8%",
   },
 ]
 
@@ -146,37 +146,37 @@ export const QUEEN_ANTS_RING_V1 = [
 
 export const QUEEN_ANTS_RING_TRIGGER_V1 = [
 {
-  "Probability": "-",
+  "Success rate": "-",
   "Effect": "-",
   "Duration": "-",
 },
 {
-  "Probability": "-",
+  "Success rate": "-",
   "Effect": "-",
   "Duration": "-",
 },
 {
-  "Probability": "-",
+  "Success rate": "-",
   "Effect": "-",
   "Duration": "-",
 },
 {
-  "Probability": "-",
+  "Success rate": "-",
   "Effect": "-",
   "Duration": "-",
 },
 {
-  "Probability": "-",
+  "Success rate": "-",
   "Effect": "-",
   "Duration": "-",
 },
 {
-  "Probability": "When hit: 1%",
+  "Success rate": "When hit: 1%",
   "Effect": "Grants immunity to debuffs that decrease P./M. Atk.",
   "Duration": "5 sec.",
 },
 {
-  "Probability": "When hit: 1%",
+  "Success rate": "When hit: 1%",
   "Effect": "Grants immunity to debuffs that decrease P./M. Atk. Damage +2%.",
   "Duration": "5 sec.",
 },

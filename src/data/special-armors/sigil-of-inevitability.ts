@@ -1,47 +1,47 @@
 export const SIGIL_OF_INEVITABILITY_ENCHANT_V1 = [
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "100%",
+    "Lv.": "+1",
+    "Success rate": "100%",
   },
   {
-    "Value": "+2",
-    "Probability": "100%",
+    "Lv.": "+2",
+    "Success rate": "100%",
   },
   {
-    "Value": "+3",
-    "Probability": "100%",
+    "Lv.": "+3",
+    "Success rate": "100%",
   },
   {
-    "Value": "+4",
-    "Probability": "100%",
+    "Lv.": "+4",
+    "Success rate": "100%",
   },
   {
-    "Value": "+5",
-    "Probability": "20%",
+    "Lv.": "+5",
+    "Success rate": "20%",
   },
   {
-    "Value": "+6",
-    "Probability": "10%",
+    "Lv.": "+6",
+    "Success rate": "10%",
   },
   {
-    "Value": "+7",
-    "Probability": "10%",
+    "Lv.": "+7",
+    "Success rate": "10%",
   },
   {
-    "Value": "+8",
-    "Probability": "8%",
+    "Lv.": "+8",
+    "Success rate": "8%",
   },
   {
-    "Value": "+9",
-    "Probability": "5%",
+    "Lv.": "+9",
+    "Success rate": "5%",
   },
   {
-    "Value": "+10",
-    "Probability": "2%",
+    "Lv.": "+10",
+    "Success rate": "2%",
   },
 ]
 
@@ -116,57 +116,57 @@ export const SIGIL_OF_INEVITABILITY_V1 = [
 
 export const SIGIL_OF_INEVITABILITY_TRIGGER_V1 = [
   {
-    "Probability": "After an attack: 1%",
+    "Success rate": "After an attack: 1%",
     "Effect": "Skill Power +1%.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "After an attack: 1%",
+    "Success rate": "After an attack: 1%",
     "Effect": "Skill Power +1%.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "After an attack: 1%",
+    "Success rate": "After an attack: 1%",
     "Effect": "Skill Power +1%.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "After an attack: 1%",
+    "Success rate": "After an attack: 1%",
     "Effect": "Skill Power +1%.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "After an attack: 1%",
+    "Success rate": "After an attack: 1%",
     "Effect": "Skill Power +2%.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "After an attack: 2%",
+    "Success rate": "After an attack: 2%",
     "Effect": "Skill Power +3%.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "After an attack: 3%",
+    "Success rate": "After an attack: 3%",
     "Effect": "Skill Power +4%.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "After an attack: 5%",
+    "Success rate": "After an attack: 5%",
     "Effect": "Skill Power +5%.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "After an attack: 7%",
+    "Success rate": "After an attack: 7%",
     "Effect": "Skill Power +8%.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "After an attack: 8%",
+    "Success rate": "After an attack: 8%",
     "Effect": "Skill Power +8.5%.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "After an attack: 9%",
+    "Success rate": "After an attack: 9%",
     "Effect": "Skill Power +9%.",
     "Duration": "3 sec.",
   },
@@ -174,57 +174,57 @@ export const SIGIL_OF_INEVITABILITY_TRIGGER_V1 = [
 
 export const SIGIL_OF_INEVITABILITY_TRIGGER2_V1 = [
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
   },
   {
-    "Probability": "After an attack: 1%",
+    "Success rate": "After an attack: 1%",
     "Effect": "All Critical Damage +50.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "After an attack: 1%",
+    "Success rate": "After an attack: 1%",
     "Effect": "All Critical Damage +100.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "After an attack: 1%",
+    "Success rate": "After an attack: 1%",
     "Effect": "All Critical Damage +200.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "After an attack: 2%",
+    "Success rate": "After an attack: 2%",
     "Effect": "All Critical Damage +300.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "After an attack: 3%",
+    "Success rate": "After an attack: 3%",
     "Effect": "All Critical Damage +350.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "After an attack: 4%",
+    "Success rate": "After an attack: 4%",
     "Effect": "All Critical Damage +400.",
     "Duration": "3 sec.",
   },

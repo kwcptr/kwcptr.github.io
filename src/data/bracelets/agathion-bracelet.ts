@@ -1,43 +1,43 @@
 export const AGATHION_BRACELET_COMPOUND_V1 = [
   {
-    "Value": "Lv. 1",
-    "Probability": "-",
+    "Lv.": "Lv. 1",
+    "Success rate": "-",
   },
   {
-    "Value": "Lv. 2",
-    "Probability": "25%",
+    "Lv.": "Lv. 2",
+    "Success rate": "25%",
   },
   {
-    "Value": "Lv. 3",
-    "Probability": "25%",
+    "Lv.": "Lv. 3",
+    "Success rate": "25%",
   },
   {
-    "Value": "Lv. 4",
-    "Probability": "25%",
+    "Lv.": "Lv. 4",
+    "Success rate": "25%",
   },
   {
-    "Value": "Lv. 5",
-    "Probability": "25%",
+    "Lv.": "Lv. 5",
+    "Success rate": "25%",
   },
   {
-    "Value": "Lv. 6",
-    "Probability": "25%",
+    "Lv.": "Lv. 6",
+    "Success rate": "25%",
   },
   {
-    "Value": "Lv. 7",
-    "Probability": "25%",
+    "Lv.": "Lv. 7",
+    "Success rate": "25%",
   },
   {
-    "Value": "Lv. 8",
-    "Probability": "25%",
+    "Lv.": "Lv. 8",
+    "Success rate": "25%",
   },
   {
-    "Value": "Lv. 9",
-    "Probability": "25%",
+    "Lv.": "Lv. 9",
+    "Success rate": "25%",
   },
   {
-    "Value": "Lv. 10",
-    "Probability": "25%",
+    "Lv.": "Lv. 10",
+    "Success rate": "25%",
   },
 ]
 

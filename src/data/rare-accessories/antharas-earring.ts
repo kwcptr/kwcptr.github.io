@@ -1,31 +1,31 @@
 export const ANTHARAS_EARRING_ENCHANT_V1 = [
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "100%",
+    "Lv.": "+1",
+    "Success rate": "100%",
   },
   {
-    "Value": "+2",
-    "Probability": "50%",
+    "Lv.": "+2",
+    "Success rate": "50%",
   },
   {
-    "Value": "+3",
-    "Probability": "40%",
+    "Lv.": "+3",
+    "Success rate": "40%",
   },
   {
-    "Value": "+4",
-    "Probability": "30%",
+    "Lv.": "+4",
+    "Success rate": "30%",
   },
   {
-    "Value": "+5",
-    "Probability": "20%",
+    "Lv.": "+5",
+    "Success rate": "20%",
   },
   {
-    "Value": "+6",
-    "Probability": "8%",
+    "Lv.": "+6",
+    "Success rate": "8%",
   },
 ]
 
@@ -202,37 +202,37 @@ export const ANTHARAS_EARRING_V1 = [
 
 export const ANTHARAS_EARRING_TRIGGER_V1 = [
 {
-  "Probability": "-",
+  "Success rate": "-",
   "Effect": "-",
   "Cooldown": "-",
 },
 {
-  "Probability": "-",
+  "Success rate": "-",
   "Effect": "-",
   "Cooldown": "-",
 },
 {
-  "Probability": "-",
+  "Success rate": "-",
   "Effect": "-",
   "Cooldown": "-",
 },
 {
-  "Probability": "-",
+  "Success rate": "-",
   "Effect": "-",
   "Cooldown": "-",
 },
 {
-  "Probability": "-",
+  "Success rate": "-",
   "Effect": "-",
   "Cooldown": "-",
 },
 {
-  "Probability": "Basic Attack: 50% / Skill: 50%",
+  "Success rate": "Basic Attack: 50% / Skill: 50%",
   "Effect": "Recovers 30% of HP/MP.",
   "Cooldown": "5 min.",
 },
 {
-  "Probability": "Basic Attack: 50% / Skill: 50%",
+  "Success rate": "Basic Attack: 50% / Skill: 50%",
   "Effect": "Recovers 30% of HP/MP.",
   "Cooldown": "5 min.",
 },
@@ -240,37 +240,37 @@ export const ANTHARAS_EARRING_TRIGGER_V1 = [
 
 export const ANTHARAS_EARRING_TRIGGER2_V1 = [
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
   },
   {
-    "Probability": "Basic Attack: 1% / Skill: 1%",
+    "Success rate": "Basic Attack: 1% / Skill: 1%",
     "Effect": "Stuns the target and immobilizes it.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "Basic Attack: 1% / Skill: 1%",
+    "Success rate": "Basic Attack: 1% / Skill: 1%",
     "Effect": "Stuns the target and immobilizes it.",
     "Duration": "3 sec.",
   },
@@ -278,37 +278,37 @@ export const ANTHARAS_EARRING_TRIGGER2_V1 = [
 
   export const ANTHARAS_EARRING_TRIGGER3_V1 = [
     {
-      "Probability": "-",
+      "Success rate": "-",
       "Effect": "-",
       "Cooldown": "-",
     },
     {
-      "Probability": "-",
+      "Success rate": "-",
       "Effect": "-",
       "Cooldown": "-",
     },
     {
-      "Probability": "-",
+      "Success rate": "-",
       "Effect": "-",
       "Cooldown": "-",
     },
     {
-      "Probability": "-",
+      "Success rate": "-",
       "Effect": "-",
       "Cooldown": "-",
     },
     {
-      "Probability": "-",
+      "Success rate": "-",
       "Effect": "-",
       "Cooldown": "-",
     },
     {
-      "Probability": "-",
+      "Success rate": "-",
       "Effect": "-",
       "Cooldown": "-",
     },
     {
-      "Probability": "Basic Attack: ?% / Skill: ?%",
+      "Success rate": "Basic Attack: ?% / Skill: ?%",
       "Effect": "Recovers 225 MP.",
       "Cooldown": "1 min.",
     },

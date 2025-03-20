@@ -1,47 +1,47 @@
 export const BLESSED_TALISMAN_OF_SPEED_ENCHANT_V1 = [
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "60%",
+    "Lv.": "+1",
+    "Success rate": "60%",
   },
   {
-    "Value": "+2",
-    "Probability": "50%",
+    "Lv.": "+2",
+    "Success rate": "50%",
   },
   {
-    "Value": "+3",
-    "Probability": "45%",
+    "Lv.": "+3",
+    "Success rate": "45%",
   },
   {
-    "Value": "+4",
-    "Probability": "40%",
+    "Lv.": "+4",
+    "Success rate": "40%",
   },
   {
-    "Value": "+5",
-    "Probability": "35%",
+    "Lv.": "+5",
+    "Success rate": "35%",
   },
   {
-    "Value": "+6",
-    "Probability": "30%",
+    "Lv.": "+6",
+    "Success rate": "30%",
   },
   {
-    "Value": "+7",
-    "Probability": "25%",
+    "Lv.": "+7",
+    "Success rate": "25%",
   },
   {
-    "Value": "+8",
-    "Probability": "20%",
+    "Lv.": "+8",
+    "Success rate": "20%",
   },
   {
-    "Value": "+9",
-    "Probability": "10%",
+    "Lv.": "+9",
+    "Success rate": "10%",
   },
   {
-    "Value": "+10",
-    "Probability": "5%",
+    "Lv.": "+10",
+    "Success rate": "5%",
   },
 ]
 
@@ -127,7 +127,7 @@ export const BLESSED_TALISMAN_OF_SPEED_V1 = [
 
 export const BLESSED_TALISMAN_OF_SPEED_TRIGGER_V1 = [
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+5",
     "Casting Spd.": "+5",
     "P. Skill Critical Damage": "-",
@@ -136,7 +136,7 @@ export const BLESSED_TALISMAN_OF_SPEED_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+10",
     "Casting Spd.": "+10",
     "P. Skill Critical Damage": "-",
@@ -145,7 +145,7 @@ export const BLESSED_TALISMAN_OF_SPEED_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+30",
     "Casting Spd.": "+30",
     "P. Skill Critical Damage": "-",
@@ -154,7 +154,7 @@ export const BLESSED_TALISMAN_OF_SPEED_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+50",
     "Casting Spd.": "+50",
     "P. Skill Critical Damage": "-",
@@ -163,7 +163,7 @@ export const BLESSED_TALISMAN_OF_SPEED_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+115",
     "Casting Spd.": "+115",
     "P. Skill Critical Damage": "+45",
@@ -172,7 +172,7 @@ export const BLESSED_TALISMAN_OF_SPEED_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+160",
     "Casting Spd.": "+160",
     "P. Skill Critical Damage": "+80",
@@ -181,7 +181,7 @@ export const BLESSED_TALISMAN_OF_SPEED_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+185",
     "Casting Spd.": "+185",
     "P. Skill Critical Damage": "+200",
@@ -190,7 +190,7 @@ export const BLESSED_TALISMAN_OF_SPEED_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+215",
     "Casting Spd.": "+215",
     "P. Skill Critical Damage": "+450",
@@ -199,7 +199,7 @@ export const BLESSED_TALISMAN_OF_SPEED_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+245",
     "Casting Spd.": "+245",
     "P. Skill Critical Damage": "+850",
@@ -208,7 +208,7 @@ export const BLESSED_TALISMAN_OF_SPEED_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+280",
     "Casting Spd.": "+280",
     "P. Skill Critical Damage": "+1300",
@@ -217,7 +217,7 @@ export const BLESSED_TALISMAN_OF_SPEED_TRIGGER_V1 = [
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "Basic Attack: 5% / Skill: 10%",
+    "Success rate": "Basic Attack: 5% / Skill: 10%",
     "Atk. Spd.": "+300",
     "Casting Spd.": "+300",
     "P. Skill Critical Damage": "+1500",

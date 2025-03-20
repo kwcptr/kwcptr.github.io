@@ -1,47 +1,47 @@
 export const FROST_LORDS_AXE_ENCHANT_V1 = [ 
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "100%",
+    "Lv.": "+1",
+    "Success rate": "100%",
   },
   {
-    "Value": "+2",
-    "Probability": "100%",
+    "Lv.": "+2",
+    "Success rate": "100%",
   },
   {
-    "Value": "+3",
-    "Probability": "100%",
+    "Lv.": "+3",
+    "Success rate": "100%",
   },
   {
-    "Value": "+4",
-    "Probability": "100%",
+    "Lv.": "+4",
+    "Success rate": "100%",
   },
   {
-    "Value": "+5",
-    "Probability": "33%",
+    "Lv.": "+5",
+    "Success rate": "33%",
   },
   {
-    "Value": "+6",
-    "Probability": "15%",
+    "Lv.": "+6",
+    "Success rate": "15%",
   },
   {
-    "Value": "+7",
-    "Probability": "15%",
+    "Lv.": "+7",
+    "Success rate": "15%",
   },
   {
-    "Value": "+8",
-    "Probability": "8%",
+    "Lv.": "+8",
+    "Success rate": "8%",
   },
   {
-    "Value": "+9",
-    "Probability": "4%",
+    "Lv.": "+9",
+    "Success rate": "4%",
   },
   {
-    "Value": "+10",
-    "Probability": "2%",
+    "Lv.": "+10",
+    "Success rate": "2%",
   },
 ]
 
@@ -105,67 +105,67 @@ export const FROST_LORDS_AXE_V1 = [
 
 export const FROST_LORDS_AXE_TRIGGER_V1 = [
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 130,
     "Probability_P": "1%",
     "Power_P": 78,
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 133,
     "Probability_P": "1%",
     "Power_P": 80,
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 135,
     "Probability_P": "1%",
     "Power_P": 81,
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 137,
     "Probability_P": "1%",
     "Power_P": 82,
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 142,
     "Probability_P": "1%",
     "Power_P": 84,
   },
   {
-    "Probability": "2%",
+    "Success rate": "2%",
     "Power": 147,
     "Probability_P": "5%",
     "Power_P": 88,
   },
   {
-    "Probability": "5%",
+    "Success rate": "5%",
     "Power": 152,
     "Probability_P": "10%",
     "Power_P": 91,
   },
   {
-    "Probability": "7%",
+    "Success rate": "7%",
     "Power": 157,
     "Probability_P": "15%",
     "Power_P": 94,
   },
   {
-    "Probability": "9%",
+    "Success rate": "9%",
     "Power": 161,
     "Probability_P": "20%",
     "Power_P": 97,
   },
   {
-    "Probability": "12%",
+    "Success rate": "12%",
     "Power": 167,
     "Probability_P": "25%",
     "Power_P": 101,
   },
   {
-    "Probability": "15%",
+    "Success rate": "15%",
     "Power": 172,
     "Probability_P": "30%",
     "Power_P": 103,

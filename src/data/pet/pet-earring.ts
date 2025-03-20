@@ -1,27 +1,27 @@
 export const PET_EARRING_ENCHANT_V1 = [
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "?",
+    "Lv.": "+1",
+    "Success rate": "?",
   },
   {
-    "Value": "+2",
-    "Probability": "?",
+    "Lv.": "+2",
+    "Success rate": "?",
   },
   {
-    "Value": "+3",
-    "Probability": "?",
+    "Lv.": "+3",
+    "Success rate": "?",
   },
   {
-    "Value": "+4",
-    "Probability": "?",
+    "Lv.": "+4",
+    "Success rate": "?",
   },
   {
-    "Value": "+5",
-    "Probability": "?",
+    "Lv.": "+5",
+    "Success rate": "?",
   },
 ]
 

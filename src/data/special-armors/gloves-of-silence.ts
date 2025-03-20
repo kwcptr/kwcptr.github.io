@@ -1,47 +1,47 @@
 export const GLOVES_OF_SILENCE_ENCHANT_V1 = [
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "100%",
+    "Lv.": "+1",
+    "Success rate": "100%",
   },
   {
-    "Value": "+2",
-    "Probability": "100%",
+    "Lv.": "+2",
+    "Success rate": "100%",
   },
   {
-    "Value": "+3",
-    "Probability": "100%",
+    "Lv.": "+3",
+    "Success rate": "100%",
   },
   {
-    "Value": "+4",
-    "Probability": "100%",
+    "Lv.": "+4",
+    "Success rate": "100%",
   },
   {
-    "Value": "+5",
-    "Probability": "20%",
+    "Lv.": "+5",
+    "Success rate": "20%",
   },
   {
-    "Value": "+6",
-    "Probability": "10%",
+    "Lv.": "+6",
+    "Success rate": "10%",
   },
   {
-    "Value": "+7",
-    "Probability": "10%",
+    "Lv.": "+7",
+    "Success rate": "10%",
   },
   {
-    "Value": "+8",
-    "Probability": "8%",
+    "Lv.": "+8",
+    "Success rate": "8%",
   },
   {
-    "Value": "+9",
-    "Probability": "5%",
+    "Lv.": "+9",
+    "Success rate": "5%",
   },
   {
-    "Value": "+10",
-    "Probability": "2%",
+    "Lv.": "+10",
+    "Success rate": "2%",
   },
 ]
 
@@ -83,57 +83,57 @@ export const GLOVES_OF_SILENCE_V1 = [
 
 export const GLOVES_OF_SILENCE_TRIGGER_V1 = [
   {
-    "Probability": "After an attack: 1%",
+    "Success rate": "After an attack: 1%",
     "Effect": "Inflicts Silence on the target.",
     "Duration": "4 sec.",
   },
   {
-    "Probability": "After an attack: 1%",
+    "Success rate": "After an attack: 1%",
     "Effect": "Inflicts Silence on the target.",
     "Duration": "4 sec.",
   },
   {
-    "Probability": "After an attack: 1%",
+    "Success rate": "After an attack: 1%",
     "Effect": "Inflicts Silence on the target.",
     "Duration": "4 sec.",
   },
   {
-    "Probability": "After an attack: 1%",
+    "Success rate": "After an attack: 1%",
     "Effect": "Inflicts Silence on the target.",
     "Duration": "4 sec.",
   },
   {
-    "Probability": "After an attack: 1%",
+    "Success rate": "After an attack: 1%",
     "Effect": "Inflicts Silence on the target.",
     "Duration": "4 sec.",
   },
   {
-    "Probability": "After an attack: 2%",
+    "Success rate": "After an attack: 2%",
     "Effect": "Inflicts Silence on the target.",
     "Duration": "4 sec.",
   },
   {
-    "Probability": "After an attack: 3%",
+    "Success rate": "After an attack: 3%",
     "Effect": "Inflicts Silence on the target.",
     "Duration": "4 sec.",
   },
   {
-    "Probability": "After an attack: 4%",
+    "Success rate": "After an attack: 4%",
     "Effect": "Inflicts Silence on the target.",
     "Duration": "4 sec.",
   },
   {
-    "Probability": "After an attack: 6%",
+    "Success rate": "After an attack: 6%",
     "Effect": "Inflicts Silence on the target.",
     "Duration": "4 sec.",
   },
   {
-    "Probability": "After an attack: 8%",
+    "Success rate": "After an attack: 8%",
     "Effect": "Inflicts Silence on the target.",
     "Duration": "4 sec.",
   },
   {
-    "Probability": "After an attack: 10%",
+    "Success rate": "After an attack: 10%",
     "Effect": "Inflicts Silence on the target.",
     "Duration": "4 sec.",
   },
@@ -141,47 +141,47 @@ export const GLOVES_OF_SILENCE_TRIGGER_V1 = [
 
 export const GLOVES_OF_SILENCE_TRIGGER2_V1 = [
   {
-    "Probability": "After an attack: 1%",
+    "Success rate": "After an attack: 1%",
     "Effect": "-",
   },
   {
-    "Probability": "After an attack: 1%",
+    "Success rate": "After an attack: 1%",
     "Effect": "-",
   },
   {
-    "Probability": "After an attack: 1%",
+    "Success rate": "After an attack: 1%",
     "Effect": "-",
   },
   {
-    "Probability": "After an attack: 1%",
+    "Success rate": "After an attack: 1%",
     "Effect": "-",
   },
   {
-    "Probability": "After an attack: 1%",
+    "Success rate": "After an attack: 1%",
     "Effect": "-",
   },
   {
-    "Probability": "After an attack: 2%",
+    "Success rate": "After an attack: 2%",
     "Effect": "Deals magic damage with 50 power and reduces target's MP.",
   },
   {
-    "Probability": "After an attack: 3%",
+    "Success rate": "After an attack: 3%",
     "Effect": "Deals magic damage with 70 power and reduces target's MP.",
   },
   {
-    "Probability": "After an attack: 4%",
+    "Success rate": "After an attack: 4%",
     "Effect": "Deals magic damage with 90 power and reduces target's MP.",
   },
   {
-    "Probability": "After an attack: 6%",
+    "Success rate": "After an attack: 6%",
     "Effect": "Deals magic damage with 110 power and reduces target's MP.",
   },
   {
-    "Probability": "After an attack: 8%",
+    "Success rate": "After an attack: 8%",
     "Effect": "Deals magic damage with 130 power and reduces target's MP.",
   },
   {
-    "Probability": "After an attack: 10%",
+    "Success rate": "After an attack: 10%",
     "Effect": "Deals magic damage with 165 power and reduces target's MP.",
   },
 ]

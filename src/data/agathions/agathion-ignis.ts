@@ -1,47 +1,47 @@
 export const AGATHION_IGNIS_ENCHANT_V1 = [
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "100%",
+    "Lv.": "+1",
+    "Success rate": "100%",
   },
   {
-    "Value": "+2",
-    "Probability": "100%",
+    "Lv.": "+2",
+    "Success rate": "100%",
   },
   {
-    "Value": "+3",
-    "Probability": "100%",
+    "Lv.": "+3",
+    "Success rate": "100%",
   },
   {
-    "Value": "+4",
-    "Probability": "65%",
+    "Lv.": "+4",
+    "Success rate": "65%",
   },
   {
-    "Value": "+5",
-    "Probability": "50%",
+    "Lv.": "+5",
+    "Success rate": "50%",
   },
   {
-    "Value": "+6",
-    "Probability": "35%",
+    "Lv.": "+6",
+    "Success rate": "35%",
   },
   {
-    "Value": "+7",
-    "Probability": "24%",
+    "Lv.": "+7",
+    "Success rate": "24%",
   },
   {
-    "Value": "+8",
-    "Probability": "18%",
+    "Lv.": "+8",
+    "Success rate": "18%",
   },
   {
-    "Value": "+9",
-    "Probability": "14%",
+    "Lv.": "+9",
+    "Success rate": "14%",
   },
   {
-    "Value": "+10",
-    "Probability": "8%",
+    "Lv.": "+10",
+    "Success rate": "8%",
   },
 ]
 

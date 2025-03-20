@@ -12,7 +12,7 @@
     .subTitle {
         text-align: center;
         outline: 0.1em solid $bg-DColor;
-        background-color: rgb(150 57 0 / 90%);
+        background-color: #60617A;
         font-weight: bold;
         color:  $scnd-DColor;
         border-bottom: 0.1em solid $bg-DColor;
@@ -22,7 +22,7 @@
         grid-template-columns: repeat(3, minmax(auto, 1fr));
         text-align: center;
         outline: 0.1em solid $bg-DColor;
-        background-color: rgb(150 57 0 / 90%);
+        background-color: #60617A;
         color: $scnd-DColor;
         align-content: center;
         .col__stats {
@@ -38,7 +38,7 @@
         grid-template-columns: repeat(2, minmax(auto, 1fr));
         text-align: center;
         outline: 0.1em solid $bg-DColor;
-        background-color: rgb(150 57 0 / 90%);
+        background-color: #60617A;
         color: $scnd-DColor;
         border-bottom: 0.1em solid $bg-DColor;
         align-content: center;

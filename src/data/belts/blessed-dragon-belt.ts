@@ -1,47 +1,47 @@
 export const BLESSED_DRAGON_BELT_ENCHANT_V1 = [
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "60%",
+    "Lv.": "+1",
+    "Success rate": "60%",
   },
   {
-    "Value": "+2",
-    "Probability": "50%",
+    "Lv.": "+2",
+    "Success rate": "50%",
   },
   {
-    "Value": "+3",
-    "Probability": "40%",
+    "Lv.": "+3",
+    "Success rate": "40%",
   },
   {
-    "Value": "+4",
-    "Probability": "35%",
+    "Lv.": "+4",
+    "Success rate": "35%",
   },
   {
-    "Value": "+5",
-    "Probability": "30%",
+    "Lv.": "+5",
+    "Success rate": "30%",
   },
   {
-    "Value": "+6",
-    "Probability": "28%",
+    "Lv.": "+6",
+    "Success rate": "28%",
   },
   {
-    "Value": "+7",
-    "Probability": "24%",
+    "Lv.": "+7",
+    "Success rate": "24%",
   },
   {
-    "Value": "+8",
-    "Probability": "26%",
+    "Lv.": "+8",
+    "Success rate": "26%",
   },
   {
-    "Value": "+9",
-    "Probability": "22%",
+    "Lv.": "+9",
+    "Success rate": "22%",
   },
   {
-    "Value": "+10",
-    "Probability": "20%",
+    "Lv.": "+10",
+    "Success rate": "20%",
   },
 ]
 
@@ -259,57 +259,57 @@ export const BLESSED_DRAGON_BELT_V1 = [
 
 export const BLESSED_DRAGON_BELT_TRIGGER_V1 = [
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
   },
   {
-    "Probability": "When hit: 1%",
+    "Success rate": "When hit: 1%",
     "Effect": "Creates a barrier with 20,000 HP. Can be triggered up to 1 time(s).",
     "Duration": "10 sec.",
   },
   {
-    "Probability": "When hit: 2%",
+    "Success rate": "When hit: 2%",
     "Effect": "Creates a barrier with 30,000 HP. Can be triggered up to 2 time(s).",
     "Duration": "10 sec.",
   },
   {
-    "Probability": "When hit: 3%",
+    "Success rate": "When hit: 3%",
     "Effect": "Creates a barrier with 40,000 HP. Can be triggered up to 2 time(s).",
     "Duration": "10 sec.",
   },
   {
-    "Probability": "When hit: 3%",
+    "Success rate": "When hit: 3%",
     "Effect": "Creates a barrier with 50,000 HP. Can be triggered up to 3 time(s).",
     "Duration": "10 sec.",
   },
   {
-    "Probability": "When hit: 3%",
+    "Success rate": "When hit: 3%",
     "Effect": "Creates a barrier with 60,000 HP. Can be triggered up to 3 time(s).",
     "Duration": "10 sec.",
   },
   {
-    "Probability": "When hit: 4%",
+    "Success rate": "When hit: 4%",
     "Effect": "Creates a barrier with 80,000 HP. Can be triggered up to 4 time(s).",
     "Duration": "10 sec.",
   },
   {
-    "Probability": "When hit: 4%",
+    "Success rate": "When hit: 4%",
     "Effect": "Creates a barrier with 100,000 HP. Can be triggered up to 5 time(s).",
     "Duration": "10 sec.",
   },

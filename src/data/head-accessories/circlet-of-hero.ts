@@ -1,47 +1,47 @@
 export const CIRCLET_OF_HERO_ENCHANT_V1 = [
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "60%",
+    "Lv.": "+1",
+    "Success rate": "60%",
   },
   {
-    "Value": "+2",
-    "Probability": "50%",
+    "Lv.": "+2",
+    "Success rate": "50%",
   },
   {
-    "Value": "+3",
-    "Probability": "40%",
+    "Lv.": "+3",
+    "Success rate": "40%",
   },
   {
-    "Value": "+4",
-    "Probability": "35%",
+    "Lv.": "+4",
+    "Success rate": "35%",
   },
   {
-    "Value": "+5",
-    "Probability": "30%",
+    "Lv.": "+5",
+    "Success rate": "30%",
   },
   {
-    "Value": "+6",
-    "Probability": "28%",
+    "Lv.": "+6",
+    "Success rate": "28%",
   },
   {
-    "Value": "+7",
-    "Probability": "24%",
+    "Lv.": "+7",
+    "Success rate": "24%",
   },
   {
-    "Value": "+8",
-    "Probability": "26%",
+    "Lv.": "+8",
+    "Success rate": "26%",
   },
   {
-    "Value": "+9",
-    "Probability": "22%",
+    "Lv.": "+9",
+    "Success rate": "22%",
   },
   {
-    "Value": "+10",
-    "Probability": "20%",
+    "Lv.": "+10",
+    "Success rate": "20%",
   },
 ]
 
@@ -138,67 +138,67 @@ export const CIRCLET_OF_HERO_V1 = [
 
 export const CIRCLET_OF_HERO_TRIGGER_V1 = [
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
     "Cooldown": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
     "Cooldown": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
     "Cooldown": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
     "Cooldown": "-",
   },
   {
-    "Probability": "5%",
+    "Success rate": "5%",
     "Effect": "Skill Critical Damage +5%",
     "Duration": "8 sec.",
     "Cooldown": "8 sec.",
   },
   {
-    "Probability": "10%",
+    "Success rate": "10%",
     "Effect": "Skill Critical Damage +15%",
     "Duration": "8 sec.",
     "Cooldown": "8 sec.",
   },
   {
-    "Probability": "10%",
+    "Success rate": "10%",
     "Effect": "Skill Critical Damage +25%",
     "Duration": "8 sec.",
     "Cooldown": "8 sec.",
   },
   {
-    "Probability": "10%",
+    "Success rate": "10%",
     "Effect": "Skill Critical Damage +40%",
     "Duration": "8 sec.",
     "Cooldown": "8 sec.",
   },
   {
-    "Probability": "15%",
+    "Success rate": "15%",
     "Effect": "Skill Critical Damage +60%",
     "Duration": "8 sec.",
     "Cooldown": "8 sec.",
   },
   {
-    "Probability": "15%",
+    "Success rate": "15%",
     "Effect": "Skill Critical Damage +80%",
     "Duration": "8 sec.",
     "Cooldown": "8 sec.",
   },
   {
-    "Probability": "15%",
+    "Success rate": "15%",
     "Effect": "Skill Critical Damage +100%",
     "Duration": "8 sec.",
     "Cooldown": "8 sec.",

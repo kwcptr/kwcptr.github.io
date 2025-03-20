@@ -1,47 +1,47 @@
 export const ICE_CRYSTAL_BREASTPLATE_ENCHANT_V1 = [
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "100%",
+    "Lv.": "+1",
+    "Success rate": "100%",
   },
   {
-    "Value": "+2",
-    "Probability": "100%",
+    "Lv.": "+2",
+    "Success rate": "100%",
   },
   {
-    "Value": "+3",
-    "Probability": "100%",
+    "Lv.": "+3",
+    "Success rate": "100%",
   },
   {
-    "Value": "+4",
-    "Probability": "100%",
+    "Lv.": "+4",
+    "Success rate": "100%",
   },
   {
-    "Value": "+5",
-    "Probability": "20%",
+    "Lv.": "+5",
+    "Success rate": "20%",
   },
   {
-    "Value": "+6",
-    "Probability": "10%",
+    "Lv.": "+6",
+    "Success rate": "10%",
   },
   {
-    "Value": "+7",
-    "Probability": "10%",
+    "Lv.": "+7",
+    "Success rate": "10%",
   },
   {
-    "Value": "+8",
-    "Probability": "8%",
+    "Lv.": "+8",
+    "Success rate": "8%",
   },
   {
-    "Value": "+9",
-    "Probability": "5%",
+    "Lv.": "+9",
+    "Success rate": "5%",
   },
   {
-    "Value": "+10",
-    "Probability": "2%",
+    "Lv.": "+10",
+    "Success rate": "2%",
   },
 ]
 
@@ -116,67 +116,67 @@ export const ICE_CRYSTAL_BREASTPLATE_V1 = [
 
 export const ICE_CRYSTAL_BREASTPLATE_TRIGGER_V1 = [
   {
-    "Probability": "When hit: 3%",
+    "Success rate": "When hit: 3%",
     "Effect": "Reflects 5% of the received damage back to the enemy.",
     "Duration": "30 sec.",
     "Cooldown": "60 sec.",
   },
   {
-    "Probability": "When hit: 3%",
+    "Success rate": "When hit: 3%",
     "Effect": "Reflects 5% of the received damage back to the enemy.",
     "Duration": "30 sec.",
     "Cooldown": "60 sec.",
   },
   {
-    "Probability": "When hit: 3%",
+    "Success rate": "When hit: 3%",
     "Effect": "Reflects 5% of the received damage back to the enemy.",
     "Duration": "30 sec.",
     "Cooldown": "60 sec.",
   },
   {
-    "Probability": "When hit: 3%",
+    "Success rate": "When hit: 3%",
     "Effect": "Reflects 5% of the received damage back to the enemy.",
     "Duration": "30 sec.",
     "Cooldown": "60 sec.",
   },
   {
-    "Probability": "When hit: 3%",
+    "Success rate": "When hit: 3%",
     "Effect": "Reflects 5% of the received damage back to the enemy.",
     "Duration": "30 sec.",
     "Cooldown": "60 sec.",
   },
   {
-    "Probability": "When hit: 5%",
+    "Success rate": "When hit: 5%",
     "Effect": "Reflects 10% of the received damage back to the enemy.",
     "Duration": "30 sec.",
     "Cooldown": "60 sec.",
   },
   {
-    "Probability": "When hit: 6%",
+    "Success rate": "When hit: 6%",
     "Effect": "Reflects 12% of the received damage back to the enemy.",
     "Duration": "30 sec.",
     "Cooldown": "60 sec.",
   },
   {
-    "Probability": "When hit: 7%",
+    "Success rate": "When hit: 7%",
     "Effect": "Reflects 15% of the received damage back to the enemy.",
     "Duration": "30 sec.",
     "Cooldown": "60 sec.",
   },
   {
-    "Probability": "When hit: 8%",
+    "Success rate": "When hit: 8%",
     "Effect": "Reflects 16% of the received damage back to the enemy.",
     "Duration": "30 sec.",
     "Cooldown": "60 sec.",
   },
   {
-    "Probability": "When hit: 9%",
+    "Success rate": "When hit: 9%",
     "Effect": "Reflects 17% of the received damage back to the enemy.",
     "Duration": "30 sec.",
     "Cooldown": "60 sec.",
   },
   {
-    "Probability": "When hit: 10%",
+    "Success rate": "When hit: 10%",
     "Effect": "Reflects 20% of the received damage back to the enemy.",
     "Duration": "30 sec.",
     "Cooldown": "60 sec.",
@@ -185,57 +185,57 @@ export const ICE_CRYSTAL_BREASTPLATE_TRIGGER_V1 = [
 
 export const ICE_CRYSTAL_BREASTPLATE_TRIGGER2_V1 = [
   {
-    "Probability": "When hit: 1%",
+    "Success rate": "When hit: 1%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "2 sec.",
   },
   {
-    "Probability": "When hit: 1%",
+    "Success rate": "When hit: 1%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "2 sec.",
   },
   {
-    "Probability": "When hit: 1%",
+    "Success rate": "When hit: 1%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "2 sec.",
   },
   {
-    "Probability": "When hit: 1%",
+    "Success rate": "When hit: 1%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "2 sec.",
   },
   {
-    "Probability": "When hit: 1%",
+    "Success rate": "When hit: 1%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "2 sec.",
   },
   {
-    "Probability": "When hit: 3%",
+    "Success rate": "When hit: 3%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "2 sec.",
   },
   {
-    "Probability": "When hit: 5%",
+    "Success rate": "When hit: 5%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "2 sec.",
   },
   {
-    "Probability": "When hit: 7%",
+    "Success rate": "When hit: 7%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "2 sec.",
   },
   {
-    "Probability": "When hit: 8%",
+    "Success rate": "When hit: 8%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "2 sec.",
   },
   {
-    "Probability": "When hit: 9%",
+    "Success rate": "When hit: 9%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "2 sec.",
   },
   {
-    "Probability": "When hit: 10%",
+    "Success rate": "When hit: 10%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "2 sec.",
   },

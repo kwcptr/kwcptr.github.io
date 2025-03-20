@@ -1,27 +1,27 @@
 export const HEAVENLY_CLOAK_ENCHANT_V1 = [
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "50%",
+    "Lv.": "+1",
+    "Success rate": "50%",
   },
   {
-    "Value": "+2",
-    "Probability": "40%",
+    "Lv.": "+2",
+    "Success rate": "40%",
   },
   {
-    "Value": "+3",
-    "Probability": "30%",
+    "Lv.": "+3",
+    "Success rate": "30%",
   },
   {
-    "Value": "+4",
-    "Probability": "20%",
+    "Lv.": "+4",
+    "Success rate": "20%",
   },
   {
-    "Value": "+5",
-    "Probability": "10%",
+    "Lv.": "+5",
+    "Success rate": "10%",
   },
 ]
 
@@ -132,37 +132,37 @@ export const HEAVENLY_CLOAK_V1 = [
 
 export const HEAVENLY_CLOAK_TRIGGER_V1 = [
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Effect": "Recovers HP/ MP over time. Speed +33.",
     "Duration": "10 sec.",
     "Cooldown": "2 min.",
   },
   {
-    "Probability": "3%",
+    "Success rate": "3%",
     "Effect": "Recovers HP/ MP over time. Speed +33.",
     "Duration": "10 sec.",
     "Cooldown": "2 min.",
   },
   {
-    "Probability": "5%",
+    "Success rate": "5%",
     "Effect": "Recovers HP/ MP over time. Speed +33.",
     "Duration": "10 sec.",
     "Cooldown": "2 min.",
   },
   {
-    "Probability": "7%",
+    "Success rate": "7%",
     "Effect": "Recovers HP/ MP over time. Speed +33.",
     "Duration": "10 sec.",
     "Cooldown": "2 min.",
   },
   {
-    "Probability": "9%",
+    "Success rate": "9%",
     "Effect": "Recovers HP/ MP over time. Speed +33.",
     "Duration": "10 sec.",
     "Cooldown": "2 min.",
   },
   {
-    "Probability": "12%",
+    "Success rate": "12%",
     "Effect": "Recovers HP/ MP over time. Speed +33.",
     "Duration": "10 sec.",
     "Cooldown": "2 min.",

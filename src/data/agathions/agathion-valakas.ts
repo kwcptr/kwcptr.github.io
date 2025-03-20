@@ -1,27 +1,27 @@
 export const AGATHION_VALAKAS_ENCHANT_V1 = [
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "50%",
+    "Lv.": "+1",
+    "Success rate": "50%",
   },
   {
-    "Value": "+2",
-    "Probability": "30%",
+    "Lv.": "+2",
+    "Success rate": "30%",
   },
   {
-    "Value": "+3",
-    "Probability": "20%",
+    "Lv.": "+3",
+    "Success rate": "20%",
   },
   {
-    "Value": "+4",
-    "Probability": "10%",
+    "Lv.": "+4",
+    "Success rate": "10%",
   },
   {
-    "Value": "+5",
-    "Probability": "3%",
+    "Lv.": "+5",
+    "Success rate": "3%",
   },
 ]
 
@@ -96,27 +96,27 @@ export const AGATHION_VALAKAS_V1 = [
 
 export const AGATHION_VALAKAS_TRIGGER_V1 = [
   {
-    "Probability": "Basic Attack: 0.5% / Skill: 0.5%",
+    "Success rate": "Basic Attack: 0.5% / Skill: 0.5%",
     "Effect": "Fixed damage: 2000.",
   },
   {
-    "Probability": "Basic Attack: 1% / Skill: 1%",
+    "Success rate": "Basic Attack: 1% / Skill: 1%",
     "Effect": "Fixed damage: 3000.",
   },
   {
-    "Probability": "Basic Attack: 1.3% / Skill: 1.3%",
+    "Success rate": "Basic Attack: 1.3% / Skill: 1.3%",
     "Effect": "Fixed damage: 4000.",
   },
   {
-    "Probability": "Basic Attack: 1.6% / Skill: 1.6%",
+    "Success rate": "Basic Attack: 1.6% / Skill: 1.6%",
     "Effect": "Fixed damage: 5000.",
   },
   {
-    "Probability": "Basic Attack: 2% / Skill: 2%",
+    "Success rate": "Basic Attack: 2% / Skill: 2%",
     "Effect": "Fixed damage: 6000.",
   },
   {
-    "Probability": "Basic Attack: 3% / Skill: 3%",
+    "Success rate": "Basic Attack: 3% / Skill: 3%",
     "Effect": "Fixed damage: 7000.",
   },
 ]

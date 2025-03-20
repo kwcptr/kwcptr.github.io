@@ -384,45 +384,66 @@ export const optionsMenu = [
                         title: "Jewel",
                         subMenu: [
                             {
-                                title: "Amber",
-                                url: "./items/accessory/jewel/amber"
+                                title: "Ruby",
+                                url: "./items/accessory/jewel/ruby"
+                            },
+                            {
+                                title: "Sapphire",
+                                url: "./items/accessory/jewel/sapphire"
+                            },
+                            {
+                                title: "Emerald",
+                                url: "./items/accessory/jewel/emerald"
+                            },
+                            {
+                                title: "Aquamarine",
+                                url: "./items/accessory/jewel/aquamarine"
                             },
                             {
                                 title: "Opal",
                                 url: "./items/accessory/jewel/opal"
                             },
                             {
-                                title: "Coral",
-                                url: "./items/accessory/jewel/coral"
+                                title: "Amber",
+                                url: "./items/accessory/jewel/amber"
                             },
                             {
-                                title: "Onyx",
-                                url: "./items/accessory/jewel/onyx"
+                                title: "Old",
+                                subMenu: [
+                                    {
+                                        title: "Coral",
+                                        url: "./items/accessory/jewel/coral"
+                                    },
+                                    {
+                                        title: "Onyx",
+                                        url: "./items/accessory/jewel/onyx"
+                                    },
+                                    {
+                                        title: "Spinel",
+                                        url: "./items/accessory/jewel/spinel"
+                                    },
+                                    {
+                                        title: "Zircon",
+                                        url: "./items/accessory/jewel/zircon"
+                                    },
+                                    {
+                                        title: "Moonstone",
+                                        url: "./items/accessory/jewel/moonstone"
+                                    },
+                                    {
+                                        title: "Beryl",
+                                        url: "./items/accessory/jewel/beryl"
+                                    },
+                                    {
+                                        title: "Ruby",
+                                        url: "./items/accessory/jewel/ruby-old"
+                                    },
+                                    {
+                                        title: "Diamond",
+                                        url: "./items/accessory/jewel/diamond"
+                                    },
+                                ]
                             },
-                            {
-                                title: "Spinel",
-                                url: "./items/accessory/jewel/spinel"
-                            },
-                            {
-                                title: "Zircon",
-                                url: "./items/accessory/jewel/zircon"
-                            },
-                            {
-                                title: "Moonstone",
-                                url: "./items/accessory/jewel/moonstone"
-                            },
-                            {
-                                title: "Beryl",
-                                url: "./items/accessory/jewel/beryl"
-                            },
-                            {
-                                title: "Ruby",
-                                url: "./items/accessory/jewel/ruby"
-                            },
-                            {
-                                title: "Diamond",
-                                url: "./items/accessory/jewel/diamond"
-                            }
                         ]
                     },
                     {
@@ -562,15 +583,15 @@ export const optionsMenu = [
                 ]
             },
             {
-                title: "Patterns and Hidden Power",
+                title: "Pattern / Hidden Power",
                 subMenu: [
                     {
-                        title: "Patterns",
-                        url: "./items/other-item/patterns-and-hidden-power/patterns"
+                        title: "Pattern",
+                        url: "./items/pattern-hidden-power/pattern"
                     },
                     {
                         title: "Hidden Power",
-                        url: "./items/other-item/patterns-and-hidden-power/hidden-power"
+                        url: "./items/pattern-hidden-power/hidden-power"
                     }
                 ]
             },

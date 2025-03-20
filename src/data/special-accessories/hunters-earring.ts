@@ -1,47 +1,47 @@
 export const HUNTERS_EARRING_ENCHANT_V1 = [
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "90%",
+    "Lv.": "+1",
+    "Success rate": "90%",
   },
   {
-    "Value": "+2",
-    "Probability": "80%",
+    "Lv.": "+2",
+    "Success rate": "80%",
   },
   {
-    "Value": "+3",
-    "Probability": "69%",
+    "Lv.": "+3",
+    "Success rate": "69%",
   },
   {
-    "Value": "+4",
-    "Probability": "58%",
+    "Lv.": "+4",
+    "Success rate": "58%",
   },
   {
-    "Value": "+5",
-    "Probability": "45%",
+    "Lv.": "+5",
+    "Success rate": "45%",
   },
   {
-    "Value": "+6",
-    "Probability": "28%",
+    "Lv.": "+6",
+    "Success rate": "28%",
   },
   {
-    "Value": "+7",
-    "Probability": "26%",
+    "Lv.": "+7",
+    "Success rate": "26%",
   },
   {
-    "Value": "+8",
-    "Probability": "24%",
+    "Lv.": "+8",
+    "Success rate": "24%",
   },
   {
-    "Value": "+9",
-    "Probability": "22%",
+    "Lv.": "+9",
+    "Success rate": "22%",
   },
   {
-    "Value": "+10",
-    "Probability": "20%",
+    "Lv.": "+10",
+    "Success rate": "20%",
   },
 ]
 

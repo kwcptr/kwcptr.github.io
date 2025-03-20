@@ -11,6 +11,13 @@
     text-align: left;
   }
  
+  .arrow {
+    position: absolute;
+    right: 10px; /* Ajusta según el margen que desees desde el borde derecho */
+    top: 50%;
+    transform: translateY(-50%); /* Centra verticalmente la flecha respecto al texto */
+  }
+  
   .arrow::after {
     content: "";
     display: inline-block;
@@ -19,35 +26,62 @@
     border-top: 0.42em solid;
     border-right: 0.32em solid transparent;
     border-left: 0.32em solid transparent;
+    transform: rotate(-90deg);
   }
   
-  .dropdown {
-    position: absolute;
-    left: auto;
-    font-size: 0.875rem;
-    z-index: 50;
-    min-width: 10rem;
-    width: max-content;
-    list-style: none;
-    background-color: #190e0d;
-    border: 0.1em solid rgb(99 78 79);
-    border-top: none;
-    border-bottom: none;
-    color: $scnd-DColor;
-    display: none;
-    top: 4.2em;
-    a {
-        padding: 0.5em 1em;
-        border-bottom: 0.1em solid rgb(99 78 79);
-    }
-  }
-  
-  .dropdown.show {
-    display: block;
-  }
-  
-  .dropdown .dropdown-submenu {
-    position: absolute;
-    left: 100%;
-    top: 0;
-  }
+/* Estilos del menú principal */
+.dropdown {
+  position: absolute;
+  left: auto;
+  font-size: 0.875rem;
+  z-index: 50;
+  min-width: 10rem;
+  width: max-content;
+  list-style: none;
+  background-color: #0E0D12;
+  border-radius: 0.5em; /* Bordes redondeados */
+  color: $scnd-DColor;
+  display: none;
+  top: 4.2em;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para destacar */
+}
+
+.dropdown a {
+  display: block; /* Para que el enlace cubra todo el ancho */
+  width: 100%; /* Asegura que ocupe todo el espacio */
+  padding: 0.5em 1em;
+  color: $scnd-DColor; /* Asegura que el color del texto sea visible */
+  text-decoration: none; /* Remueve subrayado en los enlaces */
+  border-radius: 0.3em; /* Bordes redondeados para los enlaces */
+  background-color: transparent; /* Fondo transparente inicialmente */
+  padding-right: 2em; /* Aumentamos el espacio entre el texto y la flecha */
+}
+
+/* Hover en los enlaces */
+.dropdown a:hover {
+  background-color: #17161C; /* Fondo al hacer hover */
+}
+
+/* Mantener el hover en la categoría anterior al abrir submenú */
+.dropdown a:has(+ .dropdown-submenu:hover),
+.dropdown .dropdown-submenu:hover > a {
+  background-color: #17161C; /* Mantiene el fondo cuando el submenú está abierto */
+}
+
+.dropdown.show {
+  display: block;
+}
+
+/* Estilos del submenú */
+.dropdown .dropdown-submenu {
+  position: absolute;
+  left: 100%;
+  top: 0;
+  background-color: #0E0D12;
+  border-radius: 0.5em; /* Bordes redondeados para el submenú */
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para el submenú */
+}
+
+.dropdown .dropdown-submenu a:hover {
+  background-color: #17161C; /* Hover en el submenú */
+}

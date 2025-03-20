@@ -1,47 +1,47 @@
 export const BREASTPLATE_OF_PROTECTION_ENCHANT_V1 = [
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "100%",
+    "Lv.": "+1",
+    "Success rate": "100%",
   },
   {
-    "Value": "+2",
-    "Probability": "100%",
+    "Lv.": "+2",
+    "Success rate": "100%",
   },
   {
-    "Value": "+3",
-    "Probability": "100%",
+    "Lv.": "+3",
+    "Success rate": "100%",
   },
   {
-    "Value": "+4",
-    "Probability": "100%",
+    "Lv.": "+4",
+    "Success rate": "100%",
   },
   {
-    "Value": "+5",
-    "Probability": "20%",
+    "Lv.": "+5",
+    "Success rate": "20%",
   },
   {
-    "Value": "+6",
-    "Probability": "10%",
+    "Lv.": "+6",
+    "Success rate": "10%",
   },
   {
-    "Value": "+7",
-    "Probability": "10%",
+    "Lv.": "+7",
+    "Success rate": "10%",
   },
   {
-    "Value": "+8",
-    "Probability": "8%",
+    "Lv.": "+8",
+    "Success rate": "8%",
   },
   {
-    "Value": "+9",
-    "Probability": "5%",
+    "Lv.": "+9",
+    "Success rate": "5%",
   },
   {
-    "Value": "+10",
-    "Probability": "2%",
+    "Lv.": "+10",
+    "Success rate": "2%",
   },
 ]
 
@@ -116,57 +116,57 @@ export const BREASTPLATE_OF_PROTECTION_V1 = [
 
 export const BREASTPLATE_OF_PROTECTION_TRIGGER_V1 = [
   {
-    "Probability": "When hit: 2%",
+    "Success rate": "When hit: 2%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "When hit: 2%",
+    "Success rate": "When hit: 2%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "When hit: 2%",
+    "Success rate": "When hit: 2%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "When hit: 2%",
+    "Success rate": "When hit: 2%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "When hit: 2%",
+    "Success rate": "When hit: 2%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "When hit: 4%",
+    "Success rate": "When hit: 4%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "When hit: 6%",
+    "Success rate": "When hit: 6%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "When hit: 8%",
+    "Success rate": "When hit: 8%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "3 sec.",
   },
   {
-    "Probability": "When hit: 10%",
+    "Success rate": "When hit: 10%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "4 sec.",
   },
   {
-    "Probability": "When hit: 10%",
+    "Success rate": "When hit: 10%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "4 sec.",
   },
   {
-    "Probability": "When hit: 10%",
+    "Success rate": "When hit: 10%",
     "Effect": "Paralyzes the enemy.",
     "Duration": "5 sec.",
   },

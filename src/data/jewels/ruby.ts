@@ -1,35 +1,35 @@
 export const RUBY_COMPOUND_V1 = [
   {
-    "Value": "Lv. 1",
-    "Probability": "-",
+    "Lv.": "Lv. 1",
+    "Success rate": "-",
   },
   {
-    "Value": "Lv. 2",
-    "Probability": "65%",
+    "Lv.": "Lv. 2",
+    "Success rate": "65%",
   },
   {
-    "Value": "Lv. 3",
-    "Probability": "40%",
+    "Lv.": "Lv. 3",
+    "Success rate": "40%",
   },
   {
-    "Value": "Lv. 4",
-    "Probability": "35%",
+    "Lv.": "Lv. 4",
+    "Success rate": "35%",
   },
   {
-    "Value": "Lv. 5",
-    "Probability": "30%",
+    "Lv.": "Lv. 5",
+    "Success rate": "30%",
   },
   {
-    "Value": "Lv. 6",
-    "Probability": "25%",
+    "Lv.": "Lv. 6",
+    "Success rate": "25%",
   },
   {
-    "Value": "Lv. 7",
-    "Probability": "20%",
+    "Lv.": "Lv. 7",
+    "Success rate": "20%",
   },
   {
-    "Value": "Lv. 8",
-    "Probability": "15%",
+    "Lv.": "Lv. 8",
+    "Success rate": "15%",
   },
 ]
 
@@ -78,49 +78,49 @@ export const RUBY_V1 = [
 
 export const RUBY_TRIGGER_V1 = [
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Targets": "1",
     "Physical additional attack power": "5964",
     "Magical additional attack power": "130",
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Targets": "1",
     "Physical additional attack power": "6167",
     "Magical additional attack power": "138",
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Targets": "1",
     "Physical additional attack power": "6370",
     "Magical additional attack power": "146",
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Targets": "2",
     "Physical additional attack power": "6573",
     "Magical additional attack power": "154",
   },
   {
-    "Probability": "2%",
+    "Success rate": "2%",
     "Targets": "3",
     "Physical additional attack power": "6776",
     "Magical additional attack power": "162",
   },
   {
-    "Probability": "3%",
+    "Success rate": "3%",
     "Targets": "4",
     "Physical additional attack power": "6979",
     "Magical additional attack power": "170",
   },
   {
-    "Probability": "4%",
+    "Success rate": "4%",
     "Targets": "5",
     "Physical additional attack power": "7182",
     "Magical additional attack power": "178",
   },
   {
-    "Probability": "5%",
+    "Success rate": "5%",
     "Targets": "6",
     "Physical additional attack power": "7385",
     "Magical additional attack power": "187",
@@ -129,42 +129,42 @@ export const RUBY_TRIGGER_V1 = [
 
 export const RUBY_TRIGGER_2_V1 = [
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Targets": "1",
     "Fixed damage": "300",
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Targets": "1",
     "Fixed damage": "500",
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Targets": "1",
     "Fixed damage": "700",
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Targets": "2",
     "Fixed damage": "800",
   },
   {
-    "Probability": "2%",
+    "Success rate": "2%",
     "Targets": "3",
     "Fixed damage": "900",
   },
   {
-    "Probability": "3%",
+    "Success rate": "3%",
     "Targets": "4",
     "Fixed damage": "1000",
   },
   {
-    "Probability": "4%",
+    "Success rate": "4%",
     "Targets": "5",
     "Fixed damage": "1100",
   },
   {
-    "Probability": "5%",
+    "Success rate": "5%",
     "Targets": "6",
     "Fixed damage": "1200",
   },

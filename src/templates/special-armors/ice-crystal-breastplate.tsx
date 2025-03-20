@@ -13,7 +13,7 @@ export const IceCrystalBreastplate = () => {
           <div className="table__container">
 
             <div className="container__subTable">
-              <h3 className="subTitle">Enchantment</h3>
+              <h3 className="subTitle">Enchant</h3>
               <Table data={ICE_CRYSTAL_BREASTPLATE_ENCHANT_V1} />
             </div>
             <div className="container__subTable">

@@ -32,7 +32,7 @@ export const Article8 = () => {
           <thead>
             <tr>
               <th>Doll</th>
-              <th style={{ color: '#000000a6' }}>Common</th>
+              <th style={{ color: '#ccc' }}>Common</th>
               <th style={{ color: '#2dc26b' }}>Enhanced</th>
               <th style={{ color: '#e67e23' }}>Superior</th>
               <th style={{ color: '#3598db' }}>Rare</th>
@@ -898,7 +898,7 @@ export const Article8 = () => {
         </thead>
         <tbody>
           <tr>
-            <td style={{ color: '#000000a6' }}>Common</td>
+            <td style={{ color: '#ccc' }}>Common</td>
             <td>x100,000</td>
           </tr>
           <tr>

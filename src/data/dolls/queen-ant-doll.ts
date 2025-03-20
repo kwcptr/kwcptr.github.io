@@ -1,27 +1,27 @@
 export const QUEEN_ANT_DOLL_COMPOUND_V1 = [
   {
-    "Value": "Lv. 1",
-    "Probability": "-",
+    "Lv.": "Lv. 1",
+    "Success rate": "-",
   },
   {
-    "Value": "Lv. 2",
-    "Probability": "7%",
+    "Lv.": "Lv. 2",
+    "Success rate": "7%",
   },
   {
-    "Value": "Lv. 3",
-    "Probability": "70%",
+    "Lv.": "Lv. 3",
+    "Success rate": "70%",
   },
   {
-    "Value": "Lv. 4",
-    "Probability": "50%",
+    "Lv.": "Lv. 4",
+    "Success rate": "50%",
   },
   {
-    "Value": "Lv. 5",
-    "Probability": "30%",
+    "Lv.": "Lv. 5",
+    "Success rate": "30%",
   },
   {
-    "Value": "Lv. 6",
-    "Probability": "30%",
+    "Lv.": "Lv. 6",
+    "Success rate": "30%",
   },
 ]
 

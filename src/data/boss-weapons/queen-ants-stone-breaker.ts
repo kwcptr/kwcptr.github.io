@@ -1,47 +1,47 @@
 export const QUEEN_ANTS_STONE_BREAKER_ENCHANT_V1 = [ 
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "100%",
+    "Lv.": "+1",
+    "Success rate": "100%",
   },
   {
-    "Value": "+2",
-    "Probability": "100%",
+    "Lv.": "+2",
+    "Success rate": "100%",
   },
   {
-    "Value": "+3",
-    "Probability": "100%",
+    "Lv.": "+3",
+    "Success rate": "100%",
   },
   {
-    "Value": "+4",
-    "Probability": "100%",
+    "Lv.": "+4",
+    "Success rate": "100%",
   },
   {
-    "Value": "+5",
-    "Probability": "33%",
+    "Lv.": "+5",
+    "Success rate": "33%",
   },
   {
-    "Value": "+6",
-    "Probability": "15%",
+    "Lv.": "+6",
+    "Success rate": "15%",
   },
   {
-    "Value": "+7",
-    "Probability": "15%",
+    "Lv.": "+7",
+    "Success rate": "15%",
   },
   {
-    "Value": "+8",
-    "Probability": "8%",
+    "Lv.": "+8",
+    "Success rate": "8%",
   },
   {
-    "Value": "+9",
-    "Probability": "4%",
+    "Lv.": "+9",
+    "Success rate": "4%",
   },
   {
-    "Value": "+10",
-    "Probability": "2%",
+    "Lv.": "+10",
+    "Success rate": "2%",
   },
 ]
 
@@ -105,7 +105,7 @@ export const QUEEN_ANTS_STONE_BREAKER_V1 = [
 
 export const QUEEN_ANTS_STONE_BREAKER_TRIGGER_V1 = [
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 72,
     "Probability_P": "1%",
     "Power_P": 72,
@@ -113,7 +113,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER_V1 = [
     "Power_M": 43,
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 73,
     "Probability_P": "1%",
     "Power_P": 73,
@@ -121,7 +121,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER_V1 = [
     "Power_M": 44,
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 74,
     "Probability_P": "1%",
     "Power_P": 74,
@@ -129,7 +129,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER_V1 = [
     "Power_M": 45,
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 76,
     "Probability_P": "1%",
     "Power_P": 76,
@@ -137,7 +137,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER_V1 = [
     "Power_M": 47,
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 78,
     "Probability_P": "1%",
     "Power_P": 78,
@@ -145,7 +145,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER_V1 = [
     "Power_M": 48,
   },
   {
-    "Probability": "2%",
+    "Success rate": "2%",
     "Power": 81,
     "Probability_P": "4%",
     "Power_P": 81,
@@ -153,7 +153,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER_V1 = [
     "Power_M": 50,
   },
   {
-    "Probability": "4%",
+    "Success rate": "4%",
     "Power": 84,
     "Probability_P": "7%",
     "Power_P": 84,
@@ -161,7 +161,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER_V1 = [
     "Power_M": 52,
   },
   {
-    "Probability": "6%",
+    "Success rate": "6%",
     "Power": 86,
     "Probability_P": "10%",
     "Power_P": 86,
@@ -169,7 +169,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER_V1 = [
     "Power_M": 53,
   },
   {
-    "Probability": "8%",
+    "Success rate": "8%",
     "Power": 89,
     "Probability_P": "13%",
     "Power_P": 89,
@@ -177,7 +177,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER_V1 = [
     "Power_M": 55,
   },
   {
-    "Probability": "10%",
+    "Success rate": "10%",
     "Power": 92,
     "Probability_P": "16%",
     "Power_P": 92,
@@ -185,7 +185,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER_V1 = [
     "Power_M": 57,
   },
   {
-    "Probability": "12%",
+    "Success rate": "12%",
     "Power": 95,
     "Probability_P": "20%",
     "Power_P": 95,
@@ -196,7 +196,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER_V1 = [
 
 export const QUEEN_ANTS_STONE_BREAKER_TRIGGER2_V1 = [
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Power": "-",
     "Probability_P": "-",
     "Power_P": "-",
@@ -204,7 +204,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER2_V1 = [
     "Power_M": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Power": "-",
     "Probability_P": "-",
     "Power_P": "-",
@@ -212,7 +212,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER2_V1 = [
     "Power_M": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Power": "-",
     "Probability_P": "-",
     "Power_P": "-",
@@ -220,7 +220,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER2_V1 = [
     "Power_M": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Power": "-",
     "Probability_P": "-",
     "Power_P": "-",
@@ -228,7 +228,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER2_V1 = [
     "Power_M": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Power": "-",
     "Probability_P": "-",
     "Power_P": "-",
@@ -236,7 +236,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER2_V1 = [
     "Power_M": "-",
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 121,
     "Probability_P": "1%",
     "Power_P": 121,
@@ -244,7 +244,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER2_V1 = [
     "Power_M": 73,
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 126,
     "Probability_P": "1%",
     "Power_P": 126,
@@ -252,7 +252,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER2_V1 = [
     "Power_M": 75,
   },
   {
-    "Probability": "1%",
+    "Success rate": "1%",
     "Power": 130,
     "Probability_P": "2%",
     "Power_P": 130,
@@ -260,7 +260,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER2_V1 = [
     "Power_M": 53,
   },
   {
-    "Probability": "2%",
+    "Success rate": "2%",
     "Power": 134,
     "Probability_P": "3%",
     "Power_P": 134,
@@ -268,7 +268,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER2_V1 = [
     "Power_M": 80,
   },
   {
-    "Probability": "2%",
+    "Success rate": "2%",
     "Power": 138,
     "Probability_P": "4%",
     "Power_P": 138,
@@ -276,7 +276,7 @@ export const QUEEN_ANTS_STONE_BREAKER_TRIGGER2_V1 = [
     "Power_M": 83,
   },
   {
-    "Probability": "3%",
+    "Success rate": "3%",
     "Power": 142,
     "Probability_P": "5%",
     "Power_P": 142,

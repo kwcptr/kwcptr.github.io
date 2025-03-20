@@ -1,47 +1,47 @@
 export const SIGIL_OF_PROTECTION_ENCHANT_V1 = [
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "100%",
+    "Lv.": "+1",
+    "Success rate": "100%",
   },
   {
-    "Value": "+2",
-    "Probability": "100%",
+    "Lv.": "+2",
+    "Success rate": "100%",
   },
   {
-    "Value": "+3",
-    "Probability": "100%",
+    "Lv.": "+3",
+    "Success rate": "100%",
   },
   {
-    "Value": "+4",
-    "Probability": "100%",
+    "Lv.": "+4",
+    "Success rate": "100%",
   },
   {
-    "Value": "+5",
-    "Probability": "20%",
+    "Lv.": "+5",
+    "Success rate": "20%",
   },
   {
-    "Value": "+6",
-    "Probability": "10%",
+    "Lv.": "+6",
+    "Success rate": "10%",
   },
   {
-    "Value": "+7",
-    "Probability": "10%",
+    "Lv.": "+7",
+    "Success rate": "10%",
   },
   {
-    "Value": "+8",
-    "Probability": "8%",
+    "Lv.": "+8",
+    "Success rate": "8%",
   },
   {
-    "Value": "+9",
-    "Probability": "5%",
+    "Lv.": "+9",
+    "Success rate": "5%",
   },
   {
-    "Value": "+10",
-    "Probability": "2%",
+    "Lv.": "+10",
+    "Success rate": "2%",
   },
 ]
 
@@ -94,67 +94,67 @@ export const SIGIL_OF_PROTECTION_V1 = [
 
 export const SIGIL_OF_PROTECTION_TRIGGER_V1 = [
   {
-    "Probability": "After an attack: 3%",
+    "Success rate": "After an attack: 3%",
     "Effect": "Enemy's P./ M. Atk. -5%.",
     "Duration": "5 sec.",
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "After an attack: 3%",
+    "Success rate": "After an attack: 3%",
     "Effect": "Enemy's P./ M. Atk. -7%.",
     "Duration": "5 sec.",
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "After an attack: 3%",
+    "Success rate": "After an attack: 3%",
     "Effect": "Enemy's P./ M. Atk. -9%.",
     "Duration": "5 sec.",
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "After an attack: 3%",
+    "Success rate": "After an attack: 3%",
     "Effect": "Enemy's P./ M. Atk. -11%.",
     "Duration": "5 sec.",
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "After an attack: 3%",
+    "Success rate": "After an attack: 3%",
     "Effect": "Enemy's P./ M. Atk. -13%.",
     "Duration": "5 sec.",
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "After an attack: 3%",
+    "Success rate": "After an attack: 3%",
     "Effect": "Enemy's P./ M. Atk. -15%.",
     "Duration": "5 sec.",
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "After an attack: 3%",
+    "Success rate": "After an attack: 3%",
     "Effect": "Enemy's P./ M. Atk. -18%.",
     "Duration": "5 sec.",
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "After an attack: 3%",
+    "Success rate": "After an attack: 3%",
     "Effect": "Enemy's P./ M. Atk. -21%.",
     "Duration": "5 sec.",
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "After an attack: 3%",
+    "Success rate": "After an attack: 3%",
     "Effect": "Enemy's P./ M. Atk. -24%.",
     "Duration": "5 sec.",
     "Cooldown": "10 sec.",
   },
   {
-    "Probability": "After an attack: 4%",
+    "Success rate": "After an attack: 4%",
     "Effect": "Enemy's P./ M. Atk. -27%.",
     "Duration": "5 sec.",
     "Cooldown": "-",
   },
   {
-    "Probability": "After an attack: 5%",
+    "Success rate": "After an attack: 5%",
     "Effect": "Enemy's P./ M. Atk. -30%.",
     "Duration": "5 sec.",
     "Cooldown": "-",

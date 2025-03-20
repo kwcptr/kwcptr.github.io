@@ -1,47 +1,47 @@
 export const AZTAKANS_ORACLE_WAND_ENCHANT_V1 = [ 
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "100%",
+    "Lv.": "+1",
+    "Success rate": "100%",
   },
   {
-    "Value": "+2",
-    "Probability": "100%",
+    "Lv.": "+2",
+    "Success rate": "100%",
   },
   {
-    "Value": "+3",
-    "Probability": "100%",
+    "Lv.": "+3",
+    "Success rate": "100%",
   },
   {
-    "Value": "+4",
-    "Probability": "100%",
+    "Lv.": "+4",
+    "Success rate": "100%",
   },
   {
-    "Value": "+5",
-    "Probability": "33%",
+    "Lv.": "+5",
+    "Success rate": "33%",
   },
   {
-    "Value": "+6",
-    "Probability": "15%",
+    "Lv.": "+6",
+    "Success rate": "15%",
   },
   {
-    "Value": "+7",
-    "Probability": "15%",
+    "Lv.": "+7",
+    "Success rate": "15%",
   },
   {
-    "Value": "+8",
-    "Probability": "8%",
+    "Lv.": "+8",
+    "Success rate": "8%",
   },
   {
-    "Value": "+9",
-    "Probability": "4%",
+    "Lv.": "+9",
+    "Success rate": "4%",
   },
   {
-    "Value": "+10",
-    "Probability": "2%",
+    "Lv.": "+10",
+    "Success rate": "2%",
   },
 ]
 

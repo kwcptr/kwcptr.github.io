@@ -50,7 +50,7 @@ const MenuItems = ({items, depthLvl}) => {
                       onClick={() => setDropdown((prev) => !prev)}
                       >
                       {items.title}{" "}
-                      {depthLvl > 0 && <>&raquo;</>}
+                      {depthLvl > 0 && <span className="arrow"></span>}
                     </NavLink>
                     <Dropdown
                       depthLvl={depthLvl}

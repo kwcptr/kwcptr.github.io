@@ -1,47 +1,47 @@
 export const TALISMAN_OF_BAIUM_ENCHANT_V1 = [
   {
-    "Value": "-",
-    "Probability": "-",
+    "Lv.": "-",
+    "Success rate": "-",
   },
   {
-    "Value": "+1",
-    "Probability": "90%",
+    "Lv.": "+1",
+    "Success rate": "90%",
   },
   {
-    "Value": "+2",
-    "Probability": "80%",
+    "Lv.": "+2",
+    "Success rate": "80%",
   },
   {
-    "Value": "+3",
-    "Probability": "70%",
+    "Lv.": "+3",
+    "Success rate": "70%",
   },
   {
-    "Value": "+4",
-    "Probability": "30%",
+    "Lv.": "+4",
+    "Success rate": "30%",
   },
   {
-    "Value": "+5",
-    "Probability": "5%",
+    "Lv.": "+5",
+    "Success rate": "5%",
   },
   {
-    "Value": "+6",
-    "Probability": "20%",
+    "Lv.": "+6",
+    "Success rate": "20%",
   },
   {
-    "Value": "+7",
-    "Probability": "?",
+    "Lv.": "+7",
+    "Success rate": "20%",
   },
   {
-    "Value": "+8",
-    "Probability": "?",
+    "Lv.": "+8",
+    "Success rate": "20%",
   },
   {
-    "Value": "+9",
-    "Probability": "?",
+    "Lv.": "+9",
+    "Success rate": "20%",
   },
   {
-    "Value": "+10",
-    "Probability": "?",
+    "Lv.": "+10",
+    "Success rate": "20%",
   },
 ]
 

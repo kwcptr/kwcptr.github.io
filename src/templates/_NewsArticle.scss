@@ -1,11 +1,11 @@
 
 .news-article {
-    width: 66vw;
+    width: 70vw;
     margin: 0 auto;
     margin-top: 120px;
     border-top: 200px;
     padding: 25px;
-    background-color: #fff;
+    background-color: #17161C;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
     min-height: max-content;
@@ -19,13 +19,13 @@
         font-size: 28px;
         font-weight: 500;
         margin: 0;
-        color: #333;
+        color: white;
         text-align: justify;
         margin-bottom: 7px;
       }
       .article-metadata {
         font-size: 14px;
-        color: #777;
+        color: #ccc;
         text-align: justify;
         .author {
           margin-right: 10px;
@@ -167,11 +167,9 @@
   opacity: 1;
 }
 
-
-
-
     .skill-text {
       font-size: 18px; /* Adjust the font size as needed */
+      color: white;
     }
     .skill-text2 {
       font-size: 18px; /* Adjust the font size as needed */
@@ -180,6 +178,7 @@
     }
     .skill-text3 {
       font-size: 16px; /* Adjust the font size as needed */
+      color: white;
     }
     .skill-text-darkgreen {
       font-weight: 600;
@@ -220,6 +219,7 @@
       border-collapse: collapse; /* Collapse table borders to eliminate spacing */
       margin-top: 20px; /* Add space above the table */
       margin-bottom: 20px; /* Add space above the table */
+      color: white;
     }
     
     .article-table th, .article-table td {
@@ -230,7 +230,14 @@
     }
     
     .article-table th {
-      background-color: #f2f2f2; /* Add a background color to table headers */
+      background-color: #0E0D12; /* Add a background color to table headers */
+    }
+
+    .article-table tr {
+      background: #17161C;
+      &:nth-child(2n) {
+          background: #26242E;
+      }
     }
 
     .article-table-container {
@@ -244,6 +251,7 @@
       width: max-content; /* Set table to max-content */
       border-collapse: collapse; /* Keep border-collapse as collapse */
       min-width: 100%; /* Ensure table takes at least the container's width */
+      color: white;
   }
   
   .article-table2 th, .article-table2 td {
@@ -261,6 +269,7 @@
       top: 0;
       border-top: 1px solid #ddd; /* Ensure left border stays */
       border-bottom: 1px solid #ddd; /* Ensure right border stays */
+      background-color: #0E0D12;
   }
   
   .article-table2 td:first-child,
@@ -272,6 +281,7 @@
       background-color: #f2f2f2; /* Add background color */
       border-left: 1px solid #ddd; /* Ensure left border stays */
       border-right: 1px solid #ddd; /* Ensure right border stays */
+      background-color: #0E0D12;
   }
   
   .article-table2 th:first-child {
@@ -304,27 +314,32 @@
 
     .title-text {
       font-weight: 600;
+      color: white;
     }
 
     .article-text {
       text-align: left;
+      color: white;
     }
 
     .article-text2 {
       text-align: left;
       font-style: italic;
+      color: white;
     }
 
     .article-text3 {
       font-size: 20px;
       text-align: left;
       font-weight: 500;
+      color: white;
     }
 
     .article-text4 {
       margin-top: 10px;
       text-align: left;
       font-weight: 600;
+      color: white;
     }
 
     .article-text5 {
@@ -333,6 +348,7 @@
       font-weight: 600;
       margin-top: 30px;
       margin-bottom: 10px;
+      color: white;
     }
 
     .article-comments {
@@ -368,7 +384,9 @@
       font-size: 1.05em;
       font-weight: 500;
       margin-bottom: 5px;
-      color: black;
+      color: white;
+      padding-bottom: 6px; /* Increase the padding to add more space between the title and the border */
+      border-bottom: 1px solid #ccc; /* Add a thin bottom border */
     }
     
     .table-of-contents ul {

@@ -264,9 +264,9 @@ export const Search = () => {
       case "Pet Ring":
         return navigate("./items/pet/pet-ring");
       case "Patterns":
-        return navigate("./items/other-item/patterns-and-hidden-power/patterns");
+        return navigate("./items/pattern-hidden-power/pattern");
       case "Hidden Power":
-        return navigate("./items/other-item/patterns-and-hidden-power/hidden-power");
+        return navigate("./items/pattern-hidden-power/hidden-power");
       default:
         break;
     }

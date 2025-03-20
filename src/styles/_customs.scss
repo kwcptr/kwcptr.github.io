@@ -2,16 +2,16 @@
 
 /* Colors */
     /* Txt */ 
-        $main-DColor: #202020;
-        $scnd-DColor: rgba(251, 250, 247, 0.75);
-        $third-DColor: rgb(255, 252, 252);
-        $hover-DColor: rgba(247, 206, 183, 1);
+        $main-DColor: white;
+        $scnd-DColor: white;
+        $third-DColor: white;
+        $hover-DColor: #A2B4E3;
 
     /* Bg */
         $bg-LColor: #E8E8E8;
         $bg-LScndColor: #fffcf7;
 
-        $bg-DColor: #202020;
+        $bg-DColor: #0E0D12;
         $bg-DScndColor: #33374f;
 
     /* Msg */
@@ -32,11 +32,11 @@
     ::-webkit-scrollbar {
         width: 0.6em;
         height: 0.6em;
-        background-color: rgba(255, 255, 255, 0);
+        // background-color: rgba(255, 255, 255, 0);
     }
 
     ::-webkit-scrollbar-thumb {
-        background: rgb(150 57 0 / 80%);
+        background: #60617A;
         border-radius: 0%;
         position: relative;
         ::after {
@@ -53,5 +53,5 @@
 /* --- Select TXT ---*/
     ::selection {
         background-color: rgb(26 19 19 / 36%);
-        color: rgba(247, 206, 183, 1);
+        color: #A2B4E3;
     }

@@ -1,35 +1,35 @@
 export const AMBER_COMPOUND_V1 = [
   {
-    "Value": "Lv. 1",
-    "Probability": "-",
+    "Lv.": "Lv. 1",
+    "Success rate": "-",
   },
   {
-    "Value": "Lv. 2",
-    "Probability": "65%",
+    "Lv.": "Lv. 2",
+    "Success rate": "65%",
   },
   {
-    "Value": "Lv. 3",
-    "Probability": "40%",
+    "Lv.": "Lv. 3",
+    "Success rate": "40%",
   },
   {
-    "Value": "Lv. 4",
-    "Probability": "35%",
+    "Lv.": "Lv. 4",
+    "Success rate": "35%",
   },
   {
-    "Value": "Lv. 5",
-    "Probability": "30%",
+    "Lv.": "Lv. 5",
+    "Success rate": "30%",
   },
   {
-    "Value": "Lv. 6",
-    "Probability": "25%",
+    "Lv.": "Lv. 6",
+    "Success rate": "25%",
   },
   {
-    "Value": "Lv. 7",
-    "Probability": "20%",
+    "Lv.": "Lv. 7",
+    "Success rate": "20%",
   },
   {
-    "Value": "Lv. 8",
-    "Probability": "15%",
+    "Lv.": "Lv. 8",
+    "Success rate": "15%",
   },
 ]
 
@@ -94,42 +94,42 @@ export const AMBER_V1 = [
 
 export const AMBER_TRIGGER_V1 = [
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
   },
   {
-    "Probability": "-",
+    "Success rate": "-",
     "Effect": "-",
     "Duration": "-",
   },
   {
-    "Probability": "When hit: ?%",
+    "Success rate": "When hit: ?%",
     "Effect": "Blocks the damage from the enemy's additional attacks.",
     "Duration": "10 sec.",
   },
   {
-    "Probability": "When hit: ?%",
+    "Success rate": "When hit: ?%",
     "Effect": "Blocks the damage from the enemy's additional attacks.",
     "Duration": "10 sec.",
   },
   {
-    "Probability": "When hit: ?%",
+    "Success rate": "When hit: ?%",
     "Effect": "Blocks the damage from the enemy's additional attacks.",
     "Duration": "10 sec.",
   },
