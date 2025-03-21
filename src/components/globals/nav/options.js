@@ -549,6 +549,48 @@ export const optionsMenu = [
                 ]
             },
             {
+                title: "Soul Crystal",
+                subMenu: [
+                    {
+                        title: "Aden's Soul Crystal - Weapon",
+                        url: "./items/soul-crystal/adens-soul-crystal-weapon"
+                    },
+                    {
+                        title: "Aden's Soul Crystal - Armor",
+                        url: "./items/soul-crystal/adens-soul-crystal-armor"
+                    },
+                    {
+                        title: "Hardin's Soul Crystal",
+                        url: "./items/soul-crystal/hardins-soul-crystal"
+                    },
+                    {
+                        title: "Aden's Transcendent Soul Crystal - Weapon",
+                        url: "./items/soul-crystal/adens-transcendent-soul-crystal-weapon"
+                    },
+                    {
+                        title: "Aden's Transcendent Soul Crystal - Armor",
+                        url: "./items/soul-crystal/adens-transcendent-soul-crystal-armor"
+                    },
+                    {
+                        title: "Hardin's Transcendent Soul Crystal",
+                        url: "./items/soul-crystal/hardins-transcendent-soul-crystal"
+                    },
+                ]
+            },
+            {
+                title: "Pattern / Hidden Power",
+                subMenu: [
+                    {
+                        title: "Pattern",
+                        url: "./items/pattern-hidden-power/pattern"
+                    },
+                    {
+                        title: "Hidden Power",
+                        url: "./items/pattern-hidden-power/hidden-power"
+                    }
+                ]
+            },
+            {
                 title: "Pet",
                 subMenu: [
                     {
@@ -563,36 +605,6 @@ export const optionsMenu = [
                         title: "Pet Ring",
                         url: "./items/pet/pet-ring"
                     },
-                ]
-            },
-            {
-                title: "Soul Crystal",
-                subMenu: [
-                    {
-                        title: "Aden's Soul Crystal - Weapon",
-                        url: "./items/other-item/soul-crystal/adens-soul-crystal-weapon"
-                    },
-                    {
-                        title: "Aden's Soul Crystal - Armor",
-                        url: "./items/other-item/soul-crystal/adens-soul-crystal-armor"
-                    },
-                    {
-                        title: "Hardin's Soul Crystal",
-                        url: "./items/other-item/soul-crystal/hardins-soul-crystal"
-                    }
-                ]
-            },
-            {
-                title: "Pattern / Hidden Power",
-                subMenu: [
-                    {
-                        title: "Pattern",
-                        url: "./items/pattern-hidden-power/pattern"
-                    },
-                    {
-                        title: "Hidden Power",
-                        url: "./items/pattern-hidden-power/hidden-power"
-                    }
                 ]
             },
             {

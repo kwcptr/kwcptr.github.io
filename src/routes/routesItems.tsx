@@ -135,6 +135,9 @@
             Sapphire,
             Emerald,
             Aquamarine,
+            AdensTranscendentSoulCrystalWeapon,
+            AdensTranscendentSoulCrystalArmor,
+            HardinsTranscendentSoulCrystal,
   } from "templates";
 
 /* Components */
@@ -286,9 +289,12 @@ const routes =
     <Route path="/items/armor/wild-wind-helmet" element={<Items><WildWindHelmet/></Items>}/>
     {/* Other Items */}
     <Route path="/items/other-item/growth-rune" element={<Items><GrowthRune/></Items>}/>
-    <Route path="/items/other-item/soul-crystal/adens-soul-crystal-armor" element={<Items><AdensSoulCrystalArmor/></Items>}/>
-    <Route path="/items/other-item/soul-crystal/adens-soul-crystal-weapon" element={<Items><AdensSoulCrystalWeapon/></Items>}/>
-    <Route path="/items/other-item/soul-crystal/hardins-soul-crystal" element={<Items><HardinsSoulCrystal/></Items>}/>
+    <Route path="/items/soul-crystal/adens-soul-crystal-armor" element={<Items><AdensSoulCrystalArmor/></Items>}/>
+    <Route path="/items/soul-crystal/adens-soul-crystal-weapon" element={<Items><AdensSoulCrystalWeapon/></Items>}/>
+    <Route path="/items/soul-crystal/hardins-soul-crystal" element={<Items><HardinsSoulCrystal/></Items>}/>
+    <Route path="/items/soul-crystal/adens-transcendent-soul-crystal-weapon" element={<Items><AdensTranscendentSoulCrystalWeapon/></Items>}/>
+    <Route path="/items/soul-crystal/adens-transcendent-soul-crystal-armor" element={<Items><AdensTranscendentSoulCrystalArmor/></Items>}/>
+    <Route path="/items/soul-crystal/hardins-transcendent-soul-crystal" element={<Items><HardinsTranscendentSoulCrystal/></Items>}/>
     {/* Pet */}
     <Route path="/items/pet/pets-pendant" element={<Items><PetsPendant/></Items>}/>
     <Route path="/items/pet/pet-earring" element={<Items><PetEarring/></Items>}/>

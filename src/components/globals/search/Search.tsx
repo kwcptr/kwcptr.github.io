@@ -250,11 +250,11 @@ export const Search = () => {
       case "Tunic of Protection":
         return navigate("./items/armor/armor-of-protection/tunic-of-protection");
       case "Aden's Soul Crystal - Weapon":
-        return navigate("./items/other-item/soul-crystal/adens-soul-crystal-weapon");
+        return navigate("./items/soul-crystal/adens-soul-crystal-weapon");
       case "Aden's Soul Crystal - Armor":
-        return navigate("./items/other-item/soul-crystal/adens-soul-crystal-armor");
+        return navigate("./items/soul-crystal/adens-soul-crystal-armor");
       case "Hardin's Soul Crystal":
-        return navigate("./items/other-item/soul-crystal/hardins-soul-crystal");
+        return navigate("./items/soul-crystal/hardins-soul-crystal");
       case "Growth Rune":
         return navigate("./items/other-item/growth-rune");
       case "Pet's Pendant":

@@ -8,9 +8,13 @@ const Changelog = () => {
       </div>
       <div className="changelog__content">
         <div className="changelog__bubble">
+          <p className="changelog__subtitle">21/03/25</p>
+          <p className="changelog__text">
+            — New items: <a href="/items/soul-crystal/adens-transcendent-soul-crystal-weapon" className="changelog__link">Aden's Transcendent Soul Crystal - Weapon</a>, <a href="/items/soul-crystal/adens-transcendent-soul-crystal-armor" className="changelog__link">Aden's Transcendent Soul Crystal - Armor</a>, <a href="/items/soul-crystal/hardins-transcendent-soul-crystal" className="changelog__link">Hardin's Transcendent Soul Crystal</a>
+          </p>
           <p className="changelog__subtitle">20/03/25</p>
           <p className="changelog__text">
-            — New jewels: <a href="/items/accessory/jewel/ruby" className="changelog__link">Ruby</a>, <a href="/items/accessory/jewel/sapphire" className="changelog__link">Sapphire</a>, <a href="/items/accessory/jewel/emerald" className="changelog__link">Emerald</a>, <a href="/items/accessory/jewel/aquamarine" className="changelog__link">Aquamarine</a>
+            — New items: <a href="/items/accessory/jewel/ruby" className="changelog__link">Ruby</a>, <a href="/items/accessory/jewel/sapphire" className="changelog__link">Sapphire</a>, <a href="/items/accessory/jewel/emerald" className="changelog__link">Emerald</a>, <a href="/items/accessory/jewel/aquamarine" className="changelog__link">Aquamarine</a>
           </p>
           <p className="changelog__subtitle">12/03/25</p>
           <p className="changelog__text">

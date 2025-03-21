@@ -14,54 +14,66 @@
 }
 
 .section__items2 {
-    width: 70vw;
-    margin: 0 auto;
-    margin-top: 120px;
-    padding: 25px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 5px;
-    min-height: max-content;
-    margin-bottom: 120px;
-    display: flex; /* Flexbox for centering */
-    flex-direction: column; /* Ensures content is stacked vertically */
-    align-items: center; /* Horizontally centers the content */
+  width: 80vw;
+  margin: 0 auto;
+  margin-top: 60px;
+  padding: 25px;
+  border-radius: 5px;
+  min-height: max-content;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 
-    .article-table-container {
-      width: 100%; /* Make sure the container takes up the full width */
-      overflow-x: auto; /* Enable horizontal scrolling */
-      margin-top: 20px;
+  .article-table-container {
+      width: 100%; /* Asegurar que el contenedor ocupe todo el ancho disponible */
+      max-width: 80vw; /* Limitar el contenedor al 80% del ancho de la ventana */
+      overflow-x: auto; /* Habilitar desplazamiento horizontal */
+      margin-top: 5px;
       margin-bottom: 20px;
       display: flex;
-      justify-content: center; /* This will center the table horizontally */
-    }
+      justify-content: flex-start; /* Centrar la tabla horizontalmente */
+  }
 
-    .article-table {
-      max-width: max-content; // Adjust this as needed
-      overflow-x: auto; // Enable horizontal scrolling if the table is wider than the container
-      border-collapse: collapse; /* Collapse table borders to eliminate spacing */
-      margin-top: 20px; /* Add space above the table */
-      margin-bottom: 20px; /* Add space below the table */
+  .article-table-container-small {
+    width: 100%; /* Asegurar que el contenedor ocupe todo el ancho disponible */
+    max-width: 80vw; /* Limitar el contenedor al 80% del ancho de la ventana */
+    overflow-x: auto; /* Habilitar desplazamiento horizontal */
+    margin-top: 5px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center; /* Centrar la tabla horizontalmente */
+}
+
+  .article-table {
+      width: max-content; /* Asegura que la tabla ocupe el 100% del contenedor */
+      max-width: 100%; /* Evita que la tabla exceda el ancho del contenedor */
+      overflow-x: auto; /* Habilitar desplazamiento horizontal si es necesario */
+      border-collapse: collapse;
+      margin-top: 20px;
+      margin-bottom: 20px;
       color: white;
-    }
-    
-    .article-table th, .article-table td {
-      border: 1px solid #ccc; /* Add borders to table headers and cells */
-      padding: 8px; /* Add padding inside table cells */
-      text-align: center; /* Align text in cells to the left */
+  }
+  
+  .article-table th, .article-table td {
+      border: 0.1em solid $bg-DColor;
+      padding: 8px;
+      text-align: center;
       vertical-align: middle;
-    }
-    
-    .article-table th {
-      background-color: #60617A; /* Add a background color to table headers */
-    }
+      white-space: nowrap; /* Evitar el ajuste del texto */
+  }
+  
+  .article-table th {
+      background-color: #60617A;
+  }
 
-    .article-table tr {
+  .article-table tr {
       background: #17161C;
-      &:nth-child(2n) {
-          background: #26242E;
-      }
-    }
-    
+  }
+
+  .article-table tr:nth-child(2n) {
+      background: #26242E;
+  }
+  
     .title-text {
       font-weight: 600;
       color: white;
