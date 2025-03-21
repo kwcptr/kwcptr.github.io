@@ -43,22 +43,22 @@ export const Opal = () => {
             <tr>
               <td>Lv. 5</td>
               <td>30%</td>
-              <td><span style={{ color: '#00FF00' }}>&lt;Base effect&gt;</span><br />Paralysis Resistance +15%<br />Shock Resistance +15%<br />Pull Resistance +15%<br />Fear Resistance +15%<br />Silence Resistance +15%<br />Max HP/ MP +100<br /><br /><span style={{ color: '#00FF00' }}>&lt;Active skill&gt;</span><br /><span style={{ color: '#FF8000' }}>Opal - Special Property</span><br />Buff effect: Immune to debuffs/ anomalies.<br />Duration: 10 sec.</td>
+              <td><span style={{ color: '#00FF00' }}>&lt;Base effect&gt;</span><br />Paralysis Resistance +15%<br />Shock Resistance +15%<br />Pull Resistance +15%<br />Fear Resistance +15%<br />Silence Resistance +15%<br />Max HP +100<br />Max MP +100<br />MP Recovery Rate +5<br /><br /><span style={{ color: '#00FF00' }}>&lt;Active skill&gt;</span><br /><span style={{ color: '#FF8000' }}>Opal - Special Property</span><br />Buff effect: Immune to debuffs/ anomalies.<br />Duration: 10 sec.</td>
             </tr>
             <tr>
               <td>Lv. 6</td>
               <td>25%</td>
-              <td><span style={{ color: '#00FF00' }}>&lt;Base effect&gt;</span><br />Paralysis Resistance +20%<br />Shock Resistance +20%<br />Pull Resistance +20%<br />Fear Resistance +20%<br />Silence Resistance +20%<br />Max HP/ MP +200<br /><br /><span style={{ color: '#00FF00' }}>&lt;Active skill&gt;</span><br /><span style={{ color: '#FF8000' }}>Opal - Special Property</span><br />Buff effect: Immune to debuffs/ anomalies.<br />Duration: 15 sec.</td>
+              <td><span style={{ color: '#00FF00' }}>&lt;Base effect&gt;</span><br />Paralysis Resistance +20%<br />Shock Resistance +20%<br />Pull Resistance +20%<br />Fear Resistance +20%<br />Silence Resistance +20%<br />Max HP +200<br />Max MP +200<br />MP Recovery Rate +10<br /><br /><span style={{ color: '#00FF00' }}>&lt;Active skill&gt;</span><br /><span style={{ color: '#FF8000' }}>Opal - Special Property</span><br />Buff effect: Immune to debuffs/ anomalies.<br />Duration: 15 sec.</td>
             </tr>
             <tr>
               <td>Lv. 7</td>
               <td>20%</td>
-              <td><span style={{ color: '#00FF00' }}>&lt;Base effect&gt;</span><br />Paralysis Resistance +25%<br />Shock Resistance +25%<br />Pull Resistance +25%<br />Fear Resistance +25%<br />Silence Resistance +25%<br />Max HP/ MP +300<br /><br /><span style={{ color: '#00FF00' }}>&lt;Active skill&gt;</span><br /><span style={{ color: '#FF8000' }}>Opal - Special Property</span><br />Buff effect: Immune to debuffs/ anomalies.<br />Duration: 20 sec.</td>
+              <td><span style={{ color: '#00FF00' }}>&lt;Base effect&gt;</span><br />Paralysis Resistance +25%<br />Shock Resistance +25%<br />Pull Resistance +25%<br />Fear Resistance +25%<br />Silence Resistance +25%<br />Max HP +300<br />Max MP +300<br />MP Recovery Rate +20<br /><br /><span style={{ color: '#00FF00' }}>&lt;Active skill&gt;</span><br /><span style={{ color: '#FF8000' }}>Opal - Special Property</span><br />Buff effect: Immune to debuffs/ anomalies.<br />Duration: 20 sec.</td>
             </tr>
             <tr>
               <td>Lv. 8</td>
               <td>15%</td>
-              <td><span style={{ color: '#00FF00' }}>&lt;Base effect&gt;</span><br />Paralysis Resistance +30%<br />Shock Resistance +30%<br />Pull Resistance +30%<br />Fear Resistance +30%<br />Silence Resistance +30%<br />Max HP/ MP +500<br /><br /><span style={{ color: '#00FF00' }}>&lt;Active skill&gt;</span><br /><span style={{ color: '#FF8000' }}>Opal - Special Property</span><br />Buff effect: Immune to debuffs/ anomalies.<br />Duration: 25 sec.</td>
+              <td><span style={{ color: '#00FF00' }}>&lt;Base effect&gt;</span><br />Paralysis Resistance +30%<br />Shock Resistance +30%<br />Pull Resistance +30%<br />Fear Resistance +30%<br />Silence Resistance +30%<br />Max HP +500<br />Max MP +500<br />MP Recovery Rate +30<br /><br /><span style={{ color: '#00FF00' }}>&lt;Active skill&gt;</span><br /><span style={{ color: '#FF8000' }}>Opal - Special Property</span><br />Buff effect: Immune to debuffs/ anomalies.<br />Duration: 25 sec.</td>
             </tr>
           </tbody>
         </table>
