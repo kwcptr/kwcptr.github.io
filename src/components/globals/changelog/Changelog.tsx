@@ -8,6 +8,10 @@ const Changelog = () => {
       </div>
       <div className="changelog__content">
         <div className="changelog__bubble">
+          <p className="changelog__subtitle">28/03/25</p>
+          <p className="changelog__text">
+            — New items: <a href="/items/armor/red-flame-gauntlets" className="changelog__link">Red Flame Gauntlets</a>, <a href="/items/armor/deep-sea-boots" className="changelog__link">Deep Sea Boots</a>
+          </p>
           <p className="changelog__subtitle">27/03/25</p>
           <p className="changelog__text">
             — Updated item: <a href="/items/armor/cloak/heavenly-cloak" className="changelog__link">Heavenly Cloak</a>

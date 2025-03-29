@@ -129,6 +129,36 @@ export const optionsMenu = [
                 title: "Armor",
                 subMenu: [
                     {
+                        title: "Belt",
+                        subMenu: [
+                            {
+                                title: "Dragon Belt",
+                                url: "./items/armor/belt/dragon-belt"
+                            },
+                            {
+                                title: "Blessed Dragon Belt",
+                                url: "./items/armor/belt/blessed-dragon-belt"
+                            }
+                        ]
+                    },
+                    {
+                        title: "Cloak",
+                        subMenu: [
+                            {
+                                title: "Cloak of Protection",
+                                url: "./items/armor/cloak/cloak-of-protection"
+                            },
+                            {
+                                title: "Heavenly Cloak",
+                                url: "./items/armor/cloak/heavenly-cloak"
+                            },
+                            {
+                                title: "Aden Cloak",
+                                url: "./items/armor/cloak/aden-cloak"
+                            }
+                        ]
+                    },
+                    {
                         title: "Special Armor",
                         subMenu: [
                             {
@@ -231,46 +261,24 @@ export const optionsMenu = [
                         ]
                     },
                     {
-                        title: "Belt",
-                        subMenu: [
-                            {
-                                title: "Dragon Belt",
-                                url: "./items/armor/belt/dragon-belt"
-                            },
-                            {
-                                title: "Blessed Dragon Belt",
-                                url: "./items/armor/belt/blessed-dragon-belt"
-                            }
-                        ]
-                    },
-                    {
-                        title: "Cloak",
-                        subMenu: [
-                            {
-                                title: "Cloak of Protection",
-                                url: "./items/armor/cloak/cloak-of-protection"
-                            },
-                            {
-                                title: "Heavenly Cloak",
-                                url: "./items/armor/cloak/heavenly-cloak"
-                            },
-                            {
-                                title: "Aden Cloak",
-                                url: "./items/armor/cloak/aden-cloak"
-                            }
-                        ]
-                    },
-                    {
-                        title: "Wild Wind Helmet",
-                        url: "./items/armor/wild-wind-helmet"
+                        title: "Berserker's Sigil",
+                        url: "./items/armor/berserkers-sigil"
                     },
                     {
                         title: "Berserker's Shield",
                         url: "./items/armor/berserkers-shield"
                     },
                     {
-                        title: "Berserker's Sigil",
-                        url: "./items/armor/berserkers-sigil"
+                        title: "Wild Wind Helmet",
+                        url: "./items/armor/wild-wind-helmet"
+                    },
+                    {
+                        title: "Red Flame Gauntlets",
+                        url: "./items/armor/red-flame-gauntlets"
+                    },
+                    {
+                        title: "Deep Sea Boots",
+                        url: "./items/armor/deep-sea-boots"
                     },
                 ]
             },

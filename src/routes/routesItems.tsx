@@ -138,6 +138,8 @@
             AdensTranscendentSoulCrystalWeapon,
             AdensTranscendentSoulCrystalArmor,
             HardinsTranscendentSoulCrystal,
+            RedFlameGauntlets,
+            DeepSeaBoots,
   } from "templates";
 
 /* Components */
@@ -287,6 +289,8 @@ const routes =
     <Route path="/items/armor/berserkers-sigil" element={<Items><BerserkersSigil/></Items>}/>
     <Route path="/items/armor/berserkers-shield" element={<Items><BerserkersShield/></Items>}/>
     <Route path="/items/armor/wild-wind-helmet" element={<Items><WildWindHelmet/></Items>}/>
+    <Route path="/items/armor/red-flame-gauntlets" element={<Items><RedFlameGauntlets/></Items>}/>
+    <Route path="/items/armor/deep-sea-boots" element={<Items><DeepSeaBoots/></Items>}/>
     {/* Other Items */}
     <Route path="/items/other-item/growth-rune" element={<Items><GrowthRune/></Items>}/>
     <Route path="/items/soul-crystal/adens-soul-crystal-armor" element={<Items><AdensSoulCrystalArmor/></Items>}/>
