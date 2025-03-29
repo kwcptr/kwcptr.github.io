@@ -1,10 +1,15 @@
 import ReactGA from "react-ga4";
+import { PageTitle } from 'components/globals/pagetitle/PageTitle';  // Importa tu componente de título global
 
 export const Article4 = () => {
 
   ReactGA.send("pageviewarticle3");
 
   return (
+    <>
+    {/* Agrega el componente PageTitle para establecer el título por defecto */}
+    <PageTitle title="New Race: High Elves"/>
+
     <div className="news-article">
       <header className="article-header">
         <h1 className="article-title">New Race: High Elves</h1>
@@ -121,5 +126,6 @@ export const Article4 = () => {
         *Skills effects are subject to potential changes in future updates.
       </div>
     </div>
+    </>
   );
 };

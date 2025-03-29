@@ -8,6 +8,7 @@
 /* Globals */
     export * from './globals/table';
     export * from './globals/title';
+    export * from './globals/pagetitle';
     export * from './globals/nav';
     export * from './globals/search';
     export * from './globals/modals';
