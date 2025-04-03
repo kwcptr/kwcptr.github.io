@@ -194,7 +194,7 @@ export const HeavenlyCloak = () => {
                 Buff effect: When hit, Damage from skills with 2+ attacks -5%<br />
                 Trigger rate: 1%<br />
                 Duration: 5 sec.<br />
-                Trigger cooldown: 600 sec.
+                Trigger cooldown: 60 sec.
               </td>
               <td>
                 <video src="https://vod.plaync.com/lineage2/update/250321/item_01.webm" playsInline autoPlay loop muted className="kit-webm__screen"></video>
@@ -230,7 +230,7 @@ export const HeavenlyCloak = () => {
                 Buff effect: When hit, Damage from skills with 2+ attacks -10%<br />
                 Trigger rate: 2%<br />
                 Duration: 5 sec.<br />
-                Trigger cooldown: 600 sec.
+                Trigger cooldown: 60 sec.
               </td>
               <td>
                 <video src="https://vod.plaync.com/lineage2/update/250321/item_02.webm" playsInline autoPlay loop muted className="kit-webm__screen"></video>
@@ -266,7 +266,7 @@ export const HeavenlyCloak = () => {
                 Buff effect: When hit, Damage from skills with 2+ attacks -15%<br />
                 Trigger rate: 3%<br />
                 Duration: 5 sec.<br />
-                Trigger cooldown: 600 sec.
+                Trigger cooldown: 60 sec.
               </td>
               <td>
                 <video src="https://vod.plaync.com/lineage2/update/250321/item_03.webm" playsInline autoPlay loop muted className="kit-webm__screen"></video>
@@ -302,7 +302,7 @@ export const HeavenlyCloak = () => {
                 Buff effect: When hit, Damage from skills with 2+ attacks -20%<br />
                 Trigger rate: 5%<br />
                 Duration: 5 sec.<br />
-                Trigger cooldown: 600 sec.
+                Trigger cooldown: 60 sec.
               </td>
               <td>
                 <video src="https://vod.plaync.com/lineage2/update/250321/item_04.webm" playsInline autoPlay loop muted className="kit-webm__screen"></video>
